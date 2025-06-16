@@ -1,0 +1,10 @@
+{
+  "# Vietnamese": {
+    "1": {"name": "Cô Gái Hoạt Ngôn", "id": "BV074_streaming", "resource_id": "7102355709945185185"},
+    "2": {"name": "Thanh Niên Tự Tin", "id": "BV075_streaming", "resource_id": "7102355803792743321"},
+    "3": {"name": "Giọng Nữ Phổ Thông", "id": "vi_female_huong", "resource_id": "7264859217953083905"},
+    "4": {"name": "Nguồn Nhỏ Ngọt Ngào", "id": "BV421_vivn_streaming", "resource_id": "7252594014782755330"},
+    "5": {"name": "Anh Dũng", "id": "BV560_streaming", "resource_id": "7483736167565758992"},
+    "6": {"name": "Chí Mai", "id": "BV562_streaming", "resource_id": "7483736254694035984"}
+  }
+}
