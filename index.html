@@ -662,7 +662,7 @@ label[for="voice-select"] {
   </div>
   <div class="input-container">
     <a href="#" onclick="selectFile('folder')">CHỌN THƯ MỤC TÀI NGUYÊN</a>
-    <input type="text" id="folder-path" class="path-input" readonly value="$default_folder">
+    <input type="text" id="folder-path" class="path-input" readonly>
   </div>
   <div class="input-container">
     <a href="#" onclick="selectFile('project')">CHỌN DỰ ÁN</a>
@@ -737,7 +737,7 @@ label[for="voice-select"] {
       <input type="checkbox" id="reflection-mask-toggle-switch" checked>
       <span class="slider"></span>
     </label>
-    <span class="toggle-label" id="text-effect-toggle-status">True</span>
+    <span class="toggle-label" id="reflection-mask-toggle-status">True</span>
   </div>
   <div class="ffprobe-container">
     <div class="ffprobe-status on">FFprobe On</div>
@@ -757,6 +757,19 @@ function selectFile(fileType) {
     if (path) document.getElementById(fileType + '-path').value = path;
   }).catch(err => console.error('Error selecting file:', err));
 }
+
+function setDefaultPaths(defaultPaths) {
+  if (defaultPaths && defaultPaths['folder']) {
+    document.getElementById('folder-path').value = defaultPaths['folder'];
+  }
+}
+
+window.addEventListener('load', () => {
+  window.pywebview.api.get_default_paths().then(defaultPaths => {
+    setDefaultPaths(defaultPaths);
+  }).catch(err => console.error('Error getting default paths:', err));
+});
+
 const speedSlider = document.getElementById('speed-slider');
 const speedValue = document.getElementById('speed-value');
 const toggleSwitch = document.getElementById('toggle-switch');
@@ -767,21 +780,27 @@ const textEffectToggleSwitch = document.getElementById('text-effect-toggle-switc
 const textEffectToggleStatus = document.getElementById('text-effect-toggle-status');
 const reflectionMaskToggleSwitch = document.getElementById('reflection-mask-toggle-switch');
 const reflectionMaskToggleStatus = document.getElementById('reflection-mask-toggle-status');
+
 speedSlider.addEventListener('input', () => {
   speedValue.textContent = parseFloat(speedSlider.value).toFixed(1) + 'x';
 });
+
 toggleSwitch.addEventListener('change', () => {
   toggleStatus.textContent = toggleSwitch.checked ? 'True' : 'False';
 });
+
 lightToggleSwitch.addEventListener('change', () => {
   lightToggleStatus.textContent = lightToggleSwitch.checked ? 'True' : 'False';
 });
+
 textEffectToggleSwitch.addEventListener('change', () => {
   textEffectToggleStatus.textContent = textEffectToggleSwitch.checked ? 'True' : 'False';
 });
+
 reflectionMaskToggleSwitch.addEventListener('change', () => {
   reflectionMaskToggleStatus.textContent = reflectionMaskToggleSwitch.checked ? 'True' : 'False';
 });
+
 document.querySelectorAll('.confetti-button').forEach(button => button.addEventListener('click', (e) => {
   e.preventDefault();
   ['top', 'bottom', 'left', 'right'].forEach(pos => {
@@ -793,6 +812,7 @@ document.querySelectorAll('.confetti-button').forEach(button => button.addEventL
   const fill = document.querySelector('#fill');
   fill.style.animation = 'grow 2s forwards';
 }));
+
 const voiceSelect = document.getElementById('voice-select');
 const voiceText = voiceSelect.querySelector('.voice-text');
 const voiceOptions = document.getElementById('voice-options');
