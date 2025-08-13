@@ -662,6 +662,782 @@ label[for="voice-select"] {
   </div>
   <div class="input-container">
     <a href="#" onclick="selectFile('folder')">CHỌN THƯ MỤC TÀI NGUYÊN</a>
+    <input type="text" id="folder-path" class="path-input" readonly>
+  </div>
+  <div class="input-container">
+    <a href="#" onclick="selectFile('project')">CHỌN DỰ ÁN</a>
+    <input type="text" id="project-path" class="path-input" readonly>
+  </div>
+  <div class="input-container" style="flex-direction:column;align-items:flex-start;margin-top:20px;">
+    <label for="voice-select">Giọng nói:</label>
+    <div class="voice-select-container">
+      <div id="voice-select">
+        <span class="voice-text">Cô gái hạt ngôn</span>
+        <span class="arrow-icon">▲</span>
+      </div>
+      <div class="voice-options" id="voice-options">
+        <div data-value="BV074_streaming">Cô gái hoạt ngôn</div>
+        <div data-value="BV075_streaming">Thanh niên tự tin</div>
+        <div data-value="vi_female_huong">Giọng nữ phổ thông</div>
+        <div data-value="BV421_vivn_streaming">Nguồn nhỏ ngọt ngào</div>
+        <div data-value="BV560_streaming">Anh Dũng</div>
+        <div data-value="BV562_streaming">Chí Mai</div>
+      </div>
+    </div>
+  </div>
+  <div class="input-container" style="flex-direction:column;align-items:flex-start;margin-top:20px;">
+    <label for="speed-slider">Tốc Độ: <span id="speed-value">1.2x</span></label>
+    <input type="range" id="speed-slider" min="0.1" max="5" step="0.1" value="1.2">
+  </div>
+  <div style="height:20px;"></div>
+  <div class="input-container" style="align-items:center;gap:0px;flex-direction:row;">
+    <button class="confetti-button">
+      <span>START</span>
+      <div class="confetti confetti-top"></div>
+      <div class="confetti confetti-bottom"></div>
+      <div class="confetti confetti-left"></div>
+      <div class="confetti confetti-right"></div>
+    </button>
+  </div>
+  <div class="progress-container">
+    <input type="checkbox" id="water"/>
+    <label for="water"><div id="fill"></div></label>
+    <span id="progress">0/0</span>
+  </div>
+</div>
+<img src="https://raw.githubusercontent.com/pangu24/lll/main/logo.png" class="logo">
+<div class="toggle-container">
+  <div style="display:flex;align-items:center;gap:10px;">
+    <label class="toggle-label" for="toggle-switch">Độ cao:</label>
+    <label class="toggle-switch">
+      <input type="checkbox" id="toggle-switch" checked>
+      <span class="slider"></span>
+    </label>
+    <span class="toggle-label" id="toggle-status">True</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;">
+    <label class="toggle-label" for="light-toggle-switch">Ánh sáng:</label>
+    <label class="toggle-switch">
+      <input type="checkbox" id="light-toggle-switch" checked>
+      <span class="slider"></span>
+    </label>
+    <span class="toggle-label" id="light-toggle-status">True</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;">
+    <label class="toggle-label" for="text-effect-toggle-switch">Hiệu ứng chữ:</label>
+    <label class="toggle-switch">
+      <input type="checkbox" id="text-effect-toggle-switch" checked>
+      <span class="slider"></span>
+    </label>
+    <span class="toggle-label" id="text-effect-toggle-status">True</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;">
+    <label class="toggle-label" for="reflection-mask-toggle-switch">Mặt nạ phản chiếu:</label>
+    <label class="toggle-switch">
+      <input type="checkbox" id="reflection-mask-toggle-switch" checked>
+      <span class="slider"></span>
+    </label>
+    <span class="toggle-label" id="reflection-mask-toggle-status">True</span>
+  </div>
+  <div class="ffprobe-container">
+    <div class="ffprobe-status on">FFprobe On</div>
+  </div>
+  <div class="copyright-container">
+    <div class="copyright-label">Bản quyền:</div>
+    <input type="text" id="copyright-input" value="©Khủng Bố Tu Tiên">
+  </div>
+</div>
+<div class="log-container">
+  <label class="log-label">LOG:</label>
+  <div id="log-output"></div>
+</div>
+<script>
+function selectFile(fileType) {
+  window.pywebview.api.select_file(fileType).then(path => {
+    if (path) document.getElementById(fileType + '-path').value = path;
+  }).catch(err => console.error('Error selecting file:', err));
+}
+
+const speedSlider = document.getElementById('speed-slider');
+const speedValue = document.getElementById('speed-value');
+const toggleSwitch = document.getElementById('toggle-switch');
+const toggleStatus = document.getElementById('toggle-status');
+const lightToggleSwitch = document.getElementById('light-toggle-switch');
+const lightToggleStatus = document.getElementById('light-toggle-status');
+const textEffectToggleSwitch = document.getElementById('text-effect-toggle-switch');
+const textEffectToggleStatus = document.getElementById('text-effect-toggle-status');
+const reflectionMaskToggleSwitch = document.getElementById('reflection-mask-toggle-switch');
+const reflectionMaskToggleStatus = document.getElementById('reflection-mask-toggle-status');
+
+speedSlider.addEventListener('input', () => {
+  speedValue.textContent = parseFloat(speedSlider.value).toFixed(1) + 'x';
+});
+toggleSwitch.addEventListener('change', () => {
+  toggleStatus.textContent = toggleSwitch.checked ? 'True' : 'False';
+});
+lightToggleSwitch.addEventListener('change', () => {
+  lightToggleStatus.textContent = lightToggleSwitch.checked ? 'True' : 'False';
+});
+textEffectToggleSwitch.addEventListener('change', () => {
+  textEffectToggleStatus.textContent = textEffectToggleSwitch.checked ? 'True' : 'False';
+});
+reflectionMaskToggleSwitch.addEventListener('change', () => {
+  reflectionMaskToggleStatus.textContent = reflectionMaskToggleSwitch.checked ? 'True' : 'False';
+});
+
+document.querySelectorAll('.confetti-button').forEach(button => button.addEventListener('click', (e) => {
+  e.preventDefault();
+  ['top', 'bottom', 'left', 'right'].forEach(pos => {
+    const confetti = button.querySelector(`.confetti-${pos}`).cloneNode(true);
+    confetti.classList.add('animate');
+    button.appendChild(confetti);
+    setTimeout(() => confetti.remove(), 750);
+  });
+  const fill = document.querySelector('#fill');
+  fill.style.animation = 'grow 2s forwards';
+}));
+
+const voiceSelect = document.getElementById('voice-select');
+const voiceText = voiceSelect.querySelector('.voice-text');
+const voiceOptions = document.getElementById('voice-options');
+const options = voiceOptions.querySelectorAll('div');
+options.forEach(option => {
+  option.addEventListener('mouseenter', () => {
+    voiceText.textContent = option.textContent;
+    voiceSelect.dataset.value = option.dataset.value;
+    voiceText.classList.add('vibrate');
+  });
+  option.addEventListener('mouseleave', () => {
+    voiceText.classList.remove('vibrate');
+  });
+  option.addEventListener('click', () => {
+    voiceText.textContent = option.textContent;
+    voiceSelect.dataset.value = option.dataset.value;
+    voiceOptions.style.maxHeight = '0';
+    voiceOptions.style.opacity = '0';
+    voiceOptions.style.boxShadow = 'none';
+    setTimeout(() => {
+      voiceOptions.style.maxHeight = '';
+      voiceOptions.style.opacity = '';
+      voiceOptions.style.boxShadow = '';
+    }, 500);
+  });
+});
+
+// Thêm logic nhận giá trị mặc định từ Python
+function setDefaultPaths(defaultPaths) {
+  if (defaultPaths && defaultPaths['folder']) {
+    document.getElementById('folder-path').value = defaultPaths['folder'];
+  }
+  if (defaultPaths && defaultPaths['project']) {
+    document.getElementById('project-path').value = defaultPaths['project'];
+  }
+}
+
+window.addEventListener('load', () => {
+  window.pywebview.api.get_default_paths().then(defaultPaths => {
+    setDefaultPaths(defaultPaths);
+  }).catch(err => console.error('Error getting default paths:', err));
+});
+</script>
+</body>
+</html>  z-index: 1;
+  overflow: hidden;
+  transition: color 1s, box-shadow 1s;
+  background: transparent;
+  cursor: pointer;
+}
+a:hover {
+  transition-delay: 0s, 1s;
+  color: #fff;
+  box-shadow: 0 0 10px #0ef, 0 0 20px #0ef, 0 0 40px #0ef, 0 0 80px #0ef, 0 0 160px #0ef;
+}
+a::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -50px;
+  width: 0;
+  height: 100%;
+  background: #0ef;
+  transform: skewX(35deg);
+  z-index: -1;
+  transition: 1s;
+}
+a:hover:before {
+  width: 100%;
+}
+.confetti-button {
+  font-family: 'Bangers', cursive;
+  display: inline-block;
+  font-size: 1.5em;
+  padding: 1em 2em;
+  margin-top: -10px;
+  transform: scale(0.5);
+  transform-origin: top left;
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: #ff0000;
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  transition: transform ease-in 0.1s, box-shadow ease-in 0.25s;
+  box-shadow: 0 2px 25px rgba(255, 0, 0, 0.5);
+  margin-right: -5px;
+}
+.confetti-button:focus {
+  outline: 0;
+}
+.confetti-button .confetti {
+  position: absolute;
+  content: '';
+  display: block;
+  background-repeat: no-repeat;
+}
+.confetti-button .confetti-top,
+.confetti-button .confetti-bottom,
+.confetti-button .confetti-left,
+.confetti-button .confetti-right {
+  display: none;
+  width: 160%;
+  height: 120%;
+  z-index: -1000;
+}
+.confetti-button .confetti-top {
+  top: -100%;
+  left: -30%;
+  background-image: radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, transparent 20%, #ff6666 20%, transparent 30%), radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff4d4d 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff0000 15%, transparent 20%), radial-gradient(circle, #ff1a1a 20%, transparent 20%), radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%), radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff4d4d 15%, transparent 20%), radial-gradient(circle, #ff1a1a 20%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%), radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff4d4d 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff1a1a 15%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%);
+  background-size: 8% 8%, 15% 15%, 12% 12%, 18% 18%, 10% 10%, 15% 15%, 9% 9%, 12% 12%, 10% 10%, 14% 14%, 11% 11%, 13% 13%, 9% 9%, 10% 10%, 12% 12%, 8% 8%, 11% 11%, 14% 14%, 10% 10%, 13% 13%;
+}
+.confetti-button .confetti-bottom {
+  bottom: -100%;
+  left: -30%;
+  background-image: radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff6666 15%, transparent 20%), radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff4d4d 20%, transparent 20%), radial-gradient(circle, #ff1a1a 20%, transparent 20%), radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%), radial-gradient(circle, #ff4d4d 20%, transparent 20%), radial-gradient(circle, #ff1a1a 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff0000 15%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%), radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff4d4d 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff1a1a 15%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%), radial-gradient(circle, #ff0000 20%, transparent 20%);
+  background-size: 12% 12%, 18% 18%, 15% 15%, 20% 20%, 13% 13%, 10% 10%, 14% 14%, 11% 11%, 16% 16%, 9% 9%, 12% 12%, 10% 10%, 13% 13%, 15% 15%, 11% 11%, 14% 14%, 9% 9%, 12% 12%, 10% 10%, 13% 13%;
+}
+.confetti-button .confetti-left {
+  left: -100%;
+  width: 120%;
+  height: 160%;
+  top: -30%;
+  background-image: radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, transparent 20%, #ff6666 20%, transparent 30%), radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff4d4d 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff0000 15%, transparent 20%), radial-gradient(circle, #ff1a1a 20%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%), radial-gradient(circle, #ff4d4d 20%, transparent 20%), radial-gradient(circle, #ff1a1a 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff0000 15%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%), radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff4d4d 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff1a1a 15%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%), radial-gradient(circle, #ff0000 20%, transparent 20%);
+  background-size: 10% 10%, 14% 14%, 12% 12%, 16% 16%, 11% 11%, 13% 13%, 9% 9%, 15% 15%, 10% 10%, 12% 12%, 11% 11%, 13% 13%, 9% 9%, 14% 14%, 10% 10%, 12% 12%, 11% 11%, 15% 15%, 10% 10%, 13% 13%;
+}
+.confetti-button .confetti-right {
+  right: -100%;
+  width: 120%;
+  height: 160%;
+  top: -30%;
+  background-image: radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, transparent 20%, #ff6666 20%, transparent 30%), radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff4d4d 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff0000 15%, transparent 20%), radial-gradient(circle, #ff1a1a 20%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%), radial-gradient(circle, #ff4d4d 20%, transparent 20%), radial-gradient(circle, #ff1a1a 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff0000 15%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%), radial-gradient(circle, #ff0000 20%, transparent 20%), radial-gradient(circle, #ff4d4d 20%, transparent 20%), radial-gradient(circle, transparent 10%, #ff1a1a 15%, transparent 20%), radial-gradient(circle, #ff3333 20%, transparent 20%), radial-gradient(circle, #ff6666 20%, transparent 20%), radial-gradient(circle, #ff0000 20%, transparent 20%);
+  background-size: 10% 10%, 14% 14%, 12% 12%, 16% 16%, 11% 11%, 13% 13%, 9% 9%, 15% 15%, 10% 10%, 12% 12%, 11% 11%, 13% 13%, 9% 9%, 14% 14%, 10% 10%, 12% 12%, 11% 11%, 15% 15%, 10% 10%, 13% 13%;
+}
+.confetti-button:active {
+  transform: scale(0.45);
+  background-color: #cc0000;
+  box-shadow: 0 2px 25px rgba(255, 0, 0, 0.2);
+}
+.confetti-button .confetti-top.animate {
+  display: block;
+  animation: topBubbles 0.75s ease-in-out forwards, explode 0.75s ease-in-out forwards;
+}
+.confetti-button .confetti-bottom.animate {
+  display: block;
+  animation: bottomBubbles 0.75s ease-in-out forwards, explode 0.75s ease-in-out forwards;
+}
+.confetti-button .confetti-left.animate {
+  display: block;
+  animation: leftBubbles 0.75s ease-in-out forwards, explode 0.75s ease-in-out forwards;
+}
+.confetti-button .confetti-right.animate {
+  display: block;
+  animation: rightBubbles 0.75s ease-in-out forwards, explode 0.75s ease-in-out forwards;
+}
+@keyframes topBubbles {
+  0% {
+    background-position: 5% 90%, 10% 90%, 10% 90%, 15% 90%, 25% 90%, 25% 90%, 40% 50%, 55% 90%, 70% 90%, 60% 90%, 45% 90%, 50% 90%, 35% 90%, 65% 90%, 30% 90%, 75% 90%, 20% 90%, 80% 90%, 15% 90%, 85% 90%;
+  }
+  50% {
+    background-position: 0% 80%, 0% 20%, 10% 40%, 20% 0%, 30% 30%, 22% 50%, 50% 50%, 65% 20%, 90% 30%, 75% 40%, 55% 60%, 40% 20%, 30% 10%, 80% 15%, 25% 25%, 70% 35%, 15% 45%, 85% 5%, 10% 55%, 60% 65%;
+  }
+  100% {
+    background-position: 0% 70%, 0% 10%, 10% 30%, 20% -10%, 30% 20%, 22% 40%, 50% 40%, 65% 10%, 90% 20%, 75% 30%, 55% 50%, 40% 10%, 30% 0%, 80% 5%, 25% 15%, 70% 25%, 15% 35%, 85% -5%, 10% 45%, 60% 55%;
+    background-size: 0% 0%;
+  }
+}
+@keyframes bottomBubbles {
+  0% {
+    background-position: 10% -10%, 30% 10%, 55% -10%, 70% -10%, 85% -10%, 70% -10%, 60% 0%, 45% -10%, 50% 0%, 65% -10%, 40% 0%, 35% -10%, 75% 0%, 20% -10%, 80% 0%, 15% -10%, 85% -10%, 25% 0%, 65% -10%, 55% 0%;
+  }
+  50% {
+    background-position: 0% 80%, 20% 80%, 45% 60%, 60% 100%, 75% 70%, 95% 60%, 105% 0%, 80% 50%, 90% 40%, 70% 20%, 50% 30%, 30% 10%, 85% 20%, 25% 40%, 65% 50%, 15% 60%, 75% 70%, 35% 80%, 55% 90%, 45% 100%;
+  }
+  100% {
+    background-position: 0% 90%, 20% 90%, 45% 70%, 60% 110%, 75% 80%, 95% 70%, 110% 10%, 80% 60%, 90% 50%, 70% 30%, 50% 40%, 30% 20%, 85% 30%, 25% 50%, 65% 60%, 15% 70%, 75% 80%, 35% 90%, 55% 100%, 45% 110%;
+    background-size: 0% 0%;
+  }
+}
+@keyframes leftBubbles {
+  0% {
+    background-position: 90% 5%, 90% 10%, 90% 15%, 90% 20%, 90% 25%, 90% 30%, 90% 40%, 90% 55%, 90% 60%, 90% 45%, 90% 35%, 90% 50%, 90% 65%, 90% 70%, 90% 75%, 90% 80%, 90% 85%, 90% 90%, 90% 95%, 90% 100%;
+  }
+  50% {
+    background-position: 80% 0%, 60% 5%, 40% 10%, 20% 15%, 0% 20%, 10% 25%, 30% 30%, 50% 35%, 70% 40%, 60% 45%, 55% 50%, 45% 55%, 35% 60%, 25% 65%, 15% 70%, 5% 75%, 0% 80%, 10% 85%, 20% 90%, 30% 95%;
+  }
+  100% {
+    background-position: 70% 0%, 50% 5%, 30% 10%, 10% 15%, -10% 20%, 0% 25%, 20% 30%, 40% 35%, 60% 40%, 50% 45%, 45% 50%, 35% 55%, 25% 60%, 15% 65%, 5% 70%, -5% 75%, -10% 80%, 0% 85%, 10% 90%, 20% 95%;
+    background-size: 0% 0%;
+  }
+}
+@keyframes rightBubbles {
+  0% {
+    background-position: 10% 5%, 10% 10%, 10% 15%, 10% 20%, 10% 25%, 10% 30%, 10% 40%, 10% 55%, 10% 60%, 10% 45%, 10% 35%, 10% 50%, 10% 65%, 10% 70%, 10% 75%, 10% 80%, 10% 85%, 10% 90%, 10% 95%, 10% 100%;
+  }
+  50% {
+    background-position: 20% 0%, 40% 5%, 60% 10%, 80% 15%, 100% 20%, 90% 25%, 70% 30%, 50% 35%, 30% 40%, 40% 45%, 45% 50%, 55% 55%, 65% 60%, 75% 65%, 85% 70%, 95% 75%, 100% 80%, 90% 85%, 80% 90%, 70% 95%;
+  }
+  100% {
+    background-position: 30% 0%, 50% 5%, 70% 10%, 90% 15%, 110% 20%, 100% 25%, 80% 30%, 60% 35%, 40% 40%, 50% 45%, 55% 50%, 65% 55%, 75% 60%, 85% 65%, 95% 70%, 105% 75%, 110% 80%, 100% 85%, 90% 90%, 80% 95%;
+    background-size: 0% 0%;
+  }
+}
+@keyframes explode {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.5);
+    opacity: 0.7;
+  }
+  100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+.path-input {
+  width: 400px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 14px;
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+}
+#speed-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 300px;
+  height: 10px;
+  background: linear-gradient(90deg, #ff0, #ffd700);
+  border-radius: 5px;
+  outline: none;
+  box-shadow: 0 0 10px #ff0, 0 0 20px #ff0;
+}
+#speed-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  background: #00ff00;
+  border: 2px solid #00ff00;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+  transition: box-shadow 0.3s ease;
+}
+#speed-slider::-webkit-slider-thumb:hover {
+  box-shadow: 0 0 15px #00cc00, 0 0 25px #00cc00;
+}
+#speed-slider:hover {
+  box-shadow: 0 0 15px #ff0, 0 0 25px #ff0;
+}
+label[for="speed-slider"] {
+  font-size: 16px;
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  margin-bottom: 5px;
+}
+#speed-value {
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  transition: transform 0.2s ease;
+}
+#speed-slider:active + #speed-value,
+#speed-slider:hover + #speed-value {
+  transform: scale(1.1);
+  color: #00ff00;
+}
+.toggle-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+  margin: 20px 20px 0 0;
+  align-self: flex-end;
+}
+.toggle-switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+.toggle-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: 0.4s;
+  border-radius: 34px;
+}
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 50%;
+}
+input:checked + .slider {
+  background-color: #00ff00;
+  box-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+  animation: neonToggleTrue 2s ease-in-out infinite alternate;
+}
+input:checked + .slider:before {
+  transform: translateX(26px);
+  box-shadow: 0 0 10px #00ff00;
+  animation: neonThumbTrue 2s ease-in-out infinite alternate;
+}
+input:not(:checked) + .slider {
+  background-color: #ff0000;
+  box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
+  animation: neonToggleFalse 2s ease-in-out infinite alternate;
+}
+input:not(:checked) + .slider:before {
+  box-shadow: 0 0 10px #ff0000;
+  animation: neonThumbFalse 2s ease-in-out infinite alternate;
+}
+@keyframes neonToggleTrue {
+  0% {
+    background-color: #00ff00;
+    box-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+  }
+  100% {
+    background-color: #00cc00;
+    box-shadow: 0 0 15px #00cc00, 0 0 25px #00cc00;
+  }
+}
+@keyframes neonThumbTrue {
+  0% {
+    box-shadow: 0 0 10px #00ff00;
+  }
+  100% {
+    box-shadow: 0 0 15px #00cc00;
+  }
+}
+@keyframes neonToggleFalse {
+  0% {
+    background-color: #ff0000;
+    box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
+  }
+  100% {
+    background-color: #cc0000;
+    box-shadow: 0 0 15px #cc0000, 0 0 25px #cc0000;
+  }
+}
+@keyframes neonThumbFalse {
+  0% {
+    box-shadow: 0 0 10px #ff0000;
+  }
+  100% {
+    box-shadow: 0 0 15px #cc0000;
+  }
+}
+.toggle-label {
+  font-size: 16px;
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+.log-container {
+  position: absolute;
+  bottom: 20px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.log-label {
+  font-size: 16px;
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+#log-output {
+  width: 510px;
+  height: 250px;
+  overflow-y: scroll;
+  white-space: pre-wrap;
+  padding: 10px;
+  font-family: monospace;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  user-select: text;
+  color: #000000;
+  background: #ffffff;
+}
+#log-output::-webkit-scrollbar {
+  width: 14px;
+  background: #e0e0e0;
+  border-radius: 0;
+}
+#log-output::-webkit-scrollbar-thumb {
+  background: #b0b0b0;
+  border-radius: 0;
+  border: 2px solid #e0e0e0;
+}
+#log-output::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+#log-output::-webkit-scrollbar-track {
+  background: #e0e0e0;
+  border-radius: 0;
+}
+.copyright-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.copyright-label {
+  font-size: 14px;
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+#copyright-input {
+  width: 200px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 14px;
+  font-family: 'Bangers', cursive;
+  background: linear-gradient(45deg, #ff0000, #ff8000, #ffff00, #80ff00, #00ff00, #00ff80, #00ffff, #0080ff, #0000ff, #8000ff, #ff00ff, #ff0080, #ff0000, #ff8000, #ffff00, #80ff00, #00ff00, #00ff80, #00ffff, #0080ff);
+  background-size: 400% 400%;
+  animation: gradient 3s ease infinite;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  caret-color: black;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+.ffprobe-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 5px;
+}
+.ffprobe-status {
+  font-size: 16px;
+  font-family: 'Bangers', cursive;
+  color: lime;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+.ffprobe-status.on {
+  color: lime;
+}
+.ffprobe-status.off {
+  color: #ff0000;
+}
+.voice-select-container {
+  position: relative;
+  width: 200px;
+}
+#voice-select {
+  width: 200px;
+  padding: 5px;
+  border: 2px solid #0ef;
+  border-radius: 5px;
+  font-size: 14px;
+  font-family: 'Bangers', cursive;
+  background-color: #f9f9f9;
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  outline: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: box-shadow 0.5s ease-in-out, transform 0.3s ease-in-out;
+}
+#voice-select:hover {
+  box-shadow: 0 0 10px #0ef, 0 0 20px #0ef, 0 0 40px #0ef;
+  transform: scale(1.05);
+}
+.voice-options {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 200px;
+  background-color: #fff;
+  border: 2px solid #0ef;
+  border-radius: 5px;
+  z-index: 10;
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.5s ease-in-out, opacity 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+}
+.voice-select-container:hover .voice-options {
+  max-height: 180px;
+  opacity: 1;
+  box-shadow: 0 0 10px #0ef, 0 0 20px #0ef;
+}
+.voice-options div {
+  padding: 5px;
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  font-family: 'Bangers', cursive;
+  font-size: 14px;
+  border-bottom: 1px solid #000;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.voice-options div:last-child {
+  border-bottom: none;
+}
+.voice-options div:hover {
+  background-color: #0ef;
+  color: #fff;
+}
+label[for="voice-select"] {
+  font-size: 16px;
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  margin-bottom: 5px;
+  transition: text-shadow 0.5s ease-in-out;
+}
+.voice-select-container:hover label[for="voice-select"] {
+  text-shadow: 0 0 5px #0ef, 0 0 10px #0ef, 0 0 15px #0ef;
+}
+.arrow-icon {
+  color: #000;
+  font-size: 14px;
+  transition: transform 0.5s ease-in-out;
+}
+.voice-select-container:hover .arrow-icon {
+  transform: rotate(180deg);
+}
+.voice-select-container:not(:hover) .arrow-icon {
+  transform: rotate(0deg);
+}
+.voice-text.vibrate {
+  animation: vibrate 0.1s infinite;
+}
+@keyframes vibrate {
+  0% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(-1px, 1px);
+  }
+  40% {
+    transform: translate(-1px, -1px);
+  }
+  60% {
+    transform: translate(1px, 1px);
+  }
+  80% {
+    transform: translate(1px, -1px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+.progress-container {
+  position: relative;
+  width: 300px;
+  margin-top: -30px;
+}
+.progress-container input {
+  display: none;
+}
+.progress-container label {
+  position: relative;
+  display: block;
+  width: 300px;
+  height: 40px;
+  background: transparent;
+  border-radius: 0.4rem;
+  border: 2px solid #A3E2EF;
+  overflow: hidden;
+  box-shadow: 0 0 10px #4F9CC0, 0 0 10px rgba(79, 156, 192, 0.5), inset 0 0 8px rgba(255, 255, 255, 0.6);
+}
+.progress-container label div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to bottom, #A3E2EF 35%, #4F9CC0);
+  height: 100%;
+  width: 0%;
+  box-shadow: 0 0 8px 1px white inset;
+}
+.progress-container label div:before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/718469/bubbles-mask.gif');
+  mix-blend-mode: overlay;
+  opacity: 0.5;
+}
+.progress-container span {
+  display: inline-block;
+  color: #4F9CC0;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  margin-top: 0.7rem;
+}
+.progress-container span:last-child {
+  float: right;
+}
+</style>
+</head>
+<body>
+<div class="button-container">
+  <div class="input-container">
+    <a href="#" onclick="selectFile('video')">CHỌN FILE VIDEO</a>
+    <input type="text" id="video-path" class="path-input" readonly>
+  </div>
+  <div class="input-container">
+    <a href="#" onclick="selectFile('srt')">CHỌN FILE SRT</a>
+    <input type="text" id="srt-path" class="path-input" readonly>
+  </div>
+  <div class="input-container">
+    <a href="#" onclick="selectFile('folder')">CHỌN THƯ MỤC TÀI NGUYÊN</a>
     <input type="text" id="folder-path" class="path-input" readonly value="$default_folder">
   </div>
   <div class="input-container">
@@ -821,4 +1597,5 @@ options.forEach(option => {
 });
 </script>
 </body>
+
 </html>
