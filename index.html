@@ -827,21 +827,6 @@ label[for="voice-select"] {
     document.getElementById('end-time').addEventListener(evt, pushTimeToPython);
   });
 </script>
-<script>
-function pushTimeToPython() {
-  const s = document.getElementById('start-time').value;
-  const e = document.getElementById('end-time').value;
-  if (window.pywebview && window.pywebview.api && window.pywebview.api.update_video_time) {
-    window.pywebview.api.update_video_time(s, e).catch(console.error);
-  }
-}
-
-// Gắn sự kiện khi người dùng sửa hoặc rời khỏi ô input
-['change','blur'].forEach(evt => {
-  document.getElementById('start-time').addEventListener(evt, pushTimeToPython);
-  document.getElementById('end-time').addEventListener(evt, pushTimeToPython);
-});
-</script>
 </body>
 </html>
 <div class="log-container">
