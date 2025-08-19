@@ -785,22 +785,62 @@ label[for="voice-select"] {
   <div class="title">CHÈN THỜI GIAN VIDEO:</div>
   <div class="wrap">
     <div class="column">
-      <div class="box"><input type="text" placeholder="00:00:00"></div>
+      <div class="box"><input type="text" id="start-time" placeholder="00:00:00" value="00:00:00"></div>
       <div class="label">BẮT ĐẦU</div>
     </div>
     <div class="sep">-</div>
     <div class="column">
-      <div class="box"><input type="text" placeholder="00:00:00"></div>
+      <div class="box"><input type="text" id="end-time" placeholder="00:00:00" value="00:00:00"></div>
       <div class="label">KẾT THÚC</div>
     </div>
   </div>
 <script>
+  // Giữ lại đoạn lọc ký tự không hợp lệ
   const pattern = /[^0-9:]/g;
-  document.querySelectorAll('input').forEach(inp=>{
-    inp.addEventListener('input', e=>{
+  ['start-time','end-time'].forEach(id => {
+    const inp = document.getElementById(id);
+    inp.addEventListener('input', e => {
       e.target.value = e.target.value.replace(pattern, '');
     });
   });
+
+  // === API được Python gọi: set mặc định cho 2 ô time
+  window.setVideoTimeDefaults = function(startStr, endStr) {
+    const s = document.getElementById('start-time');
+    const e = document.getElementById('end-time');
+    s.value = startStr || '00:00:00';
+    e.value = endStr || '00:00:00';
+  };
+
+  // Bắn sự kiện cập nhật time sang Python
+  function pushTimeToPython() {
+    const s = document.getElementById('start-time').value;
+    const e = document.getElementById('end-time').value;
+    if (window.pywebview && window.pywebview.api && window.pywebview.api.update_video_time) {
+      window.pywebview.api.update_video_time(s, e).catch(console.error);
+    }
+  }
+
+  // Lắng nghe khi user sửa hoặc rời input
+  ['change','blur'].forEach(evt => {
+    document.getElementById('start-time').addEventListener(evt, pushTimeToPython);
+    document.getElementById('end-time').addEventListener(evt, pushTimeToPython);
+  });
+</script>
+<script>
+function pushTimeToPython() {
+  const s = document.getElementById('start-time').value;
+  const e = document.getElementById('end-time').value;
+  if (window.pywebview && window.pywebview.api && window.pywebview.api.update_video_time) {
+    window.pywebview.api.update_video_time(s, e).catch(console.error);
+  }
+}
+
+// Gắn sự kiện khi người dùng sửa hoặc rời khỏi ô input
+['change','blur'].forEach(evt => {
+  document.getElementById('start-time').addEventListener(evt, pushTimeToPython);
+  document.getElementById('end-time').addEventListener(evt, pushTimeToPython);
+});
 </script>
 </body>
 </html>
