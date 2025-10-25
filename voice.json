@@ -1,10 +1,32 @@
 {
-  "# Vietnamese": {
+  "# CapCut": {
     "1": {"name": "Cô Gái Hoạt Ngôn", "id": "BV074_streaming", "resource_id": "7102355709945185185"},
     "2": {"name": "Thanh Niên Tự Tin", "id": "BV075_streaming", "resource_id": "7102355803792743321"},
     "3": {"name": "Giọng Nữ Phổ Thông", "id": "vi_female_huong", "resource_id": "7264859217953083905"},
     "4": {"name": "Nguồn Nhỏ Ngọt Ngào", "id": "BV421_vivn_streaming", "resource_id": "7252594014782755330"},
     "5": {"name": "Anh Dũng", "id": "BV560_streaming", "resource_id": "7483736167565758992"},
     "6": {"name": "Chí Mai", "id": "BV562_streaming", "resource_id": "7483736254694035984"}
+  },
+  "# Vbee": {
+    "1": {"name": "HN - Ngọc Huyền", "id": "hn_female_ngochuyen_full_48k-fhg", "resource_id": "9102355709945185181"},
+    "2": {"name": "HN - Mai Phương", "id": "hn_female_maiphuong_vdts_48k-fhg", "resource_id": "9102355709945185182"},
+    "3": {"name": "SG - Lan Trinh", "id": "sg_female_lantrinh_vdts_48k-fhg", "resource_id": "9102355709945185183"},
+    "4": {"name": "Huế - Hương Giang", "id": "hue_female_huonggiang_full_48k-fhg", "resource_id": "9102355709945185184"},
+    "5": {"name": "SG - Thảo Trinh", "id": "sg_female_thaotrinh_full_48k-fhg", "resource_id": "9102355709945185185"},
+    "6": {"name": "SG - Trung Kiên", "id": "sg_male_trungkien_vdts_48k-fhg", "resource_id": "9102355709945185186"},
+    "7": {"name": "Huế - Duy Phương", "id": "hue_male_duyphuong_full_48k-fhg", "resource_id": "9102355709945185187"},
+    "8": {"name": "SG - Minh Hoàng", "id": "sg_male_minhhoang_full_48k-fhg", "resource_id": "9102355709945185188"},
+    "9": {"name": "HN - Mạnh Dũng", "id": "hn_male_manhdung_news_48k-fhg", "resource_id": "9102355709945185189"},
+    "10": {"name": "HN - Thanh Long", "id": "hn_male_thanhlong_talk_48k-fhg", "resource_id": "9102355709945185190"},
+    "11": {"name": "HN - Anh Khôi", "id": "hn_male_phuthang_news65dt_44k-fhg", "resource_id": "9102355709945185191"},
+    "12": {"name": "SG - Tường Vy", "id": "sg_female_tuongvy_call_44k-fhg", "resource_id": "9102355709945185192"},
+    "13": {"name": "SG - Thảo Trinh", "id": "sg_female_thaotrinh_full_44k-phg", "resource_id": "9102355709945185193"},
+    "14": {"name": "HN - Mạnh Dũng", "id": "hn_male_manhdung_news_48k-phg", "resource_id": "9102355709945185194"},
+    "15": {"name": "HN - Anh Khôi", "id": "hn_male_phuthang_stor80dt_48k-fhg", "resource_id": "9102355709945185195"},
+    "16": {"name": "HN - Ngọc Lan", "id": "hn_female_hermer_stor_48k-fhg", "resource_id": "9102355709945185196"},
+    "17": {"name": "HN - Nguyệt Dương", "id": "hn_female_lenka_stor_48k-phg", "resource_id": "9102355709945185197"},
+    "18": {"name": "SG - Chí Đạt", "id": "sg_male_chidat_ebook_48k-phg", "resource_id": "9102355709945185198"},
+    "19": {"name": "HN - Hà Chi", "id": "hn_female_hachi_book_22k-vc", "resource_id": "9102355709945185199"},
+    "20": {"name": "HN - Việt Bách", "id": "hn_male_vietbach_child_22k-vc", "resource_id": "9102355709945185200"}
   }
 }
