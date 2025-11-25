@@ -10,10 +10,7 @@
     "8": {"name": "Quỷ Việt", "id": "BV075_streaming_demon_dsp", "resource_id": "7102355803792743321"},
     "9": {"name": "giọng bé", "id": "BV074_streaming_dsp", "resource_id": "7102355709945185185"},
     "10": {"name": "Robot VN", "id": "BV075_streaming_robot_dsp", "resource_id": "7102355803792743321"},
-    "11": {"name": "Old Style Advertising Male", "id": "en_us_006", "resource_id": "7114563482518819329"},
-    "12": {"name": "American Male", "id": "BV028_TOBI_streaming", "resource_id": "6898239746565214722"},
-    "13": {"name": "Excited Male", "id": "en_male_will_clone2", "resource_id": "7232136973664653825"}
+    "11": {"name": "American Male", "id": "BV028_TOBI_streaming", "resource_id": "6898239746565214722"},
+    "12": {"name": "Excited Male", "id": "en_male_will_clone2", "resource_id": "7232136973664653825"}
   }
 }
-
-
