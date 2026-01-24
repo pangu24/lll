@@ -15,8 +15,15 @@
     "13": {"name": "Excited Male", "id": "en_male_will_clone2", "resource_id": "7232136973664653825"},
     "14": {"name": "Korean - Male 1", "id": "kr_002", "resource_id": "8012345678901234001"},
     "15": {"name": "Korean - Female", "id": "kr_003", "resource_id": "8012345678901234002"},
-    "16": {"name": "Korean - Male 2", "id": "kr_004", "resource_id": "8012345678901234003"}
+    "16": {"name": "Korean - Male 2", "id": "kr_004", "resource_id": "8012345678901234003"},
+    "17": {"name": "Energetic Male II", "id": "en_male_campaign_jamal_moon_bigtts", "resource_id": "7398123456789012345"},
+    "18": {"name": "Flirty Male", "id": "BV504_streaming", "resource_id": "7398123456789016789"},
+    "19": {"name": "Tutorial Speaker", "id": "ICL_en_male_tutorial", "resource_id": "7398123456789023456"},
+    "20": {"name": "Sports Commentator", "id": "en_male_ted_lasso", "resource_id": "7398123456789034567"},
+    "21": {"name": "Energetic Male", "id": "BV510_streaming", "resource_id": "7398123456789045678"},
+    "22": {"name": "Harry", "id": "ICL_en_male_Harry", "resource_id": "7398123456789056789"},
+    "23": {"name": "Normal Male", "id": "en_male_british_narrator", "resource_id": "7398123456789067890"},
+    "24": {"name": "Movie Trailer Announcer", "id": "en_male_authoritative_marcus", "resource_id": "7398123456789078901"},
+    "25": {"name": "Hayden", "id": "en_male_hades_moon_bigtts", "resource_id": "7398123456789089012"}
   }
 }
-
-
