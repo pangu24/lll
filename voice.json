@@ -25,6 +25,9 @@
     "23": {"name": "Normal Male", "id": "en_male_british_narrator", "resource_id": "7398123456789067890"},
     "24": {"name": "Movie Trailer Announcer", "id": "en_male_authoritative_marcus", "resource_id": "7398123456789078901"},
     "25": {"name": "Hayden", "id": "en_male_hades_moon_bigtts", "resource_id": "7398123456789089012"},
-    "26": {"name": "Nam Điềm Tĩnh", "id": "ICL_ja_male_bobao2", "resource_id": "7579090923636755729"}
+    "26": {"name": "Nam Điềm Tĩnh", "id": "ICL_ja_male_bobao2", "resource_id": "7579090923636755729"},
+    "27": {"name": "男性アナ", "id": "BV524_streaming", "resource_id": "7081169917248016898"},
+    "28": {"name": "アナウンサー", "id": "BV018_streaming", "resource_id": "6943534535413862913"},
+    "29": {"name": "actor gravudo", "id": "en_male_gravudo_streaming", "resource_id": "7421987654321098765"}
   }
 }
