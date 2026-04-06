@@ -29,6 +29,7 @@
     "27": {"name": "男性アナ", "id": "BV524_streaming", "resource_id": "7081169917248016898"},
     "28": {"name": "アナウンサー", "id": "BV018_streaming", "resource_id": "6943534535413862913"},
     "29": {"name": "actor gravudo", "id": "en_male_gravudo_streaming", "resource_id": "7421987654321098765"},
-    "30": {"name": "Julio", "id": "es_male_m3", "resource_id": "801234567890123404"}
+    "30": {"name": "Julio", "id": "es_male_m3", "resource_id": "801234567890123404"},
+    "31": {"name": "Niwat Neural", "id": "th-TH-NiwatNeural", "resource_id": "7371666742055014913"}
   }
 }
