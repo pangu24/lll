@@ -30,6 +30,7 @@
     "28": {"name": "アナウンサー", "id": "BV018_streaming", "resource_id": "6943534535413862913"},
     "29": {"name": "actor gravudo", "id": "en_male_gravudo_streaming", "resource_id": "7421987654321098765"},
     "30": {"name": "Julio", "id": "es_male_m3", "resource_id": "801234567890123404"},
-    "31": {"name": "Napha", "id": "BV568_streaming", "resource_id": "7371666742055014916"}
+    "31": {"name": "Napha", "id": "BV568_streaming", "resource_id": "7371666742055014916"},
+    "32": {"name": "Người Pháp chuyên nghiệp", "id": "fr_male_french_uranus_bigtts", "resource_id": "7371666742055014919"}
   }
 }
