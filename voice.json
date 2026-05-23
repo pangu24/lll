@@ -1820,5 +1820,1445 @@
     "resource_id": "7114563481315054082"
    }
   }
+ },
+ "EdgeTTS": {
+  "# AF": {
+   "1": {
+    "name": "Willem",
+    "id": "af-ZA-WillemNeural"
+   },
+   "2": {
+    "name": "Adri",
+    "id": "af-ZA-AdriNeural"
+   }
+  },
+  "# AM": {
+   "1": {
+    "name": "Ameha",
+    "id": "am-ET-AmehaNeural"
+   },
+   "2": {
+    "name": "Mekdes",
+    "id": "am-ET-MekdesNeural"
+   }
+  },
+  "# Arabic": {
+   "1": {
+    "name": "Hamdan",
+    "id": "ar-AE-HamdanNeural"
+   },
+   "2": {
+    "name": "Ali",
+    "id": "ar-BH-AliNeural"
+   },
+   "3": {
+    "name": "Ismael",
+    "id": "ar-DZ-IsmaelNeural"
+   },
+   "4": {
+    "name": "Shakir",
+    "id": "ar-EG-ShakirNeural"
+   },
+   "5": {
+    "name": "Bassel",
+    "id": "ar-IQ-BasselNeural"
+   },
+   "6": {
+    "name": "Taim",
+    "id": "ar-JO-TaimNeural"
+   },
+   "7": {
+    "name": "Fahed",
+    "id": "ar-KW-FahedNeural"
+   },
+   "8": {
+    "name": "Rami",
+    "id": "ar-LB-RamiNeural"
+   },
+   "9": {
+    "name": "Omar",
+    "id": "ar-LY-OmarNeural"
+   },
+   "10": {
+    "name": "Jamal",
+    "id": "ar-MA-JamalNeural"
+   },
+   "11": {
+    "name": "Abdullah",
+    "id": "ar-OM-AbdullahNeural"
+   },
+   "12": {
+    "name": "Moaz",
+    "id": "ar-QA-MoazNeural"
+   },
+   "13": {
+    "name": "Hamed",
+    "id": "ar-SA-HamedNeural"
+   },
+   "14": {
+    "name": "Laith",
+    "id": "ar-SY-LaithNeural"
+   },
+   "15": {
+    "name": "Hedi",
+    "id": "ar-TN-HediNeural"
+   },
+   "16": {
+    "name": "Saleh",
+    "id": "ar-YE-SalehNeural"
+   },
+   "17": {
+    "name": "Fatima",
+    "id": "ar-AE-FatimaNeural"
+   },
+   "18": {
+    "name": "Laila",
+    "id": "ar-BH-LailaNeural"
+   },
+   "19": {
+    "name": "Amina",
+    "id": "ar-DZ-AminaNeural"
+   },
+   "20": {
+    "name": "Salma",
+    "id": "ar-EG-SalmaNeural"
+   },
+   "21": {
+    "name": "Rana",
+    "id": "ar-IQ-RanaNeural"
+   },
+   "22": {
+    "name": "Sana",
+    "id": "ar-JO-SanaNeural"
+   },
+   "23": {
+    "name": "Noura",
+    "id": "ar-KW-NouraNeural"
+   },
+   "24": {
+    "name": "Layla",
+    "id": "ar-LB-LaylaNeural"
+   },
+   "25": {
+    "name": "Iman",
+    "id": "ar-LY-ImanNeural"
+   },
+   "26": {
+    "name": "Mouna",
+    "id": "ar-MA-MounaNeural"
+   },
+   "27": {
+    "name": "Aysha",
+    "id": "ar-OM-AyshaNeural"
+   },
+   "28": {
+    "name": "Amal",
+    "id": "ar-QA-AmalNeural"
+   },
+   "29": {
+    "name": "Zariyah",
+    "id": "ar-SA-ZariyahNeural"
+   },
+   "30": {
+    "name": "Amany",
+    "id": "ar-SY-AmanyNeural"
+   },
+   "31": {
+    "name": "Reem",
+    "id": "ar-TN-ReemNeural"
+   },
+   "32": {
+    "name": "Maryam",
+    "id": "ar-YE-MaryamNeural"
+   }
+  },
+  "# AZ": {
+   "1": {
+    "name": "Babek",
+    "id": "az-AZ-BabekNeural"
+   },
+   "2": {
+    "name": "Banu",
+    "id": "az-AZ-BanuNeural"
+   }
+  },
+  "# BG": {
+   "1": {
+    "name": "Borislav",
+    "id": "bg-BG-BorislavNeural"
+   },
+   "2": {
+    "name": "Kalina",
+    "id": "bg-BG-KalinaNeural"
+   }
+  },
+  "# BN": {
+   "1": {
+    "name": "Pradeep",
+    "id": "bn-BD-PradeepNeural"
+   },
+   "2": {
+    "name": "Bashkar",
+    "id": "bn-IN-BashkarNeural"
+   },
+   "3": {
+    "name": "Nabanita",
+    "id": "bn-BD-NabanitaNeural"
+   },
+   "4": {
+    "name": "Tanishaa",
+    "id": "bn-IN-TanishaaNeural"
+   }
+  },
+  "# BS": {
+   "1": {
+    "name": "Goran",
+    "id": "bs-BA-GoranNeural"
+   },
+   "2": {
+    "name": "Vesna",
+    "id": "bs-BA-VesnaNeural"
+   }
+  },
+  "# CA": {
+   "1": {
+    "name": "Enric",
+    "id": "ca-ES-EnricNeural"
+   },
+   "2": {
+    "name": "Joana",
+    "id": "ca-ES-JoanaNeural"
+   }
+  },
+  "# CS": {
+   "1": {
+    "name": "Antonin",
+    "id": "cs-CZ-AntoninNeural"
+   },
+   "2": {
+    "name": "Vlasta",
+    "id": "cs-CZ-VlastaNeural"
+   }
+  },
+  "# CY": {
+   "1": {
+    "name": "Aled",
+    "id": "cy-GB-AledNeural"
+   },
+   "2": {
+    "name": "Nia",
+    "id": "cy-GB-NiaNeural"
+   }
+  },
+  "# DA": {
+   "1": {
+    "name": "Jeppe",
+    "id": "da-DK-JeppeNeural"
+   },
+   "2": {
+    "name": "Christel",
+    "id": "da-DK-ChristelNeural"
+   }
+  },
+  "# German": {
+   "1": {
+    "name": "Jonas",
+    "id": "de-AT-JonasNeural"
+   },
+   "2": {
+    "name": "Jan",
+    "id": "de-CH-JanNeural"
+   },
+   "3": {
+    "name": "Conrad",
+    "id": "de-DE-ConradNeural"
+   },
+   "4": {
+    "name": "FlorianMultilingual",
+    "id": "de-DE-FlorianMultilingualNeural"
+   },
+   "5": {
+    "name": "Killian",
+    "id": "de-DE-KillianNeural"
+   },
+   "6": {
+    "name": "Ingrid",
+    "id": "de-AT-IngridNeural"
+   },
+   "7": {
+    "name": "Leni",
+    "id": "de-CH-LeniNeural"
+   },
+   "8": {
+    "name": "Amala",
+    "id": "de-DE-AmalaNeural"
+   },
+   "9": {
+    "name": "Katja",
+    "id": "de-DE-KatjaNeural"
+   },
+   "10": {
+    "name": "SeraphinaMultilingual",
+    "id": "de-DE-SeraphinaMultilingualNeural"
+   }
+  },
+  "# EL": {
+   "1": {
+    "name": "Nestoras",
+    "id": "el-GR-NestorasNeural"
+   },
+   "2": {
+    "name": "Athina",
+    "id": "el-GR-AthinaNeural"
+   }
+  },
+  "# English": {
+   "1": {
+    "name": "William",
+    "id": "en-AU-WilliamNeural"
+   },
+   "2": {
+    "name": "Liam",
+    "id": "en-CA-LiamNeural"
+   },
+   "3": {
+    "name": "Ryan",
+    "id": "en-GB-RyanNeural"
+   },
+   "4": {
+    "name": "Thomas",
+    "id": "en-GB-ThomasNeural"
+   },
+   "5": {
+    "name": "Sam",
+    "id": "en-HK-SamNeural"
+   },
+   "6": {
+    "name": "Connor",
+    "id": "en-IE-ConnorNeural"
+   },
+   "7": {
+    "name": "Prabhat",
+    "id": "en-IN-PrabhatNeural"
+   },
+   "8": {
+    "name": "Chilemba",
+    "id": "en-KE-ChilembaNeural"
+   },
+   "9": {
+    "name": "Abeo",
+    "id": "en-NG-AbeoNeural"
+   },
+   "10": {
+    "name": "Mitchell",
+    "id": "en-NZ-MitchellNeural"
+   },
+   "11": {
+    "name": "James",
+    "id": "en-PH-JamesNeural"
+   },
+   "12": {
+    "name": "Wayne",
+    "id": "en-SG-WayneNeural"
+   },
+   "13": {
+    "name": "Elimu",
+    "id": "en-TZ-ElimuNeural"
+   },
+   "14": {
+    "name": "AndrewMultilingual",
+    "id": "en-US-AndrewMultilingualNeural"
+   },
+   "15": {
+    "name": "Andrew",
+    "id": "en-US-AndrewNeural"
+   },
+   "16": {
+    "name": "BrianMultilingual",
+    "id": "en-US-BrianMultilingualNeural"
+   },
+   "17": {
+    "name": "Brian",
+    "id": "en-US-BrianNeural"
+   },
+   "18": {
+    "name": "Christopher",
+    "id": "en-US-ChristopherNeural"
+   },
+   "19": {
+    "name": "Eric",
+    "id": "en-US-EricNeural"
+   },
+   "20": {
+    "name": "Guy",
+    "id": "en-US-GuyNeural"
+   },
+   "21": {
+    "name": "Roger",
+    "id": "en-US-RogerNeural"
+   },
+   "22": {
+    "name": "Steffan",
+    "id": "en-US-SteffanNeural"
+   },
+   "23": {
+    "name": "Luke",
+    "id": "en-ZA-LukeNeural"
+   },
+   "24": {
+    "name": "Natasha",
+    "id": "en-AU-NatashaNeural"
+   },
+   "25": {
+    "name": "Clara",
+    "id": "en-CA-ClaraNeural"
+   },
+   "26": {
+    "name": "Libby",
+    "id": "en-GB-LibbyNeural"
+   },
+   "27": {
+    "name": "Maisie",
+    "id": "en-GB-MaisieNeural"
+   },
+   "28": {
+    "name": "Sonia",
+    "id": "en-GB-SoniaNeural"
+   },
+   "29": {
+    "name": "Yan",
+    "id": "en-HK-YanNeural"
+   },
+   "30": {
+    "name": "Emily",
+    "id": "en-IE-EmilyNeural"
+   },
+   "31": {
+    "name": "NeerjaExpressive",
+    "id": "en-IN-NeerjaExpressiveNeural"
+   },
+   "32": {
+    "name": "Neerja",
+    "id": "en-IN-NeerjaNeural"
+   },
+   "33": {
+    "name": "Asilia",
+    "id": "en-KE-AsiliaNeural"
+   },
+   "34": {
+    "name": "Ezinne",
+    "id": "en-NG-EzinneNeural"
+   },
+   "35": {
+    "name": "Molly",
+    "id": "en-NZ-MollyNeural"
+   },
+   "36": {
+    "name": "Rosa",
+    "id": "en-PH-RosaNeural"
+   },
+   "37": {
+    "name": "Luna",
+    "id": "en-SG-LunaNeural"
+   },
+   "38": {
+    "name": "Imani",
+    "id": "en-TZ-ImaniNeural"
+   },
+   "39": {
+    "name": "Ana",
+    "id": "en-US-AnaNeural"
+   },
+   "40": {
+    "name": "Aria",
+    "id": "en-US-AriaNeural"
+   },
+   "41": {
+    "name": "AvaMultilingual",
+    "id": "en-US-AvaMultilingualNeural"
+   },
+   "42": {
+    "name": "Ava",
+    "id": "en-US-AvaNeural"
+   },
+   "43": {
+    "name": "EmmaMultilingual",
+    "id": "en-US-EmmaMultilingualNeural"
+   },
+   "44": {
+    "name": "Emma",
+    "id": "en-US-EmmaNeural"
+   },
+   "45": {
+    "name": "Jenny",
+    "id": "en-US-JennyNeural"
+   },
+   "46": {
+    "name": "Michelle",
+    "id": "en-US-MichelleNeural"
+   },
+   "47": {
+    "name": "Leah",
+    "id": "en-ZA-LeahNeural"
+   }
+  },
+  "# Spanish": {
+   "1": {
+    "name": "Tomas",
+    "id": "es-AR-TomasNeural"
+   },
+   "2": {
+    "name": "Marcelo",
+    "id": "es-BO-MarceloNeural"
+   },
+   "3": {
+    "name": "Lorenzo",
+    "id": "es-CL-LorenzoNeural"
+   },
+   "4": {
+    "name": "Gonzalo",
+    "id": "es-CO-GonzaloNeural"
+   },
+   "5": {
+    "name": "Juan",
+    "id": "es-CR-JuanNeural"
+   },
+   "6": {
+    "name": "Manuel",
+    "id": "es-CU-ManuelNeural"
+   },
+   "7": {
+    "name": "Emilio",
+    "id": "es-DO-EmilioNeural"
+   },
+   "8": {
+    "name": "Luis",
+    "id": "es-EC-LuisNeural"
+   },
+   "9": {
+    "name": "Alvaro",
+    "id": "es-ES-AlvaroNeural"
+   },
+   "10": {
+    "name": "Javier",
+    "id": "es-GQ-JavierNeural"
+   },
+   "11": {
+    "name": "Andres",
+    "id": "es-GT-AndresNeural"
+   },
+   "12": {
+    "name": "Carlos",
+    "id": "es-HN-CarlosNeural"
+   },
+   "13": {
+    "name": "Jorge",
+    "id": "es-MX-JorgeNeural"
+   },
+   "14": {
+    "name": "Federico",
+    "id": "es-NI-FedericoNeural"
+   },
+   "15": {
+    "name": "Roberto",
+    "id": "es-PA-RobertoNeural"
+   },
+   "16": {
+    "name": "Alex",
+    "id": "es-PE-AlexNeural"
+   },
+   "17": {
+    "name": "Victor",
+    "id": "es-PR-VictorNeural"
+   },
+   "18": {
+    "name": "Mario",
+    "id": "es-PY-MarioNeural"
+   },
+   "19": {
+    "name": "Rodrigo",
+    "id": "es-SV-RodrigoNeural"
+   },
+   "20": {
+    "name": "Alonso",
+    "id": "es-US-AlonsoNeural"
+   },
+   "21": {
+    "name": "Mateo",
+    "id": "es-UY-MateoNeural"
+   },
+   "22": {
+    "name": "Sebastian",
+    "id": "es-VE-SebastianNeural"
+   },
+   "23": {
+    "name": "Elena",
+    "id": "es-AR-ElenaNeural"
+   },
+   "24": {
+    "name": "Sofia",
+    "id": "es-BO-SofiaNeural"
+   },
+   "25": {
+    "name": "Catalina",
+    "id": "es-CL-CatalinaNeural"
+   },
+   "26": {
+    "name": "Salome",
+    "id": "es-CO-SalomeNeural"
+   },
+   "27": {
+    "name": "Maria",
+    "id": "es-CR-MariaNeural"
+   },
+   "28": {
+    "name": "Belkys",
+    "id": "es-CU-BelkysNeural"
+   },
+   "29": {
+    "name": "Ramona",
+    "id": "es-DO-RamonaNeural"
+   },
+   "30": {
+    "name": "Andrea",
+    "id": "es-EC-AndreaNeural"
+   },
+   "31": {
+    "name": "Elvira",
+    "id": "es-ES-ElviraNeural"
+   },
+   "32": {
+    "name": "Ximena",
+    "id": "es-ES-XimenaNeural"
+   },
+   "33": {
+    "name": "Teresa",
+    "id": "es-GQ-TeresaNeural"
+   },
+   "34": {
+    "name": "Marta",
+    "id": "es-GT-MartaNeural"
+   },
+   "35": {
+    "name": "Karla",
+    "id": "es-HN-KarlaNeural"
+   },
+   "36": {
+    "name": "Dalia",
+    "id": "es-MX-DaliaNeural"
+   },
+   "37": {
+    "name": "Yolanda",
+    "id": "es-NI-YolandaNeural"
+   },
+   "38": {
+    "name": "Margarita",
+    "id": "es-PA-MargaritaNeural"
+   },
+   "39": {
+    "name": "Camila",
+    "id": "es-PE-CamilaNeural"
+   },
+   "40": {
+    "name": "Karina",
+    "id": "es-PR-KarinaNeural"
+   },
+   "41": {
+    "name": "Tania",
+    "id": "es-PY-TaniaNeural"
+   },
+   "42": {
+    "name": "Lorena",
+    "id": "es-SV-LorenaNeural"
+   },
+   "43": {
+    "name": "Paloma",
+    "id": "es-US-PalomaNeural"
+   },
+   "44": {
+    "name": "Valentina",
+    "id": "es-UY-ValentinaNeural"
+   },
+   "45": {
+    "name": "Paola",
+    "id": "es-VE-PaolaNeural"
+   }
+  },
+  "# ET": {
+   "1": {
+    "name": "Kert",
+    "id": "et-EE-KertNeural"
+   },
+   "2": {
+    "name": "Anu",
+    "id": "et-EE-AnuNeural"
+   }
+  },
+  "# FA": {
+   "1": {
+    "name": "Farid",
+    "id": "fa-IR-FaridNeural"
+   },
+   "2": {
+    "name": "Dilara",
+    "id": "fa-IR-DilaraNeural"
+   }
+  },
+  "# FI": {
+   "1": {
+    "name": "Harri",
+    "id": "fi-FI-HarriNeural"
+   },
+   "2": {
+    "name": "Noora",
+    "id": "fi-FI-NooraNeural"
+   }
+  },
+  "# FIL": {
+   "1": {
+    "name": "Angelo",
+    "id": "fil-PH-AngeloNeural"
+   },
+   "2": {
+    "name": "Blessica",
+    "id": "fil-PH-BlessicaNeural"
+   }
+  },
+  "# French": {
+   "1": {
+    "name": "Gerard",
+    "id": "fr-BE-GerardNeural"
+   },
+   "2": {
+    "name": "Antoine",
+    "id": "fr-CA-AntoineNeural"
+   },
+   "3": {
+    "name": "Jean",
+    "id": "fr-CA-JeanNeural"
+   },
+   "4": {
+    "name": "Thierry",
+    "id": "fr-CA-ThierryNeural"
+   },
+   "5": {
+    "name": "Fabrice",
+    "id": "fr-CH-FabriceNeural"
+   },
+   "6": {
+    "name": "Henri",
+    "id": "fr-FR-HenriNeural"
+   },
+   "7": {
+    "name": "RemyMultilingual",
+    "id": "fr-FR-RemyMultilingualNeural"
+   },
+   "8": {
+    "name": "Charline",
+    "id": "fr-BE-CharlineNeural"
+   },
+   "9": {
+    "name": "Sylvie",
+    "id": "fr-CA-SylvieNeural"
+   },
+   "10": {
+    "name": "Ariane",
+    "id": "fr-CH-ArianeNeural"
+   },
+   "11": {
+    "name": "Denise",
+    "id": "fr-FR-DeniseNeural"
+   },
+   "12": {
+    "name": "Eloise",
+    "id": "fr-FR-EloiseNeural"
+   },
+   "13": {
+    "name": "VivienneMultilingual",
+    "id": "fr-FR-VivienneMultilingualNeural"
+   }
+  },
+  "# GA": {
+   "1": {
+    "name": "Colm",
+    "id": "ga-IE-ColmNeural"
+   },
+   "2": {
+    "name": "Orla",
+    "id": "ga-IE-OrlaNeural"
+   }
+  },
+  "# GL": {
+   "1": {
+    "name": "Roi",
+    "id": "gl-ES-RoiNeural"
+   },
+   "2": {
+    "name": "Sabela",
+    "id": "gl-ES-SabelaNeural"
+   }
+  },
+  "# GU": {
+   "1": {
+    "name": "Niranjan",
+    "id": "gu-IN-NiranjanNeural"
+   },
+   "2": {
+    "name": "Dhwani",
+    "id": "gu-IN-DhwaniNeural"
+   }
+  },
+  "# HE": {
+   "1": {
+    "name": "Avri",
+    "id": "he-IL-AvriNeural"
+   },
+   "2": {
+    "name": "Hila",
+    "id": "he-IL-HilaNeural"
+   }
+  },
+  "# HI": {
+   "1": {
+    "name": "Madhur",
+    "id": "hi-IN-MadhurNeural"
+   },
+   "2": {
+    "name": "Swara",
+    "id": "hi-IN-SwaraNeural"
+   }
+  },
+  "# HR": {
+   "1": {
+    "name": "Srecko",
+    "id": "hr-HR-SreckoNeural"
+   },
+   "2": {
+    "name": "Gabrijela",
+    "id": "hr-HR-GabrijelaNeural"
+   }
+  },
+  "# HU": {
+   "1": {
+    "name": "Tamas",
+    "id": "hu-HU-TamasNeural"
+   },
+   "2": {
+    "name": "Noemi",
+    "id": "hu-HU-NoemiNeural"
+   }
+  },
+  "# Indonesian": {
+   "1": {
+    "name": "Ardi",
+    "id": "id-ID-ArdiNeural"
+   },
+   "2": {
+    "name": "Gadis",
+    "id": "id-ID-GadisNeural"
+   }
+  },
+  "# IS": {
+   "1": {
+    "name": "Gunnar",
+    "id": "is-IS-GunnarNeural"
+   },
+   "2": {
+    "name": "Gudrun",
+    "id": "is-IS-GudrunNeural"
+   }
+  },
+  "# IT": {
+   "1": {
+    "name": "Diego",
+    "id": "it-IT-DiegoNeural"
+   },
+   "2": {
+    "name": "GiuseppeMultilingual",
+    "id": "it-IT-GiuseppeMultilingualNeural"
+   },
+   "3": {
+    "name": "Elsa",
+    "id": "it-IT-ElsaNeural"
+   },
+   "4": {
+    "name": "Isabella",
+    "id": "it-IT-IsabellaNeural"
+   }
+  },
+  "# IU": {
+   "1": {
+    "name": "Taqqiq",
+    "id": "iu-Cans-CA-TaqqiqNeural"
+   },
+   "2": {
+    "name": "Taqqiq",
+    "id": "iu-Latn-CA-TaqqiqNeural"
+   },
+   "3": {
+    "name": "Siqiniq",
+    "id": "iu-Cans-CA-SiqiniqNeural"
+   },
+   "4": {
+    "name": "Siqiniq",
+    "id": "iu-Latn-CA-SiqiniqNeural"
+   }
+  },
+  "# Japanese": {
+   "1": {
+    "name": "Keita",
+    "id": "ja-JP-KeitaNeural"
+   },
+   "2": {
+    "name": "Nanami",
+    "id": "ja-JP-NanamiNeural"
+   }
+  },
+  "# JV": {
+   "1": {
+    "name": "Dimas",
+    "id": "jv-ID-DimasNeural"
+   },
+   "2": {
+    "name": "Siti",
+    "id": "jv-ID-SitiNeural"
+   }
+  },
+  "# KA": {
+   "1": {
+    "name": "Giorgi",
+    "id": "ka-GE-GiorgiNeural"
+   },
+   "2": {
+    "name": "Eka",
+    "id": "ka-GE-EkaNeural"
+   }
+  },
+  "# KK": {
+   "1": {
+    "name": "Daulet",
+    "id": "kk-KZ-DauletNeural"
+   },
+   "2": {
+    "name": "Aigul",
+    "id": "kk-KZ-AigulNeural"
+   }
+  },
+  "# KM": {
+   "1": {
+    "name": "Piseth",
+    "id": "km-KH-PisethNeural"
+   },
+   "2": {
+    "name": "Sreymom",
+    "id": "km-KH-SreymomNeural"
+   }
+  },
+  "# KN": {
+   "1": {
+    "name": "Gagan",
+    "id": "kn-IN-GaganNeural"
+   },
+   "2": {
+    "name": "Sapna",
+    "id": "kn-IN-SapnaNeural"
+   }
+  },
+  "# Korean": {
+   "1": {
+    "name": "HyunsuMultilingual",
+    "id": "ko-KR-HyunsuMultilingualNeural"
+   },
+   "2": {
+    "name": "InJoon",
+    "id": "ko-KR-InJoonNeural"
+   },
+   "3": {
+    "name": "SunHi",
+    "id": "ko-KR-SunHiNeural"
+   }
+  },
+  "# LO": {
+   "1": {
+    "name": "Chanthavong",
+    "id": "lo-LA-ChanthavongNeural"
+   },
+   "2": {
+    "name": "Keomany",
+    "id": "lo-LA-KeomanyNeural"
+   }
+  },
+  "# LT": {
+   "1": {
+    "name": "Leonas",
+    "id": "lt-LT-LeonasNeural"
+   },
+   "2": {
+    "name": "Ona",
+    "id": "lt-LT-OnaNeural"
+   }
+  },
+  "# LV": {
+   "1": {
+    "name": "Nils",
+    "id": "lv-LV-NilsNeural"
+   },
+   "2": {
+    "name": "Everita",
+    "id": "lv-LV-EveritaNeural"
+   }
+  },
+  "# MK": {
+   "1": {
+    "name": "Aleksandar",
+    "id": "mk-MK-AleksandarNeural"
+   },
+   "2": {
+    "name": "Marija",
+    "id": "mk-MK-MarijaNeural"
+   }
+  },
+  "# ML": {
+   "1": {
+    "name": "Midhun",
+    "id": "ml-IN-MidhunNeural"
+   },
+   "2": {
+    "name": "Sobhana",
+    "id": "ml-IN-SobhanaNeural"
+   }
+  },
+  "# MN": {
+   "1": {
+    "name": "Bataa",
+    "id": "mn-MN-BataaNeural"
+   },
+   "2": {
+    "name": "Yesui",
+    "id": "mn-MN-YesuiNeural"
+   }
+  },
+  "# MR": {
+   "1": {
+    "name": "Manohar",
+    "id": "mr-IN-ManoharNeural"
+   },
+   "2": {
+    "name": "Aarohi",
+    "id": "mr-IN-AarohiNeural"
+   }
+  },
+  "# MS": {
+   "1": {
+    "name": "Osman",
+    "id": "ms-MY-OsmanNeural"
+   },
+   "2": {
+    "name": "Yasmin",
+    "id": "ms-MY-YasminNeural"
+   }
+  },
+  "# MT": {
+   "1": {
+    "name": "Joseph",
+    "id": "mt-MT-JosephNeural"
+   },
+   "2": {
+    "name": "Grace",
+    "id": "mt-MT-GraceNeural"
+   }
+  },
+  "# MY": {
+   "1": {
+    "name": "Thiha",
+    "id": "my-MM-ThihaNeural"
+   },
+   "2": {
+    "name": "Nilar",
+    "id": "my-MM-NilarNeural"
+   }
+  },
+  "# NB": {
+   "1": {
+    "name": "Finn",
+    "id": "nb-NO-FinnNeural"
+   },
+   "2": {
+    "name": "Pernille",
+    "id": "nb-NO-PernilleNeural"
+   }
+  },
+  "# NE": {
+   "1": {
+    "name": "Sagar",
+    "id": "ne-NP-SagarNeural"
+   },
+   "2": {
+    "name": "Hemkala",
+    "id": "ne-NP-HemkalaNeural"
+   }
+  },
+  "# NL": {
+   "1": {
+    "name": "Arnaud",
+    "id": "nl-BE-ArnaudNeural"
+   },
+   "2": {
+    "name": "Maarten",
+    "id": "nl-NL-MaartenNeural"
+   },
+   "3": {
+    "name": "Dena",
+    "id": "nl-BE-DenaNeural"
+   },
+   "4": {
+    "name": "Colette",
+    "id": "nl-NL-ColetteNeural"
+   },
+   "5": {
+    "name": "Fenna",
+    "id": "nl-NL-FennaNeural"
+   }
+  },
+  "# PL": {
+   "1": {
+    "name": "Marek",
+    "id": "pl-PL-MarekNeural"
+   },
+   "2": {
+    "name": "Zofia",
+    "id": "pl-PL-ZofiaNeural"
+   }
+  },
+  "# PS": {
+   "1": {
+    "name": "GulNawaz",
+    "id": "ps-AF-GulNawazNeural"
+   },
+   "2": {
+    "name": "Latifa",
+    "id": "ps-AF-LatifaNeural"
+   }
+  },
+  "# Portuguese": {
+   "1": {
+    "name": "Antonio",
+    "id": "pt-BR-AntonioNeural"
+   },
+   "2": {
+    "name": "Duarte",
+    "id": "pt-PT-DuarteNeural"
+   },
+   "3": {
+    "name": "Francisca",
+    "id": "pt-BR-FranciscaNeural"
+   },
+   "4": {
+    "name": "ThalitaMultilingual",
+    "id": "pt-BR-ThalitaMultilingualNeural"
+   },
+   "5": {
+    "name": "Raquel",
+    "id": "pt-PT-RaquelNeural"
+   }
+  },
+  "# RO": {
+   "1": {
+    "name": "Emil",
+    "id": "ro-RO-EmilNeural"
+   },
+   "2": {
+    "name": "Alina",
+    "id": "ro-RO-AlinaNeural"
+   }
+  },
+  "# Russian": {
+   "1": {
+    "name": "Dmitry",
+    "id": "ru-RU-DmitryNeural"
+   },
+   "2": {
+    "name": "Svetlana",
+    "id": "ru-RU-SvetlanaNeural"
+   }
+  },
+  "# SI": {
+   "1": {
+    "name": "Sameera",
+    "id": "si-LK-SameeraNeural"
+   },
+   "2": {
+    "name": "Thilini",
+    "id": "si-LK-ThiliniNeural"
+   }
+  },
+  "# SK": {
+   "1": {
+    "name": "Lukas",
+    "id": "sk-SK-LukasNeural"
+   },
+   "2": {
+    "name": "Viktoria",
+    "id": "sk-SK-ViktoriaNeural"
+   }
+  },
+  "# SL": {
+   "1": {
+    "name": "Rok",
+    "id": "sl-SI-RokNeural"
+   },
+   "2": {
+    "name": "Petra",
+    "id": "sl-SI-PetraNeural"
+   }
+  },
+  "# SO": {
+   "1": {
+    "name": "Muuse",
+    "id": "so-SO-MuuseNeural"
+   },
+   "2": {
+    "name": "Ubax",
+    "id": "so-SO-UbaxNeural"
+   }
+  },
+  "# SQ": {
+   "1": {
+    "name": "Ilir",
+    "id": "sq-AL-IlirNeural"
+   },
+   "2": {
+    "name": "Anila",
+    "id": "sq-AL-AnilaNeural"
+   }
+  },
+  "# SR": {
+   "1": {
+    "name": "Nicholas",
+    "id": "sr-RS-NicholasNeural"
+   },
+   "2": {
+    "name": "Sophie",
+    "id": "sr-RS-SophieNeural"
+   }
+  },
+  "# SU": {
+   "1": {
+    "name": "Jajang",
+    "id": "su-ID-JajangNeural"
+   },
+   "2": {
+    "name": "Tuti",
+    "id": "su-ID-TutiNeural"
+   }
+  },
+  "# SV": {
+   "1": {
+    "name": "Mattias",
+    "id": "sv-SE-MattiasNeural"
+   },
+   "2": {
+    "name": "Sofie",
+    "id": "sv-SE-SofieNeural"
+   }
+  },
+  "# SW": {
+   "1": {
+    "name": "Rafiki",
+    "id": "sw-KE-RafikiNeural"
+   },
+   "2": {
+    "name": "Daudi",
+    "id": "sw-TZ-DaudiNeural"
+   },
+   "3": {
+    "name": "Zuri",
+    "id": "sw-KE-ZuriNeural"
+   },
+   "4": {
+    "name": "Rehema",
+    "id": "sw-TZ-RehemaNeural"
+   }
+  },
+  "# TA": {
+   "1": {
+    "name": "Valluvar",
+    "id": "ta-IN-ValluvarNeural"
+   },
+   "2": {
+    "name": "Kumar",
+    "id": "ta-LK-KumarNeural"
+   },
+   "3": {
+    "name": "Surya",
+    "id": "ta-MY-SuryaNeural"
+   },
+   "4": {
+    "name": "Anbu",
+    "id": "ta-SG-AnbuNeural"
+   },
+   "5": {
+    "name": "Pallavi",
+    "id": "ta-IN-PallaviNeural"
+   },
+   "6": {
+    "name": "Saranya",
+    "id": "ta-LK-SaranyaNeural"
+   },
+   "7": {
+    "name": "Kani",
+    "id": "ta-MY-KaniNeural"
+   },
+   "8": {
+    "name": "Venba",
+    "id": "ta-SG-VenbaNeural"
+   }
+  },
+  "# TE": {
+   "1": {
+    "name": "Mohan",
+    "id": "te-IN-MohanNeural"
+   },
+   "2": {
+    "name": "Shruti",
+    "id": "te-IN-ShrutiNeural"
+   }
+  },
+  "# Thai": {
+   "1": {
+    "name": "Niwat",
+    "id": "th-TH-NiwatNeural"
+   },
+   "2": {
+    "name": "Premwadee",
+    "id": "th-TH-PremwadeeNeural"
+   }
+  },
+  "# Turkish": {
+   "1": {
+    "name": "Ahmet",
+    "id": "tr-TR-AhmetNeural"
+   },
+   "2": {
+    "name": "Emel",
+    "id": "tr-TR-EmelNeural"
+   }
+  },
+  "# UK": {
+   "1": {
+    "name": "Ostap",
+    "id": "uk-UA-OstapNeural"
+   },
+   "2": {
+    "name": "Polina",
+    "id": "uk-UA-PolinaNeural"
+   }
+  },
+  "# UR": {
+   "1": {
+    "name": "Salman",
+    "id": "ur-IN-SalmanNeural"
+   },
+   "2": {
+    "name": "Asad",
+    "id": "ur-PK-AsadNeural"
+   },
+   "3": {
+    "name": "Gul",
+    "id": "ur-IN-GulNeural"
+   },
+   "4": {
+    "name": "Uzma",
+    "id": "ur-PK-UzmaNeural"
+   }
+  },
+  "# UZ": {
+   "1": {
+    "name": "Sardor",
+    "id": "uz-UZ-SardorNeural"
+   },
+   "2": {
+    "name": "Madina",
+    "id": "uz-UZ-MadinaNeural"
+   }
+  },
+  "# Vietnamese": {
+   "1": {
+    "name": "NamMinh",
+    "id": "vi-VN-NamMinhNeural"
+   },
+   "2": {
+    "name": "HoaiMy",
+    "id": "vi-VN-HoaiMyNeural"
+   }
+  },
+  "# Chinese": {
+   "1": {
+    "name": "Yunjian",
+    "id": "zh-CN-YunjianNeural"
+   },
+   "2": {
+    "name": "Yunxi",
+    "id": "zh-CN-YunxiNeural"
+   },
+   "3": {
+    "name": "Yunxia",
+    "id": "zh-CN-YunxiaNeural"
+   },
+   "4": {
+    "name": "Yunyang",
+    "id": "zh-CN-YunyangNeural"
+   },
+   "5": {
+    "name": "WanLung",
+    "id": "zh-HK-WanLungNeural"
+   },
+   "6": {
+    "name": "YunJhe",
+    "id": "zh-TW-YunJheNeural"
+   },
+   "7": {
+    "name": "Xiaoxiao",
+    "id": "zh-CN-XiaoxiaoNeural"
+   },
+   "8": {
+    "name": "Xiaoyi",
+    "id": "zh-CN-XiaoyiNeural"
+   },
+   "9": {
+    "name": "Xiaobei",
+    "id": "zh-CN-liaoning-XiaobeiNeural"
+   },
+   "10": {
+    "name": "Xiaoni",
+    "id": "zh-CN-shaanxi-XiaoniNeural"
+   },
+   "11": {
+    "name": "HiuGaai",
+    "id": "zh-HK-HiuGaaiNeural"
+   },
+   "12": {
+    "name": "HiuMaan",
+    "id": "zh-HK-HiuMaanNeural"
+   },
+   "13": {
+    "name": "HsiaoChen",
+    "id": "zh-TW-HsiaoChenNeural"
+   },
+   "14": {
+    "name": "HsiaoYu",
+    "id": "zh-TW-HsiaoYuNeural"
+   }
+  },
+  "# ZU": {
+   "1": {
+    "name": "Themba",
+    "id": "zu-ZA-ThembaNeural"
+   },
+   "2": {
+    "name": "Thando",
+    "id": "zu-ZA-ThandoNeural"
+   }
+  }
  }
 }
