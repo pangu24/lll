@@ -1822,1442 +1822,1764 @@
   }
  },
  "EdgeTTS": {
-  "# AF": {
+  "# Afrikaans": {
    "1": {
     "name": "Willem",
-    "id": "af-ZA-WillemNeural"
+    "id": "af-ZA-WillemNeural",
+    "resource_id": "7375828635136045821"
    },
    "2": {
     "name": "Adri",
-    "id": "af-ZA-AdriNeural"
+    "id": "af-ZA-AdriNeural",
+    "resource_id": "5284846069004445880"
    }
   },
-  "# AM": {
+  "# Amharic": {
    "1": {
     "name": "Ameha",
-    "id": "am-ET-AmehaNeural"
+    "id": "am-ET-AmehaNeural",
+    "resource_id": "1994265653336502589"
    },
    "2": {
     "name": "Mekdes",
-    "id": "am-ET-MekdesNeural"
+    "id": "am-ET-MekdesNeural",
+    "resource_id": "7138261018247894282"
    }
   },
-  "# Arabic": {
+  "# arabic": {
    "1": {
     "name": "Hamdan",
-    "id": "ar-AE-HamdanNeural"
+    "id": "ar-AE-HamdanNeural",
+    "resource_id": "0465682132089705414"
    },
    "2": {
     "name": "Ali",
-    "id": "ar-BH-AliNeural"
+    "id": "ar-BH-AliNeural",
+    "resource_id": "7068279450858629314"
    },
    "3": {
     "name": "Ismael",
-    "id": "ar-DZ-IsmaelNeural"
+    "id": "ar-DZ-IsmaelNeural",
+    "resource_id": "9881960116256346370"
    },
    "4": {
     "name": "Shakir",
-    "id": "ar-EG-ShakirNeural"
+    "id": "ar-EG-ShakirNeural",
+    "resource_id": "0910430163137886298"
    },
    "5": {
     "name": "Bassel",
-    "id": "ar-IQ-BasselNeural"
+    "id": "ar-IQ-BasselNeural",
+    "resource_id": "0478390203165702201"
    },
    "6": {
     "name": "Taim",
-    "id": "ar-JO-TaimNeural"
+    "id": "ar-JO-TaimNeural",
+    "resource_id": "0061972341002106555"
    },
    "7": {
     "name": "Fahed",
-    "id": "ar-KW-FahedNeural"
+    "id": "ar-KW-FahedNeural",
+    "resource_id": "2061063891722809103"
    },
    "8": {
     "name": "Rami",
-    "id": "ar-LB-RamiNeural"
+    "id": "ar-LB-RamiNeural",
+    "resource_id": "3829280580449359637"
    },
    "9": {
     "name": "Omar",
-    "id": "ar-LY-OmarNeural"
+    "id": "ar-LY-OmarNeural",
+    "resource_id": "6364699746906915016"
    },
    "10": {
     "name": "Jamal",
-    "id": "ar-MA-JamalNeural"
+    "id": "ar-MA-JamalNeural",
+    "resource_id": "9430392086644575614"
    },
    "11": {
     "name": "Abdullah",
-    "id": "ar-OM-AbdullahNeural"
+    "id": "ar-OM-AbdullahNeural",
+    "resource_id": "7338317161278111727"
    },
    "12": {
     "name": "Moaz",
-    "id": "ar-QA-MoazNeural"
+    "id": "ar-QA-MoazNeural",
+    "resource_id": "6065241144205599016"
    },
    "13": {
     "name": "Hamed",
-    "id": "ar-SA-HamedNeural"
+    "id": "ar-SA-HamedNeural",
+    "resource_id": "0024781687980461930"
    },
    "14": {
     "name": "Laith",
-    "id": "ar-SY-LaithNeural"
+    "id": "ar-SY-LaithNeural",
+    "resource_id": "8187915086042749554"
    },
    "15": {
     "name": "Hedi",
-    "id": "ar-TN-HediNeural"
+    "id": "ar-TN-HediNeural",
+    "resource_id": "3125292703145628755"
    },
    "16": {
     "name": "Saleh",
-    "id": "ar-YE-SalehNeural"
+    "id": "ar-YE-SalehNeural",
+    "resource_id": "1180466214387432220"
    },
    "17": {
     "name": "Fatima",
-    "id": "ar-AE-FatimaNeural"
+    "id": "ar-AE-FatimaNeural",
+    "resource_id": "5899566678101396864"
    },
    "18": {
     "name": "Laila",
-    "id": "ar-BH-LailaNeural"
+    "id": "ar-BH-LailaNeural",
+    "resource_id": "2093820574947091571"
    },
    "19": {
     "name": "Amina",
-    "id": "ar-DZ-AminaNeural"
+    "id": "ar-DZ-AminaNeural",
+    "resource_id": "1505972388748470510"
    },
    "20": {
     "name": "Salma",
-    "id": "ar-EG-SalmaNeural"
+    "id": "ar-EG-SalmaNeural",
+    "resource_id": "9375846866547972392"
    },
    "21": {
     "name": "Rana",
-    "id": "ar-IQ-RanaNeural"
+    "id": "ar-IQ-RanaNeural",
+    "resource_id": "5491060218886371905"
    },
    "22": {
     "name": "Sana",
-    "id": "ar-JO-SanaNeural"
+    "id": "ar-JO-SanaNeural",
+    "resource_id": "2370687281055033459"
    },
    "23": {
     "name": "Noura",
-    "id": "ar-KW-NouraNeural"
+    "id": "ar-KW-NouraNeural",
+    "resource_id": "4760734824291987488"
    },
    "24": {
     "name": "Layla",
-    "id": "ar-LB-LaylaNeural"
+    "id": "ar-LB-LaylaNeural",
+    "resource_id": "6021847737346222279"
    },
    "25": {
     "name": "Iman",
-    "id": "ar-LY-ImanNeural"
+    "id": "ar-LY-ImanNeural",
+    "resource_id": "1688122434370574229"
    },
    "26": {
     "name": "Mouna",
-    "id": "ar-MA-MounaNeural"
+    "id": "ar-MA-MounaNeural",
+    "resource_id": "7351668804638516599"
    },
    "27": {
     "name": "Aysha",
-    "id": "ar-OM-AyshaNeural"
+    "id": "ar-OM-AyshaNeural",
+    "resource_id": "4351596065788352255"
    },
    "28": {
     "name": "Amal",
-    "id": "ar-QA-AmalNeural"
+    "id": "ar-QA-AmalNeural",
+    "resource_id": "9105887751331584990"
    },
    "29": {
     "name": "Zariyah",
-    "id": "ar-SA-ZariyahNeural"
+    "id": "ar-SA-ZariyahNeural",
+    "resource_id": "7831920136348841534"
    },
    "30": {
     "name": "Amany",
-    "id": "ar-SY-AmanyNeural"
+    "id": "ar-SY-AmanyNeural",
+    "resource_id": "1566206945884944647"
    },
    "31": {
     "name": "Reem",
-    "id": "ar-TN-ReemNeural"
+    "id": "ar-TN-ReemNeural",
+    "resource_id": "3102188885182589769"
    },
    "32": {
     "name": "Maryam",
-    "id": "ar-YE-MaryamNeural"
+    "id": "ar-YE-MaryamNeural",
+    "resource_id": "3385700163205865599"
    }
   },
-  "# AZ": {
+  "# Azerbaijani": {
    "1": {
     "name": "Babek",
-    "id": "az-AZ-BabekNeural"
+    "id": "az-AZ-BabekNeural",
+    "resource_id": "0475059963915569718"
    },
    "2": {
     "name": "Banu",
-    "id": "az-AZ-BanuNeural"
+    "id": "az-AZ-BanuNeural",
+    "resource_id": "0530987875803691587"
    }
   },
-  "# BG": {
+  "# Bulgarian": {
    "1": {
     "name": "Borislav",
-    "id": "bg-BG-BorislavNeural"
+    "id": "bg-BG-BorislavNeural",
+    "resource_id": "5747032637412666627"
    },
    "2": {
     "name": "Kalina",
-    "id": "bg-BG-KalinaNeural"
+    "id": "bg-BG-KalinaNeural",
+    "resource_id": "9813679968012403010"
    }
   },
-  "# BN": {
+  "# Bengali": {
    "1": {
     "name": "Pradeep",
-    "id": "bn-BD-PradeepNeural"
+    "id": "bn-BD-PradeepNeural",
+    "resource_id": "1567745181360748335"
    },
    "2": {
     "name": "Bashkar",
-    "id": "bn-IN-BashkarNeural"
+    "id": "bn-IN-BashkarNeural",
+    "resource_id": "6683031750235971956"
    },
    "3": {
     "name": "Nabanita",
-    "id": "bn-BD-NabanitaNeural"
+    "id": "bn-BD-NabanitaNeural",
+    "resource_id": "1757942711406755573"
    },
    "4": {
     "name": "Tanishaa",
-    "id": "bn-IN-TanishaaNeural"
+    "id": "bn-IN-TanishaaNeural",
+    "resource_id": "5650667899703249576"
    }
   },
-  "# BS": {
+  "# Bosnian": {
    "1": {
     "name": "Goran",
-    "id": "bs-BA-GoranNeural"
+    "id": "bs-BA-GoranNeural",
+    "resource_id": "5334990910059961731"
    },
    "2": {
     "name": "Vesna",
-    "id": "bs-BA-VesnaNeural"
+    "id": "bs-BA-VesnaNeural",
+    "resource_id": "8743718126653884062"
    }
   },
-  "# CA": {
+  "# Catalan": {
    "1": {
     "name": "Enric",
-    "id": "ca-ES-EnricNeural"
+    "id": "ca-ES-EnricNeural",
+    "resource_id": "6453914346304584285"
    },
    "2": {
     "name": "Joana",
-    "id": "ca-ES-JoanaNeural"
+    "id": "ca-ES-JoanaNeural",
+    "resource_id": "7462387894850620184"
    }
   },
-  "# CS": {
+  "# Czech": {
    "1": {
     "name": "Antonin",
-    "id": "cs-CZ-AntoninNeural"
+    "id": "cs-CZ-AntoninNeural",
+    "resource_id": "2509130215923095733"
    },
    "2": {
     "name": "Vlasta",
-    "id": "cs-CZ-VlastaNeural"
+    "id": "cs-CZ-VlastaNeural",
+    "resource_id": "6693898094215723293"
    }
   },
-  "# CY": {
+  "# Welsh": {
    "1": {
     "name": "Aled",
-    "id": "cy-GB-AledNeural"
+    "id": "cy-GB-AledNeural",
+    "resource_id": "5654416099637860819"
    },
    "2": {
     "name": "Nia",
-    "id": "cy-GB-NiaNeural"
+    "id": "cy-GB-NiaNeural",
+    "resource_id": "0874874003709292227"
    }
   },
-  "# DA": {
+  "# Danish": {
    "1": {
     "name": "Jeppe",
-    "id": "da-DK-JeppeNeural"
+    "id": "da-DK-JeppeNeural",
+    "resource_id": "1801578963483402411"
    },
    "2": {
     "name": "Christel",
-    "id": "da-DK-ChristelNeural"
+    "id": "da-DK-ChristelNeural",
+    "resource_id": "0917736637891430651"
    }
   },
-  "# German": {
+  "# german": {
    "1": {
     "name": "Jonas",
-    "id": "de-AT-JonasNeural"
+    "id": "de-AT-JonasNeural",
+    "resource_id": "0074777462344560868"
    },
    "2": {
     "name": "Jan",
-    "id": "de-CH-JanNeural"
+    "id": "de-CH-JanNeural",
+    "resource_id": "3229891180639194379"
    },
    "3": {
     "name": "Conrad",
-    "id": "de-DE-ConradNeural"
+    "id": "de-DE-ConradNeural",
+    "resource_id": "4195751180004472959"
    },
    "4": {
     "name": "FlorianMultilingual",
-    "id": "de-DE-FlorianMultilingualNeural"
+    "id": "de-DE-FlorianMultilingualNeural",
+    "resource_id": "3148320425925919781"
    },
    "5": {
     "name": "Killian",
-    "id": "de-DE-KillianNeural"
+    "id": "de-DE-KillianNeural",
+    "resource_id": "4679893645716654850"
    },
    "6": {
     "name": "Ingrid",
-    "id": "de-AT-IngridNeural"
+    "id": "de-AT-IngridNeural",
+    "resource_id": "6928749419916284796"
    },
    "7": {
     "name": "Leni",
-    "id": "de-CH-LeniNeural"
+    "id": "de-CH-LeniNeural",
+    "resource_id": "6935132119851166988"
    },
    "8": {
     "name": "Amala",
-    "id": "de-DE-AmalaNeural"
+    "id": "de-DE-AmalaNeural",
+    "resource_id": "5373232004827467039"
    },
    "9": {
     "name": "Katja",
-    "id": "de-DE-KatjaNeural"
+    "id": "de-DE-KatjaNeural",
+    "resource_id": "5341300381888789855"
    },
    "10": {
     "name": "SeraphinaMultilingual",
-    "id": "de-DE-SeraphinaMultilingualNeural"
+    "id": "de-DE-SeraphinaMultilingualNeural",
+    "resource_id": "5099623924107466797"
    }
   },
-  "# EL": {
+  "# Greek": {
    "1": {
     "name": "Nestoras",
-    "id": "el-GR-NestorasNeural"
+    "id": "el-GR-NestorasNeural",
+    "resource_id": "1957826263013236111"
    },
    "2": {
     "name": "Athina",
-    "id": "el-GR-AthinaNeural"
+    "id": "el-GR-AthinaNeural",
+    "resource_id": "9173291245616521596"
    }
   },
-  "# English": {
+  "# english": {
    "1": {
     "name": "William",
-    "id": "en-AU-WilliamNeural"
+    "id": "en-AU-WilliamNeural",
+    "resource_id": "6864685408875471237"
    },
    "2": {
     "name": "Liam",
-    "id": "en-CA-LiamNeural"
+    "id": "en-CA-LiamNeural",
+    "resource_id": "0562457340015898529"
    },
    "3": {
     "name": "Ryan",
-    "id": "en-GB-RyanNeural"
+    "id": "en-GB-RyanNeural",
+    "resource_id": "4634587190406909553"
    },
    "4": {
     "name": "Thomas",
-    "id": "en-GB-ThomasNeural"
+    "id": "en-GB-ThomasNeural",
+    "resource_id": "2956371638477348031"
    },
    "5": {
     "name": "Sam",
-    "id": "en-HK-SamNeural"
+    "id": "en-HK-SamNeural",
+    "resource_id": "5893163466555635924"
    },
    "6": {
     "name": "Connor",
-    "id": "en-IE-ConnorNeural"
+    "id": "en-IE-ConnorNeural",
+    "resource_id": "7806496133285466305"
    },
    "7": {
     "name": "Prabhat",
-    "id": "en-IN-PrabhatNeural"
+    "id": "en-IN-PrabhatNeural",
+    "resource_id": "2485756640960152965"
    },
    "8": {
     "name": "Chilemba",
-    "id": "en-KE-ChilembaNeural"
+    "id": "en-KE-ChilembaNeural",
+    "resource_id": "8900153693435598104"
    },
    "9": {
     "name": "Abeo",
-    "id": "en-NG-AbeoNeural"
+    "id": "en-NG-AbeoNeural",
+    "resource_id": "3243663564237325896"
    },
    "10": {
     "name": "Mitchell",
-    "id": "en-NZ-MitchellNeural"
+    "id": "en-NZ-MitchellNeural",
+    "resource_id": "2500500784541784577"
    },
    "11": {
     "name": "James",
-    "id": "en-PH-JamesNeural"
+    "id": "en-PH-JamesNeural",
+    "resource_id": "4516847519903422524"
    },
    "12": {
     "name": "Wayne",
-    "id": "en-SG-WayneNeural"
+    "id": "en-SG-WayneNeural",
+    "resource_id": "1562779557922866310"
    },
    "13": {
     "name": "Elimu",
-    "id": "en-TZ-ElimuNeural"
+    "id": "en-TZ-ElimuNeural",
+    "resource_id": "1285797294577589145"
    },
    "14": {
     "name": "AndrewMultilingual",
-    "id": "en-US-AndrewMultilingualNeural"
+    "id": "en-US-AndrewMultilingualNeural",
+    "resource_id": "1426186582467866124"
    },
    "15": {
     "name": "Andrew",
-    "id": "en-US-AndrewNeural"
+    "id": "en-US-AndrewNeural",
+    "resource_id": "2925173398079772195"
    },
    "16": {
     "name": "BrianMultilingual",
-    "id": "en-US-BrianMultilingualNeural"
+    "id": "en-US-BrianMultilingualNeural",
+    "resource_id": "2971853036600622302"
    },
    "17": {
     "name": "Brian",
-    "id": "en-US-BrianNeural"
+    "id": "en-US-BrianNeural",
+    "resource_id": "1387655977697712610"
    },
    "18": {
     "name": "Christopher",
-    "id": "en-US-ChristopherNeural"
+    "id": "en-US-ChristopherNeural",
+    "resource_id": "7263889497773316248"
    },
    "19": {
     "name": "Eric",
-    "id": "en-US-EricNeural"
+    "id": "en-US-EricNeural",
+    "resource_id": "0260785443711762968"
    },
    "20": {
     "name": "Guy",
-    "id": "en-US-GuyNeural"
+    "id": "en-US-GuyNeural",
+    "resource_id": "0369082860374206662"
    },
    "21": {
     "name": "Roger",
-    "id": "en-US-RogerNeural"
+    "id": "en-US-RogerNeural",
+    "resource_id": "6227566105140395565"
    },
    "22": {
     "name": "Steffan",
-    "id": "en-US-SteffanNeural"
+    "id": "en-US-SteffanNeural",
+    "resource_id": "7398925489779613960"
    },
    "23": {
     "name": "Luke",
-    "id": "en-ZA-LukeNeural"
+    "id": "en-ZA-LukeNeural",
+    "resource_id": "2144718803874906993"
    },
    "24": {
     "name": "Natasha",
-    "id": "en-AU-NatashaNeural"
+    "id": "en-AU-NatashaNeural",
+    "resource_id": "2360654345344465127"
    },
    "25": {
     "name": "Clara",
-    "id": "en-CA-ClaraNeural"
+    "id": "en-CA-ClaraNeural",
+    "resource_id": "1237632481717908970"
    },
    "26": {
     "name": "Libby",
-    "id": "en-GB-LibbyNeural"
+    "id": "en-GB-LibbyNeural",
+    "resource_id": "8019830972133313258"
    },
    "27": {
     "name": "Maisie",
-    "id": "en-GB-MaisieNeural"
+    "id": "en-GB-MaisieNeural",
+    "resource_id": "6431619803655042180"
    },
    "28": {
     "name": "Sonia",
-    "id": "en-GB-SoniaNeural"
+    "id": "en-GB-SoniaNeural",
+    "resource_id": "0888443057108805683"
    },
    "29": {
     "name": "Yan",
-    "id": "en-HK-YanNeural"
+    "id": "en-HK-YanNeural",
+    "resource_id": "4228282455911088625"
    },
    "30": {
     "name": "Emily",
-    "id": "en-IE-EmilyNeural"
+    "id": "en-IE-EmilyNeural",
+    "resource_id": "2775066372583185427"
    },
    "31": {
     "name": "NeerjaExpressive",
-    "id": "en-IN-NeerjaExpressiveNeural"
+    "id": "en-IN-NeerjaExpressiveNeural",
+    "resource_id": "8961970199090350107"
    },
    "32": {
     "name": "Neerja",
-    "id": "en-IN-NeerjaNeural"
+    "id": "en-IN-NeerjaNeural",
+    "resource_id": "3157731652344642052"
    },
    "33": {
     "name": "Asilia",
-    "id": "en-KE-AsiliaNeural"
+    "id": "en-KE-AsiliaNeural",
+    "resource_id": "1565999052593678965"
    },
    "34": {
     "name": "Ezinne",
-    "id": "en-NG-EzinneNeural"
+    "id": "en-NG-EzinneNeural",
+    "resource_id": "0940737387418923825"
    },
    "35": {
     "name": "Molly",
-    "id": "en-NZ-MollyNeural"
+    "id": "en-NZ-MollyNeural",
+    "resource_id": "1473790454012903337"
    },
    "36": {
     "name": "Rosa",
-    "id": "en-PH-RosaNeural"
+    "id": "en-PH-RosaNeural",
+    "resource_id": "3663240149528667252"
    },
    "37": {
     "name": "Luna",
-    "id": "en-SG-LunaNeural"
+    "id": "en-SG-LunaNeural",
+    "resource_id": "7037203127480055639"
    },
    "38": {
     "name": "Imani",
-    "id": "en-TZ-ImaniNeural"
+    "id": "en-TZ-ImaniNeural",
+    "resource_id": "3772961360654545802"
    },
    "39": {
     "name": "Ana",
-    "id": "en-US-AnaNeural"
+    "id": "en-US-AnaNeural",
+    "resource_id": "6610258874221459438"
    },
    "40": {
     "name": "Aria",
-    "id": "en-US-AriaNeural"
+    "id": "en-US-AriaNeural",
+    "resource_id": "8515265012734167032"
    },
    "41": {
     "name": "AvaMultilingual",
-    "id": "en-US-AvaMultilingualNeural"
+    "id": "en-US-AvaMultilingualNeural",
+    "resource_id": "5596060197093912746"
    },
    "42": {
     "name": "Ava",
-    "id": "en-US-AvaNeural"
+    "id": "en-US-AvaNeural",
+    "resource_id": "8864963706683430286"
    },
    "43": {
     "name": "EmmaMultilingual",
-    "id": "en-US-EmmaMultilingualNeural"
+    "id": "en-US-EmmaMultilingualNeural",
+    "resource_id": "0548125298355493083"
    },
    "44": {
     "name": "Emma",
-    "id": "en-US-EmmaNeural"
+    "id": "en-US-EmmaNeural",
+    "resource_id": "9468071471999101515"
    },
    "45": {
     "name": "Jenny",
-    "id": "en-US-JennyNeural"
+    "id": "en-US-JennyNeural",
+    "resource_id": "4462532472766354937"
    },
    "46": {
     "name": "Michelle",
-    "id": "en-US-MichelleNeural"
+    "id": "en-US-MichelleNeural",
+    "resource_id": "6343941300184426723"
    },
    "47": {
     "name": "Leah",
-    "id": "en-ZA-LeahNeural"
+    "id": "en-ZA-LeahNeural",
+    "resource_id": "2889001913312141317"
    }
   },
-  "# Spanish": {
+  "# spanish": {
    "1": {
     "name": "Tomas",
-    "id": "es-AR-TomasNeural"
+    "id": "es-AR-TomasNeural",
+    "resource_id": "3272249436769841795"
    },
    "2": {
     "name": "Marcelo",
-    "id": "es-BO-MarceloNeural"
+    "id": "es-BO-MarceloNeural",
+    "resource_id": "5922581914665628945"
    },
    "3": {
     "name": "Lorenzo",
-    "id": "es-CL-LorenzoNeural"
+    "id": "es-CL-LorenzoNeural",
+    "resource_id": "6092620537881758157"
    },
    "4": {
     "name": "Gonzalo",
-    "id": "es-CO-GonzaloNeural"
+    "id": "es-CO-GonzaloNeural",
+    "resource_id": "7249907905555305700"
    },
    "5": {
     "name": "Juan",
-    "id": "es-CR-JuanNeural"
+    "id": "es-CR-JuanNeural",
+    "resource_id": "7401403439901735819"
    },
    "6": {
     "name": "Manuel",
-    "id": "es-CU-ManuelNeural"
+    "id": "es-CU-ManuelNeural",
+    "resource_id": "3109250550143015394"
    },
    "7": {
     "name": "Emilio",
-    "id": "es-DO-EmilioNeural"
+    "id": "es-DO-EmilioNeural",
+    "resource_id": "9958993882818092030"
    },
    "8": {
     "name": "Luis",
-    "id": "es-EC-LuisNeural"
+    "id": "es-EC-LuisNeural",
+    "resource_id": "1049157766720334040"
    },
    "9": {
     "name": "Alvaro",
-    "id": "es-ES-AlvaroNeural"
+    "id": "es-ES-AlvaroNeural",
+    "resource_id": "1805937332344828430"
    },
    "10": {
     "name": "Javier",
-    "id": "es-GQ-JavierNeural"
+    "id": "es-GQ-JavierNeural",
+    "resource_id": "1161829625151292781"
    },
    "11": {
     "name": "Andres",
-    "id": "es-GT-AndresNeural"
+    "id": "es-GT-AndresNeural",
+    "resource_id": "6793998667452216018"
    },
    "12": {
     "name": "Carlos",
-    "id": "es-HN-CarlosNeural"
+    "id": "es-HN-CarlosNeural",
+    "resource_id": "5293025557938378836"
    },
    "13": {
     "name": "Jorge",
-    "id": "es-MX-JorgeNeural"
+    "id": "es-MX-JorgeNeural",
+    "resource_id": "4916391643755433844"
    },
    "14": {
     "name": "Federico",
-    "id": "es-NI-FedericoNeural"
+    "id": "es-NI-FedericoNeural",
+    "resource_id": "6498830668031549734"
    },
    "15": {
     "name": "Roberto",
-    "id": "es-PA-RobertoNeural"
+    "id": "es-PA-RobertoNeural",
+    "resource_id": "3848872986641899249"
    },
    "16": {
     "name": "Alex",
-    "id": "es-PE-AlexNeural"
+    "id": "es-PE-AlexNeural",
+    "resource_id": "4444211445118376245"
    },
    "17": {
     "name": "Victor",
-    "id": "es-PR-VictorNeural"
+    "id": "es-PR-VictorNeural",
+    "resource_id": "0791191828265605780"
    },
    "18": {
     "name": "Mario",
-    "id": "es-PY-MarioNeural"
+    "id": "es-PY-MarioNeural",
+    "resource_id": "5950030635946198039"
    },
    "19": {
     "name": "Rodrigo",
-    "id": "es-SV-RodrigoNeural"
+    "id": "es-SV-RodrigoNeural",
+    "resource_id": "2051290143621625209"
    },
    "20": {
     "name": "Alonso",
-    "id": "es-US-AlonsoNeural"
+    "id": "es-US-AlonsoNeural",
+    "resource_id": "7577949879709632584"
    },
    "21": {
     "name": "Mateo",
-    "id": "es-UY-MateoNeural"
+    "id": "es-UY-MateoNeural",
+    "resource_id": "7444871987261353398"
    },
    "22": {
     "name": "Sebastian",
-    "id": "es-VE-SebastianNeural"
+    "id": "es-VE-SebastianNeural",
+    "resource_id": "2716597948141026240"
    },
    "23": {
     "name": "Elena",
-    "id": "es-AR-ElenaNeural"
+    "id": "es-AR-ElenaNeural",
+    "resource_id": "3057838595629078190"
    },
    "24": {
     "name": "Sofia",
-    "id": "es-BO-SofiaNeural"
+    "id": "es-BO-SofiaNeural",
+    "resource_id": "6836731599277257890"
    },
    "25": {
     "name": "Catalina",
-    "id": "es-CL-CatalinaNeural"
+    "id": "es-CL-CatalinaNeural",
+    "resource_id": "4099533127022031128"
    },
    "26": {
     "name": "Salome",
-    "id": "es-CO-SalomeNeural"
+    "id": "es-CO-SalomeNeural",
+    "resource_id": "0696259561411718085"
    },
    "27": {
     "name": "Maria",
-    "id": "es-CR-MariaNeural"
+    "id": "es-CR-MariaNeural",
+    "resource_id": "6801413745818414386"
    },
    "28": {
     "name": "Belkys",
-    "id": "es-CU-BelkysNeural"
+    "id": "es-CU-BelkysNeural",
+    "resource_id": "0989254027639436717"
    },
    "29": {
     "name": "Ramona",
-    "id": "es-DO-RamonaNeural"
+    "id": "es-DO-RamonaNeural",
+    "resource_id": "0528881804550768523"
    },
    "30": {
     "name": "Andrea",
-    "id": "es-EC-AndreaNeural"
+    "id": "es-EC-AndreaNeural",
+    "resource_id": "5206507148934462310"
    },
    "31": {
     "name": "Elvira",
-    "id": "es-ES-ElviraNeural"
+    "id": "es-ES-ElviraNeural",
+    "resource_id": "9715923410797923961"
    },
    "32": {
     "name": "Ximena",
-    "id": "es-ES-XimenaNeural"
+    "id": "es-ES-XimenaNeural",
+    "resource_id": "8380722554967049373"
    },
    "33": {
     "name": "Teresa",
-    "id": "es-GQ-TeresaNeural"
+    "id": "es-GQ-TeresaNeural",
+    "resource_id": "5207410925365882526"
    },
    "34": {
     "name": "Marta",
-    "id": "es-GT-MartaNeural"
+    "id": "es-GT-MartaNeural",
+    "resource_id": "2128952266123535321"
    },
    "35": {
     "name": "Karla",
-    "id": "es-HN-KarlaNeural"
+    "id": "es-HN-KarlaNeural",
+    "resource_id": "6435249204168621053"
    },
    "36": {
     "name": "Dalia",
-    "id": "es-MX-DaliaNeural"
+    "id": "es-MX-DaliaNeural",
+    "resource_id": "4506722594673496015"
    },
    "37": {
     "name": "Yolanda",
-    "id": "es-NI-YolandaNeural"
+    "id": "es-NI-YolandaNeural",
+    "resource_id": "8583729146070178636"
    },
    "38": {
     "name": "Margarita",
-    "id": "es-PA-MargaritaNeural"
+    "id": "es-PA-MargaritaNeural",
+    "resource_id": "8072438341195361855"
    },
    "39": {
     "name": "Camila",
-    "id": "es-PE-CamilaNeural"
+    "id": "es-PE-CamilaNeural",
+    "resource_id": "5288847327284418001"
    },
    "40": {
     "name": "Karina",
-    "id": "es-PR-KarinaNeural"
+    "id": "es-PR-KarinaNeural",
+    "resource_id": "8786520144450830790"
    },
    "41": {
     "name": "Tania",
-    "id": "es-PY-TaniaNeural"
+    "id": "es-PY-TaniaNeural",
+    "resource_id": "7422311846087546316"
    },
    "42": {
     "name": "Lorena",
-    "id": "es-SV-LorenaNeural"
+    "id": "es-SV-LorenaNeural",
+    "resource_id": "7542844647485637164"
    },
    "43": {
     "name": "Paloma",
-    "id": "es-US-PalomaNeural"
+    "id": "es-US-PalomaNeural",
+    "resource_id": "9254069928793750101"
    },
    "44": {
     "name": "Valentina",
-    "id": "es-UY-ValentinaNeural"
+    "id": "es-UY-ValentinaNeural",
+    "resource_id": "1342320129607847171"
    },
    "45": {
     "name": "Paola",
-    "id": "es-VE-PaolaNeural"
+    "id": "es-VE-PaolaNeural",
+    "resource_id": "5337959774726527920"
    }
   },
-  "# ET": {
+  "# Estonian": {
    "1": {
     "name": "Kert",
-    "id": "et-EE-KertNeural"
+    "id": "et-EE-KertNeural",
+    "resource_id": "9931353871864424264"
    },
    "2": {
     "name": "Anu",
-    "id": "et-EE-AnuNeural"
+    "id": "et-EE-AnuNeural",
+    "resource_id": "2743601948652973439"
    }
   },
-  "# FA": {
+  "# Persian": {
    "1": {
     "name": "Farid",
-    "id": "fa-IR-FaridNeural"
+    "id": "fa-IR-FaridNeural",
+    "resource_id": "1873142275383764849"
    },
    "2": {
     "name": "Dilara",
-    "id": "fa-IR-DilaraNeural"
+    "id": "fa-IR-DilaraNeural",
+    "resource_id": "4059563590313936389"
    }
   },
-  "# FI": {
+  "# Finnish": {
    "1": {
     "name": "Harri",
-    "id": "fi-FI-HarriNeural"
+    "id": "fi-FI-HarriNeural",
+    "resource_id": "6314602823770005140"
    },
    "2": {
     "name": "Noora",
-    "id": "fi-FI-NooraNeural"
+    "id": "fi-FI-NooraNeural",
+    "resource_id": "5902897103363473644"
    }
   },
-  "# FIL": {
+  "# Filipino": {
    "1": {
     "name": "Angelo",
-    "id": "fil-PH-AngeloNeural"
+    "id": "fil-PH-AngeloNeural",
+    "resource_id": "4363365264711035301"
    },
    "2": {
     "name": "Blessica",
-    "id": "fil-PH-BlessicaNeural"
+    "id": "fil-PH-BlessicaNeural",
+    "resource_id": "7552447713403895028"
    }
   },
-  "# French": {
+  "# french": {
    "1": {
     "name": "Gerard",
-    "id": "fr-BE-GerardNeural"
+    "id": "fr-BE-GerardNeural",
+    "resource_id": "0368692269422889876"
    },
    "2": {
     "name": "Antoine",
-    "id": "fr-CA-AntoineNeural"
+    "id": "fr-CA-AntoineNeural",
+    "resource_id": "2333864953098801343"
    },
    "3": {
     "name": "Jean",
-    "id": "fr-CA-JeanNeural"
+    "id": "fr-CA-JeanNeural",
+    "resource_id": "9340552878692822484"
    },
    "4": {
     "name": "Thierry",
-    "id": "fr-CA-ThierryNeural"
+    "id": "fr-CA-ThierryNeural",
+    "resource_id": "9353022380242088417"
    },
    "5": {
     "name": "Fabrice",
-    "id": "fr-CH-FabriceNeural"
+    "id": "fr-CH-FabriceNeural",
+    "resource_id": "2069768528890175152"
    },
    "6": {
     "name": "Henri",
-    "id": "fr-FR-HenriNeural"
+    "id": "fr-FR-HenriNeural",
+    "resource_id": "0082815822436688213"
    },
    "7": {
     "name": "RemyMultilingual",
-    "id": "fr-FR-RemyMultilingualNeural"
+    "id": "fr-FR-RemyMultilingualNeural",
+    "resource_id": "6678105146736802199"
    },
    "8": {
     "name": "Charline",
-    "id": "fr-BE-CharlineNeural"
+    "id": "fr-BE-CharlineNeural",
+    "resource_id": "2892115166369302247"
    },
    "9": {
     "name": "Sylvie",
-    "id": "fr-CA-SylvieNeural"
+    "id": "fr-CA-SylvieNeural",
+    "resource_id": "2943321034225237427"
    },
    "10": {
     "name": "Ariane",
-    "id": "fr-CH-ArianeNeural"
+    "id": "fr-CH-ArianeNeural",
+    "resource_id": "8434405943068420874"
    },
    "11": {
     "name": "Denise",
-    "id": "fr-FR-DeniseNeural"
+    "id": "fr-FR-DeniseNeural",
+    "resource_id": "7318931247022180143"
    },
    "12": {
     "name": "Eloise",
-    "id": "fr-FR-EloiseNeural"
+    "id": "fr-FR-EloiseNeural",
+    "resource_id": "3477527200609757335"
    },
    "13": {
     "name": "VivienneMultilingual",
-    "id": "fr-FR-VivienneMultilingualNeural"
+    "id": "fr-FR-VivienneMultilingualNeural",
+    "resource_id": "9672526803187368080"
    }
   },
-  "# GA": {
+  "# Irish": {
    "1": {
     "name": "Colm",
-    "id": "ga-IE-ColmNeural"
+    "id": "ga-IE-ColmNeural",
+    "resource_id": "2767014052621414323"
    },
    "2": {
     "name": "Orla",
-    "id": "ga-IE-OrlaNeural"
+    "id": "ga-IE-OrlaNeural",
+    "resource_id": "0738058131024136405"
    }
   },
-  "# GL": {
+  "# Galician": {
    "1": {
     "name": "Roi",
-    "id": "gl-ES-RoiNeural"
+    "id": "gl-ES-RoiNeural",
+    "resource_id": "2251691074222439681"
    },
    "2": {
     "name": "Sabela",
-    "id": "gl-ES-SabelaNeural"
+    "id": "gl-ES-SabelaNeural",
+    "resource_id": "6320980662351184046"
    }
   },
-  "# GU": {
+  "# Gujarati": {
    "1": {
     "name": "Niranjan",
-    "id": "gu-IN-NiranjanNeural"
+    "id": "gu-IN-NiranjanNeural",
+    "resource_id": "8044445654744500139"
    },
    "2": {
     "name": "Dhwani",
-    "id": "gu-IN-DhwaniNeural"
+    "id": "gu-IN-DhwaniNeural",
+    "resource_id": "6177699639827368488"
    }
   },
-  "# HE": {
+  "# Hebrew": {
    "1": {
     "name": "Avri",
-    "id": "he-IL-AvriNeural"
+    "id": "he-IL-AvriNeural",
+    "resource_id": "4628700512599874235"
    },
    "2": {
     "name": "Hila",
-    "id": "he-IL-HilaNeural"
+    "id": "he-IL-HilaNeural",
+    "resource_id": "6386350426225657610"
    }
   },
-  "# HI": {
+  "# Hindi": {
    "1": {
     "name": "Madhur",
-    "id": "hi-IN-MadhurNeural"
+    "id": "hi-IN-MadhurNeural",
+    "resource_id": "1089278594754894606"
    },
    "2": {
     "name": "Swara",
-    "id": "hi-IN-SwaraNeural"
+    "id": "hi-IN-SwaraNeural",
+    "resource_id": "7232516593948779875"
    }
   },
-  "# HR": {
+  "# Croatian": {
    "1": {
     "name": "Srecko",
-    "id": "hr-HR-SreckoNeural"
+    "id": "hr-HR-SreckoNeural",
+    "resource_id": "8675414504577212981"
    },
    "2": {
     "name": "Gabrijela",
-    "id": "hr-HR-GabrijelaNeural"
+    "id": "hr-HR-GabrijelaNeural",
+    "resource_id": "5845437190848248489"
    }
   },
-  "# HU": {
+  "# Hungarian": {
    "1": {
     "name": "Tamas",
-    "id": "hu-HU-TamasNeural"
+    "id": "hu-HU-TamasNeural",
+    "resource_id": "5677568062824683842"
    },
    "2": {
     "name": "Noemi",
-    "id": "hu-HU-NoemiNeural"
+    "id": "hu-HU-NoemiNeural",
+    "resource_id": "3608949592379712334"
    }
   },
-  "# Indonesian": {
+  "# indonesian": {
    "1": {
     "name": "Ardi",
-    "id": "id-ID-ArdiNeural"
+    "id": "id-ID-ArdiNeural",
+    "resource_id": "7448691606160188770"
    },
    "2": {
     "name": "Gadis",
-    "id": "id-ID-GadisNeural"
+    "id": "id-ID-GadisNeural",
+    "resource_id": "3632342660326244344"
    }
   },
-  "# IS": {
+  "# Icelandic": {
    "1": {
     "name": "Gunnar",
-    "id": "is-IS-GunnarNeural"
+    "id": "is-IS-GunnarNeural",
+    "resource_id": "5449274176057250093"
    },
    "2": {
     "name": "Gudrun",
-    "id": "is-IS-GudrunNeural"
+    "id": "is-IS-GudrunNeural",
+    "resource_id": "7699687098184103111"
    }
   },
-  "# IT": {
+  "# Italian": {
    "1": {
     "name": "Diego",
-    "id": "it-IT-DiegoNeural"
+    "id": "it-IT-DiegoNeural",
+    "resource_id": "9893970960586915039"
    },
    "2": {
     "name": "GiuseppeMultilingual",
-    "id": "it-IT-GiuseppeMultilingualNeural"
+    "id": "it-IT-GiuseppeMultilingualNeural",
+    "resource_id": "4696417656685568240"
    },
    "3": {
     "name": "Elsa",
-    "id": "it-IT-ElsaNeural"
+    "id": "it-IT-ElsaNeural",
+    "resource_id": "9401606790868803333"
    },
    "4": {
     "name": "Isabella",
-    "id": "it-IT-IsabellaNeural"
+    "id": "it-IT-IsabellaNeural",
+    "resource_id": "1495540953468788946"
    }
   },
-  "# IU": {
+  "# Inuktitut": {
    "1": {
     "name": "Taqqiq",
-    "id": "iu-Cans-CA-TaqqiqNeural"
+    "id": "iu-Cans-CA-TaqqiqNeural",
+    "resource_id": "7626774105603391798"
    },
    "2": {
     "name": "Taqqiq",
-    "id": "iu-Latn-CA-TaqqiqNeural"
+    "id": "iu-Latn-CA-TaqqiqNeural",
+    "resource_id": "2302311073391221525"
    },
    "3": {
     "name": "Siqiniq",
-    "id": "iu-Cans-CA-SiqiniqNeural"
+    "id": "iu-Cans-CA-SiqiniqNeural",
+    "resource_id": "0023641404000102729"
    },
    "4": {
     "name": "Siqiniq",
-    "id": "iu-Latn-CA-SiqiniqNeural"
+    "id": "iu-Latn-CA-SiqiniqNeural",
+    "resource_id": "5484458123216451218"
    }
   },
-  "# Japanese": {
+  "# japanese": {
    "1": {
     "name": "Keita",
-    "id": "ja-JP-KeitaNeural"
+    "id": "ja-JP-KeitaNeural",
+    "resource_id": "6489622298998690834"
    },
    "2": {
     "name": "Nanami",
-    "id": "ja-JP-NanamiNeural"
+    "id": "ja-JP-NanamiNeural",
+    "resource_id": "8900169442764710943"
    }
   },
-  "# JV": {
+  "# Javanese": {
    "1": {
     "name": "Dimas",
-    "id": "jv-ID-DimasNeural"
+    "id": "jv-ID-DimasNeural",
+    "resource_id": "3972693882622276849"
    },
    "2": {
     "name": "Siti",
-    "id": "jv-ID-SitiNeural"
+    "id": "jv-ID-SitiNeural",
+    "resource_id": "1884916876328691393"
    }
   },
-  "# KA": {
+  "# Georgian": {
    "1": {
     "name": "Giorgi",
-    "id": "ka-GE-GiorgiNeural"
+    "id": "ka-GE-GiorgiNeural",
+    "resource_id": "6633123889457055787"
    },
    "2": {
     "name": "Eka",
-    "id": "ka-GE-EkaNeural"
+    "id": "ka-GE-EkaNeural",
+    "resource_id": "0745062874582196881"
    }
   },
-  "# KK": {
+  "# Kazakh": {
    "1": {
     "name": "Daulet",
-    "id": "kk-KZ-DauletNeural"
+    "id": "kk-KZ-DauletNeural",
+    "resource_id": "3840519165310867873"
    },
    "2": {
     "name": "Aigul",
-    "id": "kk-KZ-AigulNeural"
+    "id": "kk-KZ-AigulNeural",
+    "resource_id": "4771287024113473045"
    }
   },
-  "# KM": {
+  "# Khmer": {
    "1": {
     "name": "Piseth",
-    "id": "km-KH-PisethNeural"
+    "id": "km-KH-PisethNeural",
+    "resource_id": "3733704728879329683"
    },
    "2": {
     "name": "Sreymom",
-    "id": "km-KH-SreymomNeural"
+    "id": "km-KH-SreymomNeural",
+    "resource_id": "7325315357818960792"
    }
   },
-  "# KN": {
+  "# Kannada": {
    "1": {
     "name": "Gagan",
-    "id": "kn-IN-GaganNeural"
+    "id": "kn-IN-GaganNeural",
+    "resource_id": "4160957257331094487"
    },
    "2": {
     "name": "Sapna",
-    "id": "kn-IN-SapnaNeural"
+    "id": "kn-IN-SapnaNeural",
+    "resource_id": "0244615898943114963"
    }
   },
-  "# Korean": {
+  "# korean": {
    "1": {
     "name": "HyunsuMultilingual",
-    "id": "ko-KR-HyunsuMultilingualNeural"
+    "id": "ko-KR-HyunsuMultilingualNeural",
+    "resource_id": "9209636903503110973"
    },
    "2": {
     "name": "InJoon",
-    "id": "ko-KR-InJoonNeural"
+    "id": "ko-KR-InJoonNeural",
+    "resource_id": "8048940728553773432"
    },
    "3": {
     "name": "SunHi",
-    "id": "ko-KR-SunHiNeural"
+    "id": "ko-KR-SunHiNeural",
+    "resource_id": "3815121608794574484"
    }
   },
-  "# LO": {
+  "# Lao": {
    "1": {
     "name": "Chanthavong",
-    "id": "lo-LA-ChanthavongNeural"
+    "id": "lo-LA-ChanthavongNeural",
+    "resource_id": "4154134043703758407"
    },
    "2": {
     "name": "Keomany",
-    "id": "lo-LA-KeomanyNeural"
+    "id": "lo-LA-KeomanyNeural",
+    "resource_id": "3219422927152463443"
    }
   },
-  "# LT": {
+  "# Lithuanian": {
    "1": {
     "name": "Leonas",
-    "id": "lt-LT-LeonasNeural"
+    "id": "lt-LT-LeonasNeural",
+    "resource_id": "9993828912428964674"
    },
    "2": {
     "name": "Ona",
-    "id": "lt-LT-OnaNeural"
+    "id": "lt-LT-OnaNeural",
+    "resource_id": "6424115969361400879"
    }
   },
-  "# LV": {
+  "# Latvian": {
    "1": {
     "name": "Nils",
-    "id": "lv-LV-NilsNeural"
+    "id": "lv-LV-NilsNeural",
+    "resource_id": "6641235199235593892"
    },
    "2": {
     "name": "Everita",
-    "id": "lv-LV-EveritaNeural"
+    "id": "lv-LV-EveritaNeural",
+    "resource_id": "2088882497424020176"
    }
   },
-  "# MK": {
+  "# Macedonian": {
    "1": {
     "name": "Aleksandar",
-    "id": "mk-MK-AleksandarNeural"
+    "id": "mk-MK-AleksandarNeural",
+    "resource_id": "1453791548833654045"
    },
    "2": {
     "name": "Marija",
-    "id": "mk-MK-MarijaNeural"
+    "id": "mk-MK-MarijaNeural",
+    "resource_id": "8842480001430745537"
    }
   },
-  "# ML": {
+  "# Malayalam": {
    "1": {
     "name": "Midhun",
-    "id": "ml-IN-MidhunNeural"
+    "id": "ml-IN-MidhunNeural",
+    "resource_id": "6500423935593084920"
    },
    "2": {
     "name": "Sobhana",
-    "id": "ml-IN-SobhanaNeural"
+    "id": "ml-IN-SobhanaNeural",
+    "resource_id": "9688224707470727174"
    }
   },
-  "# MN": {
+  "# Mongolian": {
    "1": {
     "name": "Bataa",
-    "id": "mn-MN-BataaNeural"
+    "id": "mn-MN-BataaNeural",
+    "resource_id": "2849069420102082068"
    },
    "2": {
     "name": "Yesui",
-    "id": "mn-MN-YesuiNeural"
+    "id": "mn-MN-YesuiNeural",
+    "resource_id": "2229175251608405391"
    }
   },
-  "# MR": {
+  "# Marathi": {
    "1": {
     "name": "Manohar",
-    "id": "mr-IN-ManoharNeural"
+    "id": "mr-IN-ManoharNeural",
+    "resource_id": "4305280482210910529"
    },
    "2": {
     "name": "Aarohi",
-    "id": "mr-IN-AarohiNeural"
+    "id": "mr-IN-AarohiNeural",
+    "resource_id": "6370150817363143203"
    }
   },
-  "# MS": {
+  "# Malay": {
    "1": {
     "name": "Osman",
-    "id": "ms-MY-OsmanNeural"
+    "id": "ms-MY-OsmanNeural",
+    "resource_id": "6178924167269820664"
    },
    "2": {
     "name": "Yasmin",
-    "id": "ms-MY-YasminNeural"
+    "id": "ms-MY-YasminNeural",
+    "resource_id": "4000721505546126603"
    }
   },
-  "# MT": {
+  "# Maltese": {
    "1": {
     "name": "Joseph",
-    "id": "mt-MT-JosephNeural"
+    "id": "mt-MT-JosephNeural",
+    "resource_id": "4306264531137669774"
    },
    "2": {
     "name": "Grace",
-    "id": "mt-MT-GraceNeural"
+    "id": "mt-MT-GraceNeural",
+    "resource_id": "7064628007992378787"
    }
   },
-  "# MY": {
+  "# Burmese": {
    "1": {
     "name": "Thiha",
-    "id": "my-MM-ThihaNeural"
+    "id": "my-MM-ThihaNeural",
+    "resource_id": "7975385105786785907"
    },
    "2": {
     "name": "Nilar",
-    "id": "my-MM-NilarNeural"
+    "id": "my-MM-NilarNeural",
+    "resource_id": "5651859707696131403"
    }
   },
-  "# NB": {
+  "# Norwegian": {
    "1": {
     "name": "Finn",
-    "id": "nb-NO-FinnNeural"
+    "id": "nb-NO-FinnNeural",
+    "resource_id": "6170433178634086319"
    },
    "2": {
     "name": "Pernille",
-    "id": "nb-NO-PernilleNeural"
+    "id": "nb-NO-PernilleNeural",
+    "resource_id": "9156145232030114792"
    }
   },
-  "# NE": {
+  "# Nepali": {
    "1": {
     "name": "Sagar",
-    "id": "ne-NP-SagarNeural"
+    "id": "ne-NP-SagarNeural",
+    "resource_id": "9756077709786575787"
    },
    "2": {
     "name": "Hemkala",
-    "id": "ne-NP-HemkalaNeural"
+    "id": "ne-NP-HemkalaNeural",
+    "resource_id": "3490513744408122427"
    }
   },
-  "# NL": {
+  "# nl": {
    "1": {
     "name": "Arnaud",
-    "id": "nl-BE-ArnaudNeural"
+    "id": "nl-BE-ArnaudNeural",
+    "resource_id": "0736380261083326356"
    },
    "2": {
     "name": "Maarten",
-    "id": "nl-NL-MaartenNeural"
+    "id": "nl-NL-MaartenNeural",
+    "resource_id": "8337996417859560049"
    },
    "3": {
     "name": "Dena",
-    "id": "nl-BE-DenaNeural"
+    "id": "nl-BE-DenaNeural",
+    "resource_id": "1364555044320979696"
    },
    "4": {
     "name": "Colette",
-    "id": "nl-NL-ColetteNeural"
+    "id": "nl-NL-ColetteNeural",
+    "resource_id": "0259589185353512881"
    },
    "5": {
     "name": "Fenna",
-    "id": "nl-NL-FennaNeural"
+    "id": "nl-NL-FennaNeural",
+    "resource_id": "0360553815889706843"
    }
   },
-  "# PL": {
+  "# Polish": {
    "1": {
     "name": "Marek",
-    "id": "pl-PL-MarekNeural"
+    "id": "pl-PL-MarekNeural",
+    "resource_id": "8118081808354946333"
    },
    "2": {
     "name": "Zofia",
-    "id": "pl-PL-ZofiaNeural"
+    "id": "pl-PL-ZofiaNeural",
+    "resource_id": "6013602010195414860"
    }
   },
-  "# PS": {
+  "# Pashto": {
    "1": {
     "name": "GulNawaz",
-    "id": "ps-AF-GulNawazNeural"
+    "id": "ps-AF-GulNawazNeural",
+    "resource_id": "7880672920275902206"
    },
    "2": {
     "name": "Latifa",
-    "id": "ps-AF-LatifaNeural"
+    "id": "ps-AF-LatifaNeural",
+    "resource_id": "9665803554321304228"
    }
   },
-  "# Portuguese": {
+  "# portuguese": {
    "1": {
     "name": "Antonio",
-    "id": "pt-BR-AntonioNeural"
+    "id": "pt-BR-AntonioNeural",
+    "resource_id": "9111695182086482717"
    },
    "2": {
     "name": "Duarte",
-    "id": "pt-PT-DuarteNeural"
+    "id": "pt-PT-DuarteNeural",
+    "resource_id": "0944948827097102318"
    },
    "3": {
     "name": "Francisca",
-    "id": "pt-BR-FranciscaNeural"
+    "id": "pt-BR-FranciscaNeural",
+    "resource_id": "1161226861417320891"
    },
    "4": {
     "name": "ThalitaMultilingual",
-    "id": "pt-BR-ThalitaMultilingualNeural"
+    "id": "pt-BR-ThalitaMultilingualNeural",
+    "resource_id": "6373134360062509343"
    },
    "5": {
     "name": "Raquel",
-    "id": "pt-PT-RaquelNeural"
+    "id": "pt-PT-RaquelNeural",
+    "resource_id": "0208305601685115138"
    }
   },
-  "# RO": {
+  "# Romanian": {
    "1": {
     "name": "Emil",
-    "id": "ro-RO-EmilNeural"
+    "id": "ro-RO-EmilNeural",
+    "resource_id": "9075812711764557086"
    },
    "2": {
     "name": "Alina",
-    "id": "ro-RO-AlinaNeural"
+    "id": "ro-RO-AlinaNeural",
+    "resource_id": "7358770963306719865"
    }
   },
-  "# Russian": {
+  "# russian": {
    "1": {
     "name": "Dmitry",
-    "id": "ru-RU-DmitryNeural"
+    "id": "ru-RU-DmitryNeural",
+    "resource_id": "2570577506615834920"
    },
    "2": {
     "name": "Svetlana",
-    "id": "ru-RU-SvetlanaNeural"
+    "id": "ru-RU-SvetlanaNeural",
+    "resource_id": "0124285370564916932"
    }
   },
-  "# SI": {
+  "# Sinhala": {
    "1": {
     "name": "Sameera",
-    "id": "si-LK-SameeraNeural"
+    "id": "si-LK-SameeraNeural",
+    "resource_id": "5496066061383236429"
    },
    "2": {
     "name": "Thilini",
-    "id": "si-LK-ThiliniNeural"
+    "id": "si-LK-ThiliniNeural",
+    "resource_id": "8748361320781792084"
    }
   },
-  "# SK": {
+  "# Slovak": {
    "1": {
     "name": "Lukas",
-    "id": "sk-SK-LukasNeural"
+    "id": "sk-SK-LukasNeural",
+    "resource_id": "4685395884483286594"
    },
    "2": {
     "name": "Viktoria",
-    "id": "sk-SK-ViktoriaNeural"
+    "id": "sk-SK-ViktoriaNeural",
+    "resource_id": "5402755317872912307"
    }
   },
-  "# SL": {
+  "# Slovenian": {
    "1": {
     "name": "Rok",
-    "id": "sl-SI-RokNeural"
+    "id": "sl-SI-RokNeural",
+    "resource_id": "7599917964653641938"
    },
    "2": {
     "name": "Petra",
-    "id": "sl-SI-PetraNeural"
+    "id": "sl-SI-PetraNeural",
+    "resource_id": "0111538129722023872"
    }
   },
-  "# SO": {
+  "# Somali": {
    "1": {
     "name": "Muuse",
-    "id": "so-SO-MuuseNeural"
+    "id": "so-SO-MuuseNeural",
+    "resource_id": "2269171624726046002"
    },
    "2": {
     "name": "Ubax",
-    "id": "so-SO-UbaxNeural"
+    "id": "so-SO-UbaxNeural",
+    "resource_id": "6193085829573251673"
    }
   },
-  "# SQ": {
+  "# Albanian": {
    "1": {
     "name": "Ilir",
-    "id": "sq-AL-IlirNeural"
+    "id": "sq-AL-IlirNeural",
+    "resource_id": "9876740737642770974"
    },
    "2": {
     "name": "Anila",
-    "id": "sq-AL-AnilaNeural"
+    "id": "sq-AL-AnilaNeural",
+    "resource_id": "4991408149909431953"
    }
   },
-  "# SR": {
+  "# Serbian": {
    "1": {
     "name": "Nicholas",
-    "id": "sr-RS-NicholasNeural"
+    "id": "sr-RS-NicholasNeural",
+    "resource_id": "3745001294297299326"
    },
    "2": {
     "name": "Sophie",
-    "id": "sr-RS-SophieNeural"
+    "id": "sr-RS-SophieNeural",
+    "resource_id": "8929373859812102471"
    }
   },
-  "# SU": {
+  "# Sundanese": {
    "1": {
     "name": "Jajang",
-    "id": "su-ID-JajangNeural"
+    "id": "su-ID-JajangNeural",
+    "resource_id": "4724346024050358072"
    },
    "2": {
     "name": "Tuti",
-    "id": "su-ID-TutiNeural"
+    "id": "su-ID-TutiNeural",
+    "resource_id": "0360336184278790812"
    }
   },
-  "# SV": {
+  "# Swedish": {
    "1": {
     "name": "Mattias",
-    "id": "sv-SE-MattiasNeural"
+    "id": "sv-SE-MattiasNeural",
+    "resource_id": "0533256787186548783"
    },
    "2": {
     "name": "Sofie",
-    "id": "sv-SE-SofieNeural"
+    "id": "sv-SE-SofieNeural",
+    "resource_id": "5619192393718318801"
    }
   },
-  "# SW": {
+  "# Swahili": {
    "1": {
     "name": "Rafiki",
-    "id": "sw-KE-RafikiNeural"
+    "id": "sw-KE-RafikiNeural",
+    "resource_id": "8894486442585573803"
    },
    "2": {
     "name": "Daudi",
-    "id": "sw-TZ-DaudiNeural"
+    "id": "sw-TZ-DaudiNeural",
+    "resource_id": "3155264713333433681"
    },
    "3": {
     "name": "Zuri",
-    "id": "sw-KE-ZuriNeural"
+    "id": "sw-KE-ZuriNeural",
+    "resource_id": "6857591694712698404"
    },
    "4": {
     "name": "Rehema",
-    "id": "sw-TZ-RehemaNeural"
+    "id": "sw-TZ-RehemaNeural",
+    "resource_id": "0397314377195380246"
    }
   },
-  "# TA": {
+  "# Tamil": {
    "1": {
     "name": "Valluvar",
-    "id": "ta-IN-ValluvarNeural"
+    "id": "ta-IN-ValluvarNeural",
+    "resource_id": "4841688356922891366"
    },
    "2": {
     "name": "Kumar",
-    "id": "ta-LK-KumarNeural"
+    "id": "ta-LK-KumarNeural",
+    "resource_id": "7736382694716809189"
    },
    "3": {
     "name": "Surya",
-    "id": "ta-MY-SuryaNeural"
+    "id": "ta-MY-SuryaNeural",
+    "resource_id": "5204977737533773267"
    },
    "4": {
     "name": "Anbu",
-    "id": "ta-SG-AnbuNeural"
+    "id": "ta-SG-AnbuNeural",
+    "resource_id": "2608671395297546022"
    },
    "5": {
     "name": "Pallavi",
-    "id": "ta-IN-PallaviNeural"
+    "id": "ta-IN-PallaviNeural",
+    "resource_id": "7952677480439539081"
    },
    "6": {
     "name": "Saranya",
-    "id": "ta-LK-SaranyaNeural"
+    "id": "ta-LK-SaranyaNeural",
+    "resource_id": "2795974325709966874"
    },
    "7": {
     "name": "Kani",
-    "id": "ta-MY-KaniNeural"
+    "id": "ta-MY-KaniNeural",
+    "resource_id": "3081585861272449374"
    },
    "8": {
     "name": "Venba",
-    "id": "ta-SG-VenbaNeural"
+    "id": "ta-SG-VenbaNeural",
+    "resource_id": "9602216217432081113"
    }
   },
-  "# TE": {
+  "# Telugu": {
    "1": {
     "name": "Mohan",
-    "id": "te-IN-MohanNeural"
+    "id": "te-IN-MohanNeural",
+    "resource_id": "1929719193979865288"
    },
    "2": {
     "name": "Shruti",
-    "id": "te-IN-ShrutiNeural"
+    "id": "te-IN-ShrutiNeural",
+    "resource_id": "3587839239858012282"
    }
   },
-  "# Thai": {
+  "# thai": {
    "1": {
     "name": "Niwat",
-    "id": "th-TH-NiwatNeural"
+    "id": "th-TH-NiwatNeural",
+    "resource_id": "3057282314597188159"
    },
    "2": {
     "name": "Premwadee",
-    "id": "th-TH-PremwadeeNeural"
+    "id": "th-TH-PremwadeeNeural",
+    "resource_id": "0939312606856418158"
    }
   },
-  "# Turkish": {
+  "# turkish": {
    "1": {
     "name": "Ahmet",
-    "id": "tr-TR-AhmetNeural"
+    "id": "tr-TR-AhmetNeural",
+    "resource_id": "6085139644383984994"
    },
    "2": {
     "name": "Emel",
-    "id": "tr-TR-EmelNeural"
+    "id": "tr-TR-EmelNeural",
+    "resource_id": "5327214457108211258"
    }
   },
-  "# UK": {
+  "# Ukrainian": {
    "1": {
     "name": "Ostap",
-    "id": "uk-UA-OstapNeural"
+    "id": "uk-UA-OstapNeural",
+    "resource_id": "5437659147342984947"
    },
    "2": {
     "name": "Polina",
-    "id": "uk-UA-PolinaNeural"
+    "id": "uk-UA-PolinaNeural",
+    "resource_id": "1201011033100749441"
    }
   },
-  "# UR": {
+  "# Urdu": {
    "1": {
     "name": "Salman",
-    "id": "ur-IN-SalmanNeural"
+    "id": "ur-IN-SalmanNeural",
+    "resource_id": "2860283713984635043"
    },
    "2": {
     "name": "Asad",
-    "id": "ur-PK-AsadNeural"
+    "id": "ur-PK-AsadNeural",
+    "resource_id": "3997519135486823948"
    },
    "3": {
     "name": "Gul",
-    "id": "ur-IN-GulNeural"
+    "id": "ur-IN-GulNeural",
+    "resource_id": "5609667980699835820"
    },
    "4": {
     "name": "Uzma",
-    "id": "ur-PK-UzmaNeural"
+    "id": "ur-PK-UzmaNeural",
+    "resource_id": "5132873832304943208"
    }
   },
-  "# UZ": {
+  "# Uzbek": {
    "1": {
     "name": "Sardor",
-    "id": "uz-UZ-SardorNeural"
+    "id": "uz-UZ-SardorNeural",
+    "resource_id": "1540328352773667051"
    },
    "2": {
     "name": "Madina",
-    "id": "uz-UZ-MadinaNeural"
+    "id": "uz-UZ-MadinaNeural",
+    "resource_id": "9802259530390994518"
    }
   },
-  "# Vietnamese": {
+  "# vietnamese": {
    "1": {
     "name": "NamMinh",
-    "id": "vi-VN-NamMinhNeural"
+    "id": "vi-VN-NamMinhNeural",
+    "resource_id": "4083888534937178364"
    },
    "2": {
     "name": "HoaiMy",
-    "id": "vi-VN-HoaiMyNeural"
+    "id": "vi-VN-HoaiMyNeural",
+    "resource_id": "1144774424670052952"
    }
   },
-  "# Chinese": {
+  "# chinese": {
    "1": {
     "name": "Yunjian",
-    "id": "zh-CN-YunjianNeural"
+    "id": "zh-CN-YunjianNeural",
+    "resource_id": "7176429845109633256"
    },
    "2": {
     "name": "Yunxi",
-    "id": "zh-CN-YunxiNeural"
+    "id": "zh-CN-YunxiNeural",
+    "resource_id": "5469097487132504041"
    },
    "3": {
     "name": "Yunxia",
-    "id": "zh-CN-YunxiaNeural"
+    "id": "zh-CN-YunxiaNeural",
+    "resource_id": "1214806810943597661"
    },
    "4": {
     "name": "Yunyang",
-    "id": "zh-CN-YunyangNeural"
+    "id": "zh-CN-YunyangNeural",
+    "resource_id": "2216020460346524967"
    },
    "5": {
     "name": "WanLung",
-    "id": "zh-HK-WanLungNeural"
+    "id": "zh-HK-WanLungNeural",
+    "resource_id": "5890196134164405335"
    },
    "6": {
     "name": "YunJhe",
-    "id": "zh-TW-YunJheNeural"
+    "id": "zh-TW-YunJheNeural",
+    "resource_id": "9634829418662037168"
    },
    "7": {
     "name": "Xiaoxiao",
-    "id": "zh-CN-XiaoxiaoNeural"
+    "id": "zh-CN-XiaoxiaoNeural",
+    "resource_id": "4396397229607740291"
    },
    "8": {
     "name": "Xiaoyi",
-    "id": "zh-CN-XiaoyiNeural"
+    "id": "zh-CN-XiaoyiNeural",
+    "resource_id": "9016244547932271352"
    },
    "9": {
     "name": "Xiaobei",
-    "id": "zh-CN-liaoning-XiaobeiNeural"
+    "id": "zh-CN-liaoning-XiaobeiNeural",
+    "resource_id": "2045707166032390191"
    },
    "10": {
     "name": "Xiaoni",
-    "id": "zh-CN-shaanxi-XiaoniNeural"
+    "id": "zh-CN-shaanxi-XiaoniNeural",
+    "resource_id": "3769656708321012542"
    },
    "11": {
     "name": "HiuGaai",
-    "id": "zh-HK-HiuGaaiNeural"
+    "id": "zh-HK-HiuGaaiNeural",
+    "resource_id": "7253145021294713295"
    },
    "12": {
     "name": "HiuMaan",
-    "id": "zh-HK-HiuMaanNeural"
+    "id": "zh-HK-HiuMaanNeural",
+    "resource_id": "8168477647841221322"
    },
    "13": {
     "name": "HsiaoChen",
-    "id": "zh-TW-HsiaoChenNeural"
+    "id": "zh-TW-HsiaoChenNeural",
+    "resource_id": "1460388823571955995"
    },
    "14": {
     "name": "HsiaoYu",
-    "id": "zh-TW-HsiaoYuNeural"
+    "id": "zh-TW-HsiaoYuNeural",
+    "resource_id": "5745713793922883769"
    }
   },
-  "# ZU": {
+  "# Zulu": {
    "1": {
     "name": "Themba",
-    "id": "zu-ZA-ThembaNeural"
+    "id": "zu-ZA-ThembaNeural",
+    "resource_id": "9607238031550150944"
    },
    "2": {
     "name": "Thando",
-    "id": "zu-ZA-ThandoNeural"
+    "id": "zu-ZA-ThandoNeural",
+    "resource_id": "3039808582555580096"
    }
   }
  }
