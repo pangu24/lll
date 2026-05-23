@@ -4,7105 +4,1820 @@
    "1": {
     "name": "Cô Gái Hoạt Ngôn",
     "id": "BV074_streaming",
-    "resource_id": "7102355709945188865"
+    "resource_id": "123"
    },
    "2": {
     "name": "Thanh Niên Tự Tin",
     "id": "BV075_streaming",
-    "resource_id": "7102355803792740865"
+    "resource_id": "123"
    },
    "3": {
     "name": "Giọng nữ phổ thông",
     "id": "vi_female_huong",
-    "resource_id": "7264854897953083905"
+    "resource_id": "123"
    },
    "4": {
     "name": "Cô gái nhỏ ngọt ngào",
     "id": "BV421_vivn_streaming",
-    "resource_id": "7252594014782755330"
+    "resource_id": "123"
    },
    "5": {
     "name": "Chí Mai",
     "id": "BV562_streaming",
-    "resource_id": "7483736254694035984"
+    "resource_id": "123"
    },
    "6": {
     "name": "Anh Dũng",
     "id": "BV560_streaming",
-    "resource_id": "7483736167565758992"
+    "resource_id": "123"
    },
    "7": {
     "name": "Việt Rung",
     "id": "BV075_streaming_vibrato_dsp",
-    "resource_id": "7102355803792743321"
+    "resource_id": "123"
    },
    "8": {
     "name": "Quỷ Việt",
     "id": "BV075_streaming_demon_dsp",
-    "resource_id": "7102355803792743321"
+    "resource_id": "123"
    },
    "9": {
     "name": "giọng bé",
     "id": "BV074_streaming_dsp",
-    "resource_id": "7102355709945185185"
+    "resource_id": "123"
    }
   },
   "# Indonesian": {
    "1": {
     "name": "Rizki",
     "id": "multi_zh_male_youyoujunzi_moon_bigtts_cc",
-    "resource_id": "7501234950042030608"
+    "resource_id": "123"
    },
    "2": {
     "name": "Diana",
     "id": "multi_female_wenjingmaomao_moon_bigtts_cc",
-    "resource_id": "7501234865447113233"
+    "resource_id": "123"
    },
    "3": {
     "name": "Wahyu",
     "id": "multi_male_kuailexiaodong_moon_bigtts_cc",
-    "resource_id": "7501235030794965505"
+    "resource_id": "123"
    },
    "4": {
     "name": "Puspita",
     "id": "BV161_streaming",
-    "resource_id": "7477925333035913745"
+    "resource_id": "123"
    },
    "5": {
     "name": "Reza",
     "id": "BV160_streaming",
-    "resource_id": "7477925268112282113"
+    "resource_id": "123"
    },
    "6": {
     "name": "Cheryl",
     "id": "BV191_streaming",
-    "resource_id": "7477925477823287824"
+    "resource_id": "123"
    },
    "7": {
     "name": "Desti",
     "id": "BV540_streaming",
-    "resource_id": "7477925128651674113"
+    "resource_id": "123"
    },
    "8": {
     "name": "Rini",
     "id": "BV541_streaming",
-    "resource_id": "7477925200252637712"
+    "resource_id": "123"
    },
    "9": {
     "name": "Kayla",
     "id": "BV162_streaming",
-    "resource_id": "7477925404439745040"
+    "resource_id": "123"
    },
    "10": {
     "name": "Dilan",
     "id": "BV190_streaming",
-    "resource_id": "7477924518036509201"
+    "resource_id": "123"
    },
    "11": {
     "name": "Ervan",
     "id": "BV164_streaming",
-    "resource_id": "7477924448243290640"
+    "resource_id": "123"
    },
    "12": {
     "name": "Anisa",
     "id": "BV192_streaming",
-    "resource_id": "7477924583463457296"
+    "resource_id": "123"
    },
    "13": {
     "name": "Budi",
     "id": "ICL_id_male_boy_budi",
-    "resource_id": "7469007055915848193"
+    "resource_id": "123"
    },
    "14": {
     "name": "Siti",
     "id": "ICL_id_female_grandma_siti",
-    "resource_id": "7469007155627037200"
+    "resource_id": "123"
    },
    "15": {
     "name": "Kartika",
     "id": "ICL_id_female_icecold_kartika",
-    "resource_id": "7469007109456138768"
+    "resource_id": "123"
    },
    "16": {
     "name": "Sumarno",
     "id": "ICL_id_male_grandpa_sumarno",
-    "resource_id": "7469006956112384513"
+    "resource_id": "123"
    },
    "17": {
     "name": "Hendra",
     "id": "ICL_id_male_uncle_hendra",
-    "resource_id": "7469007007702323729"
+    "resource_id": "123"
    },
    "18": {
     "name": "Dewi",
     "id": "ICL_id_female_girl_dewi",
-    "resource_id": "7469006906690900496"
+    "resource_id": "123"
    },
    "19": {
     "name": "Bayu",
     "id": "ICL_id_male_scared",
-    "resource_id": "7469006859328819729"
+    "resource_id": "123"
    },
    "20": {
     "name": "Arfan",
     "id": "ICL_id_male_sad",
-    "resource_id": "7469006805000000016"
+    "resource_id": "123"
    },
    "21": {
     "name": "Jannah",
     "id": "ICL_id_female_jannah_happy",
-    "resource_id": "7469006689715360273"
+    "resource_id": "123"
    },
    "22": {
     "name": "Hantu perempuan",
     "id": "ICL_id_female_hantuperempuan",
-    "resource_id": "7469006620379320848"
+    "resource_id": "123"
    },
    "23": {
     "name": "Sari",
     "id": "ICL_id_female_sickweak",
-    "resource_id": "7469006746007114241"
+    "resource_id": "123"
    },
    "24": {
     "name": "Darma",
     "id": "id_male_darma",
-    "resource_id": "7231026125424562690"
+    "resource_id": "123"
    },
    "25": {
     "name": "Putra",
     "id": "id_male_putra",
-    "resource_id": "7231026032986296833"
+    "resource_id": "123"
    },
    "26": {
     "name": "Icha",
     "id": "id_female_icha",
-    "resource_id": "7242142150333305346"
+    "resource_id": "123"
    },
    "27": {
     "name": "Shinta",
     "id": "id_female_noor",
-    "resource_id": "7242142046587195906"
+    "resource_id": "123"
    },
    "28": {
     "name": "Air stewardess",
     "id": "BV192_streaming",
-    "resource_id": "7259666935858598402"
+    "resource_id": "123"
    },
    "29": {
     "name": "Female Voice (Indonesian)",
     "id": "BV072_streaming",
-    "resource_id": "7028847457089884674"
+    "resource_id": "123"
    }
   },
   "# English": {
    "1": {
     "name": "Lucas",
     "id": "multi_zh_male_youyoujunzi_moon_bigtts_cc",
-    "resource_id": "7489010721259262465"
+    "resource_id": "123"
    },
    "2": {
     "name": "Diana",
     "id": "multi_female_wenjingmaomao_moon_bigtts_cc",
-    "resource_id": "7489010644025348624"
+    "resource_id": "123"
    },
    "3": {
     "name": "Daniel",
     "id": "multi_male_kuailexiaodong_moon_bigtts_cc",
-    "resource_id": "7489010901832438288"
+    "resource_id": "123"
    },
    "4": {
     "name": "Holiday Twist",
     "id": "ICL_en_male_oogie2",
-    "resource_id": "7438551608746578449"
+    "resource_id": "123"
    },
    "5": {
     "name": "Esmeralda",
     "id": "multi_female_sinong_conversation_wvae_bigtts_cc",
-    "resource_id": "7483453745062220289"
+    "resource_id": "123"
    },
    "6": {
     "name": "Robert",
     "id": "multi_male_M092_conversation_wvae_bigtts_cc",
-    "resource_id": "7483453668117713425"
+    "resource_id": "123"
    },
    "7": {
     "name": "Álvaro",
     "id": "multi_male_M392_conversation_wvae_bigtts_cc",
-    "resource_id": "7483453915988496913"
+    "resource_id": "123"
    },
    "8": {
     "name": "Camila",
     "id": "multi_male_F320_conversation_wvae_bigtts_cc",
-    "resource_id": "7483453829040574993"
+    "resource_id": "123"
    },
    "9": {
     "name": "Wukong",
     "id": "zh_male_sunwukong_clone2",
-    "resource_id": "7382469399745139201"
+    "resource_id": "123"
    },
    "10": {
     "name": "Detective",
     "id": "ICL_jp_male_kenan",
-    "resource_id": "7469005666833666576"
+    "resource_id": "123"
    },
    "11": {
     "name": "Yukiko",
     "id": "ICL_jp_female_tt_you",
-    "resource_id": "7469006346122170896"
+    "resource_id": "123"
    },
    "12": {
     "name": "Leo Emotions",
     "id": "en_male_scott_emo_v2_mars_bigtts",
-    "resource_id": "7457793197306024449"
+    "resource_id": "123"
    },
    "13": {
     "name": "Katie White",
     "id": "ICL_en_female_blanchett",
-    "resource_id": "7444495548188463633"
+    "resource_id": "123"
    },
    "14": {
     "name": "Benny Cumbers",
     "id": "ICL_en_male_cumberbatch1",
-    "resource_id": "7444495363311931920"
+    "resource_id": "123"
    },
    "15": {
     "name": "Strong British Male",
     "id": "ICL_en_male_cumberbatch2",
-    "resource_id": "7444495463908119056"
+    "resource_id": "123"
    },
    "16": {
     "name": "Sir British Narrator",
     "id": "ICL_en_male_attenborough",
-    "resource_id": "7444495251286266385"
+    "resource_id": "123"
    },
    "17": {
     "name": "Rebecca",
     "id": "ICL_en_female_erica",
-    "resource_id": "7444495148345463312"
+    "resource_id": "123"
    },
    "18": {
     "name": "Richard",
     "id": "ICL_en_male_henry2",
-    "resource_id": "7444495042649002513"
+    "resource_id": "123"
    },
    "19": {
     "name": "Timothy",
     "id": "ICL_en_male_henry1",
-    "resource_id": "7444494768240857616"
+    "resource_id": "123"
    },
    "20": {
     "name": "Emma Chamberlain",
     "id": "ICL_en_female_chamberlain",
-    "resource_id": "7444914314399453697"
+    "resource_id": "123"
    },
    "21": {
     "name": "Benjamin II",
     "id": "ICL_en_male_benjamin2",
-    "resource_id": "7441488683091366417"
+    "resource_id": "123"
    },
    "22": {
     "name": "Benjamin I",
     "id": "ICL_en_male_benjamin1",
-    "resource_id": "7441488473686544897"
+    "resource_id": "123"
    },
    "23": {
     "name": "Terrell",
     "id": "ICL_en_male_terrell",
-    "resource_id": "7441488151983428097"
+    "resource_id": "123"
    },
    "24": {
     "name": "Alastorr",
     "id": "ICL_en_male_alastor",
-    "resource_id": "7441487821946229265"
+    "resource_id": "123"
    },
    "25": {
     "name": "Half-Blood Prince",
     "id": "ICL_en_male_severus",
-    "resource_id": "7441487635048043009"
+    "resource_id": "123"
    },
    "26": {
     "name": "Charlie M",
     "id": "ICL_en_female_cm",
-    "resource_id": "7441487929823728129"
+    "resource_id": "123"
    },
    "27": {
     "name": "Cowboy Bob",
     "id": "KTPVrSVAEUSJRClDzBw7",
-    "resource_id": "7441518244600484353"
+    "resource_id": "123"
    },
    "28": {
     "name": "Epic Male",
     "id": "ICL_en_male_cc_lich",
-    "resource_id": "7437470599682724369"
+    "resource_id": "123"
    },
    "29": {
     "name": "Rafayell",
     "id": "ICL_en_male_cc_rafael",
-    "resource_id": "7437470496397988369"
+    "resource_id": "123"
    },
    "30": {
     "name": "Snowday Hero",
     "id": "ICL_en_male_frosty1",
-    "resource_id": "7438551726942065169"
+    "resource_id": "123"
    },
    "31": {
     "name": "Polar Guide",
     "id": "ICL_en_male_conductor1",
-    "resource_id": "7438551500021830161"
+    "resource_id": "123"
    },
    "32": {
     "name": "Grinchy Cheer",
     "id": "ICL_en_male_grinch2",
-    "resource_id": "7438551356283032081"
+    "resource_id": "123"
    },
    "33": {
     "name": "Xmas Mischief",
     "id": "ICL_en_male_kevin2",
-    "resource_id": "7438551246824280592"
+    "resource_id": "123"
    },
    "34": {
     "name": "Andrew II",
     "id": "SF9uvIlY93SJRMdV5jeP",
-    "resource_id": "7435916300951491073"
+    "resource_id": "123"
    },
    "35": {
     "name": "Noel",
     "id": "j9jfwdrw7BRfcR43Qohk",
-    "resource_id": "7435916394450915841"
+    "resource_id": "123"
    },
    "36": {
     "name": "Yuppie",
     "id": "LqB03n4OKhdBACxFjR4j",
-    "resource_id": "7435916569621828097"
+    "resource_id": "123"
    },
    "37": {
     "name": "Father Christmas",
     "id": "1wg2wOjdEWKA7yQD8Kca",
-    "resource_id": "7436270124526473744"
+    "resource_id": "123"
    },
    "38": {
     "name": "Soothing Narrator",
     "id": "apqgWHkh7foVKMqZECss",
-    "resource_id": "7411410162231022097"
+    "resource_id": "123"
    },
    "39": {
     "name": "Miss Bluetooth",
     "id": "ICL_en_female_cc_bluetooth",
-    "resource_id": "7427072447129588225"
+    "resource_id": "123"
    },
    "40": {
     "name": "Edward",
     "id": "ICL_en_male_aussie",
-    "resource_id": "7426305396572164625"
+    "resource_id": "123"
    },
    "41": {
     "name": "Dorian",
     "id": "en_male_cs_emo_v2_mars_bigtts",
-    "resource_id": "7430714574728335888"
+    "resource_id": "123"
    },
    "42": {
     "name": "Uncle J",
     "id": "en_male_johnny_emo_v2_mars_bigtts",
-    "resource_id": "7430714522609914384"
+    "resource_id": "123"
    },
    "43": {
     "name": "Mary",
     "id": "en_female_mary_emo_v2_mars_bigtts",
-    "resource_id": "7430714470969643521"
+    "resource_id": "123"
    },
    "44": {
     "name": "Lizzie",
     "id": "en_female_skye_emo_v2_mars_bigtts",
-    "resource_id": "7430714795206119937"
+    "resource_id": "123"
    },
    "45": {
     "name": "Tom",
     "id": "en_male_tim_emo_v2_mars_bigtts",
-    "resource_id": "7430714745574920720"
+    "resource_id": "123"
    },
    "46": {
     "name": "Master Trap",
     "id": "ICL_en_male_cc_jigsaw",
-    "resource_id": "7427044277407978000"
+    "resource_id": "123"
    },
    "47": {
     "name": "Fear Clown",
     "id": "ICL_en_male_cc_penny",
-    "resource_id": "7427044180876071425"
+    "resource_id": "123"
    },
    "48": {
     "name": "Killer Droid",
     "id": "ICL_en_female_cc_megan",
-    "resource_id": "7427044231073501712"
+    "resource_id": "123"
    },
    "49": {
     "name": "Stalker Crep",
     "id": "ICL_en_male_cc_ghostface4",
-    "resource_id": "7427044378666865153"
+    "resource_id": "123"
    },
    "50": {
     "name": "Blood Lord",
     "id": "ICL_en_male_cc_dracula",
-    "resource_id": "7427044330260402705"
+    "resource_id": "123"
    },
    "51": {
     "name": "Slash Doll",
     "id": "ICL_en_male_cc_chucky",
-    "resource_id": "7427044129604899345"
+    "resource_id": "123"
    },
    "52": {
     "name": "Zaynee",
     "id": "ICL_en_male_zayne",
-    "resource_id": "7424050504138756624"
+    "resource_id": "123"
    },
    "53": {
     "name": "Xavierr",
     "id": "ICL_en_male_xavier1",
-    "resource_id": "7424050549269467649"
+    "resource_id": "123"
    },
    "54": {
     "name": "Oxley",
     "id": "2gPFXx8pN3Avh27Dw5Ma",
-    "resource_id": "7424031714290176513"
+    "resource_id": "123"
    },
    "55": {
     "name": "Evil Guy",
     "id": "3SF4rB1fGBMXU9xRM7pz",
-    "resource_id": "7424031662037537281"
+    "resource_id": "123"
    },
    "56": {
     "name": "Corey",
     "id": "en_male_corey_emo_v2_mars_bigtts",
-    "resource_id": "7417663340761059856"
+    "resource_id": "123"
    },
    "57": {
     "name": "Glen",
     "id": "en_male_glen_emo_v2_mars_bigtts",
-    "resource_id": "7417662783333863953"
+    "resource_id": "123"
    },
    "58": {
     "name": "Candice",
     "id": "en_female_candice_emo_v2_mars_bigtts",
-    "resource_id": "7417662874270568961"
+    "resource_id": "123"
    },
    "59": {
     "name": "Poetic male voice II",
     "id": "ICL_en_male_poetry",
-    "resource_id": "7413601846863860225"
+    "resource_id": "123"
    },
    "60": {
     "name": "YTB Blogger",
     "id": "X2j354mOfDROQk9ghjz4",
-    "resource_id": "7404749765512008193"
+    "resource_id": "123"
    },
    "61": {
     "name": "Late Night Radio",
     "id": "NFG5qt843uXKj4pFvR7C",
-    "resource_id": "7404749710004589072"
+    "resource_id": "123"
    },
    "62": {
     "name": "Malcolm",
     "id": "EiNlNiXeDU1pqqOPrYMO",
-    "resource_id": "7407658338650952208"
+    "resource_id": "123"
    },
    "63": {
     "name": "Amelia",
     "id": "nBoLwpO4PAjQaQwVKPI1",
-    "resource_id": "7407658215795593729"
+    "resource_id": "123"
    },
    "64": {
     "name": "Liane",
     "id": "SaqYcK3ZpDKBAImA8AdW",
-    "resource_id": "7407658007888138769"
+    "resource_id": "123"
    },
    "65": {
     "name": "Serious Male III",
     "id": "XjLkpWUlnhS8i7gGz3lZ",
-    "resource_id": "7407658157813535248"
+    "resource_id": "123"
    },
    "66": {
     "name": "Michael Mouse",
     "id": "dfZGXKiIzjizWtJ0NgPy",
-    "resource_id": "7407658082601275920"
+    "resource_id": "123"
    },
    "67": {
     "name": "Blake",
     "id": "kPzsL2i3teMYv0FxEYQ6",
-    "resource_id": "7407657878057652752"
+    "resource_id": "123"
    },
    "68": {
     "name": "Dmitry",
     "id": "kwajW3Xh5svCeKU5ky2S",
-    "resource_id": "7407657748470436369"
+    "resource_id": "123"
    },
    "69": {
     "name": "Tim",
     "id": "gOkFV1JMCt0G0n9xmBwV",
-    "resource_id": "7407657799632556561"
+    "resource_id": "123"
    },
    "70": {
     "name": "Demure",
     "id": "en_female_elsa_amanda_crystal",
-    "resource_id": "7328236234780709377"
+    "resource_id": "123"
    },
    "71": {
     "name": "Skye",
     "id": "en_female_sinong_conversation_wvae_bigtts",
-    "resource_id": "7372472342494056976"
+    "resource_id": "123"
    },
    "72": {
     "name": "Onez",
     "id": "en_female_onez_moon_bigtts",
-    "resource_id": "7402094869667123729"
+    "resource_id": "123"
    },
    "73": {
     "name": "Siren",
     "id": "en_female_nara_moon_bigtts",
-    "resource_id": "7402094928337048065"
+    "resource_id": "123"
    },
    "74": {
     "name": "Syluss",
     "id": "ICL_en_male_sylus",
-    "resource_id": "7403211571293327873"
+    "resource_id": "123"
    },
    "75": {
     "name": "Peter",
     "id": "en_male_bruce_moon_bigtts",
-    "resource_id": "7398059612643004945"
+    "resource_id": "123"
    },
    "76": {
     "name": "Andre",
     "id": "en_male_dave_moon_bigtts",
-    "resource_id": "7398059458733019665"
+    "resource_id": "123"
    },
    "77": {
     "name": "Hayden",
     "id": "en_male_hades_moon_bigtts",
-    "resource_id": "7398059512415916561"
+    "resource_id": "123"
    },
    "78": {
     "name": "Michael",
     "id": "en_male_michael_moon_bigtts",
-    "resource_id": "7398059563758391825"
+    "resource_id": "123"
    },
    "79": {
     "name": "Maggie",
     "id": "7FjPCAaLTVw3SR8UoLK9",
-    "resource_id": "7398107763483611649"
+    "resource_id": "123"
    },
    "80": {
     "name": "Ronald",
     "id": "4t4yjZnWy0xg0b2BEGWq",
-    "resource_id": "7398107606914437633"
+    "resource_id": "123"
    },
    "81": {
     "name": "Nigel",
     "id": "ICL_2206985c8bf6",
-    "resource_id": "7382469229917770257"
+    "resource_id": "123"
    },
    "82": {
     "name": "Movie Trailer Announcer",
     "id": "en_male_authoritative_marcus",
-    "resource_id": "7393232129296962049"
+    "resource_id": "123"
    },
    "83": {
     "name": "Gnome",
     "id": "en_female_dwarf_karen",
-    "resource_id": "7393231992759783953"
+    "resource_id": "123"
    },
    "84": {
     "name": "Betty Boop",
     "id": "en_female_betty_boop",
-    "resource_id": "7393229135348240913"
+    "resource_id": "123"
    },
    "85": {
     "name": "Caleb",
     "id": "en_male_vernacular_plinio",
-    "resource_id": "7393232053258424848"
+    "resource_id": "123"
    },
    "86": {
     "name": "Ethereal Voice",
     "id": "en_male_lowpitched_shouting",
-    "resource_id": "7393228776978518529"
+    "resource_id": "123"
    },
    "87": {
     "name": "Minion",
     "id": "en_male_kevin_minion",
-    "resource_id": "7393228840861962769"
+    "resource_id": "123"
    },
    "88": {
     "name": "Nail Tech",
     "id": "en_female_nail_artist",
-    "resource_id": "7393228944540963344"
+    "resource_id": "123"
    },
    "89": {
     "name": "Tiny Teena",
     "id": "en_female_weak_child",
-    "resource_id": "7393229078951629313"
+    "resource_id": "123"
    },
    "90": {
     "name": "Rick",
     "id": "en_male_rick_sanchez",
-    "resource_id": "7379873380536685072"
+    "resource_id": "123"
    },
    "91": {
     "name": "Bibble",
     "id": "en_female_cartoon_bibble",
-    "resource_id": "7379873499717833233"
+    "resource_id": "123"
    },
    "92": {
     "name": "Sports Commentator",
     "id": "en_male_ted_lasso",
-    "resource_id": "7379873236122604033"
+    "resource_id": "123"
    },
    "93": {
     "name": "Cranky Kitten",
     "id": "en_male_irritable_kitten",
-    "resource_id": "7379873622745158161"
+    "resource_id": "123"
    },
    "94": {
     "name": "Bouncer",
     "id": "en_male_gebralter_apex",
-    "resource_id": "7379905121657819664"
+    "resource_id": "123"
    },
    "95": {
     "name": "Tech Blogger",
     "id": "en_male_tech_blogger",
-    "resource_id": "7372473177747755537"
+    "resource_id": "123"
    },
    "96": {
     "name": "Gump",
     "id": "en_male_forrest_gump",
-    "resource_id": "7372473041797779969"
+    "resource_id": "123"
    },
    "97": {
     "name": "Camile",
     "id": "en_female_kourtney_kardashian",
-    "resource_id": "7372473107635769872"
+    "resource_id": "123"
    },
    "98": {
     "name": "Boman H",
     "id": "en_male_bojack_horseman",
-    "resource_id": "7372472892174373377"
+    "resource_id": "123"
    },
    "99": {
     "name": "Miss Naive",
     "id": "en_female_naive_youngwoman",
-    "resource_id": "7372472718723125761"
+    "resource_id": "123"
    },
    "100": {
     "name": "Grim Rock",
     "id": "en_male_death_rock",
-    "resource_id": "7372472588859085313"
+    "resource_id": "123"
    },
    "101": {
     "name": "Pierce G",
     "id": "en_male_peter_griffin",
-    "resource_id": "7372472973485150721"
+    "resource_id": "123"
    },
    "102": {
     "name": "Spill the Tea",
     "id": "en_male_story_time",
-    "resource_id": "7372472502842298897"
+    "resource_id": "123"
    },
    "103": {
     "name": "Matthew",
     "id": "ICL_en_male_matthew",
-    "resource_id": "7377654737400762881"
+    "resource_id": "123"
    },
    "104": {
     "name": "Sensitive male",
     "id": "ICL_en_male_george",
-    "resource_id": "7377653399552004624"
+    "resource_id": "123"
    },
    "105": {
     "name": "Announcer",
     "id": "ICL_en_male_dryw",
-    "resource_id": "7377654843256607248"
+    "resource_id": "123"
    },
    "106": {
     "name": "Callum",
     "id": "ICL_en_male_callum",
-    "resource_id": "7377653510566842881"
+    "resource_id": "123"
    },
    "107": {
     "name": "Adam",
     "id": "pNInz6obpgDQGcFmaJgB",
-    "resource_id": "7369525170723099153"
+    "resource_id": "123"
    },
    "108": {
     "name": "Bill",
     "id": "pqHfZKP75CvOlQylNhV4",
-    "resource_id": "7373887313652224513"
+    "resource_id": "123"
    },
    "109": {
     "name": "Marcus",
     "id": "WGOZZ50ZyX8GWtwZGVDW",
-    "resource_id": "7373896904729432577"
+    "resource_id": "123"
    },
    "110": {
     "name": "Knightley",
     "id": "oxcpUoZsixp23oWJaFgp",
-    "resource_id": "7374670931064525313"
+    "resource_id": "123"
    },
    "111": {
     "name": "Michael",
     "id": "XZq0uRgnKv2uOpky5Fbk",
-    "resource_id": "7374671961181393424"
+    "resource_id": "123"
    },
    "112": {
     "name": "Sophisticated Male",
     "id": "dNloUnB04rqaaSAj1WDd",
-    "resource_id": "7374672034262946321"
+    "resource_id": "123"
    },
    "113": {
     "name": "Dave",
     "id": "YcDRT2356gbExn8cPFdF",
-    "resource_id": "7374672109911413249"
+    "resource_id": "123"
    },
    "114": {
     "name": "Vibrant Baritone",
     "id": "rKZCRTvCRsUjB3zmsrOY",
-    "resource_id": "7374726854718001665"
+    "resource_id": "123"
    },
    "115": {
     "name": "Natasha",
     "id": "s73DTGwP2RrOFSydhplL",
-    "resource_id": "7374726937425482256"
+    "resource_id": "123"
    },
    "116": {
     "name": "Dan Dan",
     "id": "9F4C8ztpNUmXkdDDbz3J",
-    "resource_id": "7374727002261033473"
+    "resource_id": "123"
    },
    "117": {
     "name": "Joanne",
     "id": "XMWzAzwYm487GEok2uG2",
-    "resource_id": "7374727186323870209"
+    "resource_id": "123"
    },
    "118": {
     "name": "Myra",
     "id": "InSLKyTvFCIeQZ0a0eES",
-    "resource_id": "7374727348349833729"
+    "resource_id": "123"
    },
    "119": {
     "name": "Alex",
     "id": "iDJbhuGTR9N7lXjELodg",
-    "resource_id": "7374727433896858128"
+    "resource_id": "123"
    },
    "120": {
     "name": "Valentino",
     "id": "153KLsX4S9dcU9E750gG",
-    "resource_id": "7374727502712803841"
+    "resource_id": "123"
    },
    "121": {
     "name": "Academic Male",
     "id": "FMvgzHAu8dL0gUSU3TMn",
-    "resource_id": "7374671750266622481"
+    "resource_id": "123"
    },
    "122": {
     "name": "ASMR by Ethan",
     "id": "g5CIjZEefAph4nQFvHAz",
-    "resource_id": "7374671839127147025"
+    "resource_id": "123"
    },
    "123": {
     "name": "TV Host",
     "id": "xAVsdcJvD1uegu8lFEE2",
-    "resource_id": "7374727598296797712"
+    "resource_id": "123"
    },
    "124": {
     "name": "Musing Female",
     "id": "VRzR10DWf2jP2ieNulzS",
-    "resource_id": "7374672411964215825"
+    "resource_id": "123"
    },
    "125": {
     "name": "Live Reporter",
     "id": "5Q0t7uMcjvnagumLfvZi",
-    "resource_id": "7374727687337677329"
+    "resource_id": "123"
    },
    "126": {
     "name": "British Reporter",
     "id": "Zlb1dXrM653N07WRdFW3",
-    "resource_id": "7374727749061054992"
+    "resource_id": "123"
    },
    "127": {
     "name": "Josh",
     "id": "TxGEqnHWrfWFTfGW9XjX",
-    "resource_id": "7375867555405107713"
+    "resource_id": "123"
    },
    "128": {
     "name": "Meditative Male",
     "id": "GBv7mTt0atIp3Br8iCZE",
-    "resource_id": "7375867686565188112"
+    "resource_id": "123"
    },
    "129": {
     "name": "Thrilled Male",
     "id": "bVMeCyTHy58xNoL34h3p",
-    "resource_id": "7375867921932751377"
+    "resource_id": "123"
    },
    "130": {
     "name": "Scarlett",
     "id": "VdfT7kt8i1G1JqBvSlst",
-    "resource_id": "7376485202538795537"
+    "resource_id": "123"
    },
    "131": {
     "name": "Alvin",
     "id": "en_male_charlie_conversation_wvae_bigtts_cc",
-    "resource_id": "7371352611217216017"
+    "resource_id": "123"
    },
    "132": {
     "name": "Daniel",
     "id": "en_male_xudong_conversation_wvae_bigtts_cc",
-    "resource_id": "7371352319541121553"
+    "resource_id": "123"
    },
    "133": {
     "name": "Leo",
     "id": "en_male_leonardo_decaprio",
-    "resource_id": "7360987035974242833"
+    "resource_id": "123"
    },
    "134": {
     "name": "Simon",
     "id": "en_male_stewie_familyguy",
-    "resource_id": "7360987300609659393"
+    "resource_id": "123"
    },
    "135": {
     "name": "Fender",
     "id": "en_male_bender_futurama",
-    "resource_id": "7360986724681388560"
+    "resource_id": "123"
    },
    "136": {
     "name": "Homer",
     "id": "en_male_homer_simpson",
-    "resource_id": "7360987557812769296"
+    "resource_id": "123"
    },
    "137": {
     "name": "John",
     "id": "en_male_john_mulaney",
-    "resource_id": "7360987403995058689"
+    "resource_id": "123"
    },
    "138": {
     "name": "David",
     "id": "en_male_british_narrator",
-    "resource_id": "7360987855176339984"
+    "resource_id": "123"
    },
    "139": {
     "name": "Mad Penguin",
     "id": "en_male_grumpy_penguin",
-    "resource_id": "7360987676440269328"
+    "resource_id": "123"
    },
    "140": {
     "name": "Tipsy Lady",
     "id": "en_female_drunk_bumpkin",
-    "resource_id": "7360987195986940432"
+    "resource_id": "123"
    },
    "141": {
     "name": "Roba",
     "id": "en_female_loba_apex",
-    "resource_id": "7360986396594541057"
+    "resource_id": "123"
    },
    "142": {
     "name": "Comedy Gil",
     "id": "en_female_fortune_feimster",
-    "resource_id": "7360987978455323137"
+    "resource_id": "123"
    },
    "143": {
     "name": "Female Tutor",
     "id": "en-US-JennyMultilingualNeural",
-    "resource_id": "7337657863390630401"
+    "resource_id": "123"
    },
    "144": {
     "name": "Lois",
     "id": "en_female_lois_familyguy",
-    "resource_id": "7355036507519848961"
+    "resource_id": "123"
    },
    "145": {
     "name": "Police officer",
     "id": "en_male_irritable_police_officer",
-    "resource_id": "7355036625488843280"
+    "resource_id": "123"
    },
    "146": {
     "name": "Drag Voice",
     "id": "en_male_drag_voice",
-    "resource_id": "7355036740215640593"
+    "resource_id": "123"
    },
    "147": {
     "name": "Postive Guy",
     "id": "en_male_positive_british",
-    "resource_id": "7355036978116563473"
+    "resource_id": "123"
    },
    "148": {
     "name": "ASMR",
     "id": "en_male_whispering_voice",
-    "resource_id": "7355037095066341904"
+    "resource_id": "123"
    },
    "149": {
     "name": "Andrew",
     "id": "en-US-AndrewNeural",
-    "resource_id": "7356130540799398417"
+    "resource_id": "123"
    },
    "150": {
     "name": "Sam",
     "id": "en-AU-WilliamNeural",
-    "resource_id": "7350884638874669570"
+    "resource_id": "123"
    },
    "151": {
     "name": "Alexstrasza",
     "id": "en_female_game_narration",
-    "resource_id": "7351731040093737473"
+    "resource_id": "123"
    },
    "152": {
     "name": "Valley Girl II",
     "id": "en_female_meangirl",
-    "resource_id": "7351730508037886481"
+    "resource_id": "123"
    },
    "153": {
     "name": "Greek Guy",
     "id": "en_male_greek_accent",
-    "resource_id": "7351730796933157377"
+    "resource_id": "123"
    },
    "154": {
     "name": "Golden Monkey",
     "id": "en_male_golden_monkey",
-    "resource_id": "7351730917590700545"
+    "resource_id": "123"
    },
    "155": {
     "name": "Fussy male",
     "id": "en_male_bumbling_idiot",
-    "resource_id": "7337195992237740546"
+    "resource_id": "123"
    },
    "156": {
     "name": "Fiesta",
     "id": "en_female_gloria",
-    "resource_id": "7337195915368731138"
+    "resource_id": "123"
    },
    "157": {
     "name": "Queen",
     "id": "en_female_british_queen",
-    "resource_id": "7337195844971532801"
+    "resource_id": "123"
    },
    "158": {
     "name": "Flirty Female",
     "id": "en_female_product_darcie_moon_bigtts",
-    "resource_id": "7337195598900105729"
+    "resource_id": "123"
    },
    "159": {
     "name": "Female Sales",
     "id": "en_female_product_elise",
-    "resource_id": "7337195523163558401"
+    "resource_id": "123"
    },
    "160": {
     "name": "Pam",
     "id": "en_female_food_amy",
-    "resource_id": "7337195373867307522"
+    "resource_id": "123"
    },
    "161": {
     "name": "Bianca",
     "id": "en_female_product_leah",
-    "resource_id": "7337195678558327297"
+    "resource_id": "123"
    },
    "162": {
     "name": "Granny",
     "id": "en_female_grandma_amy",
-    "resource_id": "7337195773446066690"
+    "resource_id": "123"
    },
    "163": {
     "name": "Flirty Male",
     "id": "en_male_hoarse_mattmc",
-    "resource_id": "7338752878611272194"
+    "resource_id": "123"
    },
    "164": {
     "name": "Cub",
     "id": "en_female_kid_eddie",
-    "resource_id": "7337195145680392706"
+    "resource_id": "123"
    },
    "165": {
     "name": "Dramarama",
     "id": "en_male_dramaqueen_zachk",
-    "resource_id": "7337195243810329089"
+    "resource_id": "123"
    },
    "166": {
     "name": "Ambitious Guy",
     "id": "en_male_positiveboy_duncan",
-    "resource_id": "7337194306685374978"
+    "resource_id": "123"
    },
    "167": {
     "name": "Sports Anchor",
     "id": "en_male_sports_jomboy",
-    "resource_id": "7337195054290702850"
+    "resource_id": "123"
    },
    "168": {
     "name": "Energetic Male II",
     "id": "en_male_campaign_jamal_moon_bigtts",
-    "resource_id": "7337194574688817666"
+    "resource_id": "123"
    },
    "169": {
     "name": "Mentor",
     "id": "en_male_artistic_layne",
-    "resource_id": "7337195454980952577"
+    "resource_id": "123"
    },
    "170": {
     "name": "GingerChime",
     "id": "en_male_david_gingerman",
-    "resource_id": "7309752196122284545"
+    "resource_id": "123"
    },
    "171": {
     "name": "Cute Boy 2",
     "id": "en_female_amie",
-    "resource_id": "7306800306921148929"
+    "resource_id": "123"
    },
    "172": {
     "name": "Elfy",
     "id": "en_male_adam_elf",
-    "resource_id": "7309753082638766593"
+    "resource_id": "123"
    },
    "173": {
     "name": "Santa II",
     "id": "en_male_corey_santa",
-    "resource_id": "7309751125572325889"
+    "resource_id": "123"
    },
    "174": {
     "name": "Drama Boy",
     "id": "en_male_britishgamer",
-    "resource_id": "7249264251536151042"
+    "resource_id": "123"
    },
    "175": {
     "name": "Werewolf",
     "id": "en_female_werewolf",
-    "resource_id": "7293115150263915009"
+    "resource_id": "123"
    },
    "176": {
     "name": "Witch",
     "id": "en_female_witch",
-    "resource_id": "7293115285471498754"
+    "resource_id": "123"
    },
    "177": {
     "name": "Sturdy Male",
     "id": "en_male_jarvis",
-    "resource_id": "7249264092781744641"
+    "resource_id": "123"
    },
    "178": {
     "name": "Good Guy",
     "id": "en_male_deadpool",
-    "resource_id": "7231025912261644802"
+    "resource_id": "123"
    },
    "179": {
     "name": "Zombie",
     "id": "en_female_zombie",
-    "resource_id": "7293115536584479233"
+    "resource_id": "123"
    },
    "180": {
     "name": "Doll",
     "id": "en_female_doll",
-    "resource_id": "7293115626711683585"
+    "resource_id": "123"
    },
    "181": {
     "name": "Male Commentator",
     "id": "en_male_commentary_moon_bigtts",
-    "resource_id": "7277818843358040578"
+    "resource_id": "123"
    },
    "182": {
     "name": "Noble Woman",
     "id": "BV518_streaming",
-    "resource_id": "7277818172416201218"
+    "resource_id": "123"
    },
    "183": {
     "name": "Cottagecore",
     "id": "en_female_f08_salut_damour",
-    "resource_id": "7245192978749198849"
+    "resource_id": "123"
    },
    "184": {
     "name": "Open Mic",
     "id": "en_female_f08_warmy_breeze",
-    "resource_id": "7245192865905644033"
+    "resource_id": "123"
    },
    "185": {
     "name": "Quirky Time",
     "id": "en_male_m2_xhxs_m03_silly",
-    "resource_id": "7245192771231814145"
+    "resource_id": "123"
    },
    "186": {
     "name": "Drag Boy",
     "id": "BV519_streaming",
-    "resource_id": "7277818037556744706"
+    "resource_id": "123"
    },
    "187": {
     "name": "Delicate Girl",
     "id": "en_female_daisy_moon_bigtts",
-    "resource_id": "7278146659211547138"
+    "resource_id": "123"
    },
    "188": {
     "name": "Serious Girl",
     "id": "en_female_sherry",
-    "resource_id": "7278146554844680706"
+    "resource_id": "123"
    },
    "189": {
     "name": "Cold Female",
     "id": "en_female_tina",
-    "resource_id": "7278146377178157570"
+    "resource_id": "123"
    },
    "190": {
     "name": "Rigorous Man",
     "id": "en_male_ukbutler",
-    "resource_id": "7256999218185769473"
+    "resource_id": "123"
    },
    "191": {
     "name": "Lord Cringe",
     "id": "en_male_ukneighbor",
-    "resource_id": "7256999312872182274"
+    "resource_id": "123"
    },
    "192": {
     "name": "Female Vloger",
     "id": "en_female_makeup",
-    "resource_id": "7256999130084413954"
+    "resource_id": "123"
    },
    "193": {
     "name": "Excited Man",
     "id": "en_male_will_clone2",
-    "resource_id": "7232136973664653825"
+    "resource_id": "123"
    },
    "194": {
     "name": "Excited Female",
     "id": "en_female_caroline_clone2",
-    "resource_id": "7232136837861478913"
+    "resource_id": "123"
    },
    "195": {
     "name": "Pop Lullaby",
     "id": "en_female_f08_twinkle",
-    "resource_id": "7245192372613550594"
+    "resource_id": "123"
    },
    "196": {
     "name": "Opera",
     "id": "en_female_ht_f08_halloween",
-    "resource_id": "7245192656358216193"
+    "resource_id": "123"
    },
    "197": {
     "name": "Cozy",
     "id": "en_male_m2_xhxs_m03_christmas",
-    "resource_id": "7245192557322310145"
+    "resource_id": "123"
    },
    "198": {
     "name": "Classic Electric",
     "id": "en_male_m03_classical",
-    "resource_id": "7245192458206712322"
+    "resource_id": "123"
    },
    "199": {
     "name": "Serious Male",
     "id": "en_male_cody",
-    "resource_id": "7176107532534944258"
+    "resource_id": "123"
    },
    "200": {
     "name": "Empathetic Female",
     "id": "en_female_samc",
-    "resource_id": "7176107981098979841"
+    "resource_id": "123"
    },
    "201": {
     "name": "Bestie",
     "id": "en_female_richgirl_stream",
-    "resource_id": "7189462696201294338"
+    "resource_id": "123"
    },
    "202": {
     "name": "Trickster",
     "id": "en_male_trickster_stream",
-    "resource_id": "7189462618589893121"
+    "resource_id": "123"
    },
    "203": {
     "name": "Rhythmic Voice",
     "id": "BR002_streaming",
-    "resource_id": "7164264995545420289"
+    "resource_id": "123"
    },
    "204": {
     "name": "Kawaii Vocalist",
     "id": "VOV208_bytesing3_littlelamb",
-    "resource_id": "7144984711960465921"
+    "resource_id": "123"
    },
    "205": {
     "name": "Jessie",
     "id": "en_us_002",
-    "resource_id": "7130515992936976897"
+    "resource_id": "123"
    },
    "206": {
     "name": "Kids Vocalist",
     "id": "VOV301_bytesing3_wanglaoxiansheng",
-    "resource_id": "7129449871223820802"
+    "resource_id": "123"
    },
    "207": {
     "name": "Female Vocalist",
     "id": "VOV301_bytesing3_aidelizan",
-    "resource_id": "7129449750037795329"
+    "resource_id": "123"
    },
    "208": {
     "name": "Confident Guy",
     "id": "BV516_streaming",
-    "resource_id": "7129448697229742593"
+    "resource_id": "123"
    },
    "209": {
     "name": "Chill Girl",
     "id": "BV511_streaming",
-    "resource_id": "7129448542808052225"
+    "resource_id": "123"
    },
    "210": {
     "name": "Old Style Advertising Man",
     "id": "en_us_006",
-    "resource_id": "7114563482518819329"
+    "resource_id": "123"
    },
    "211": {
     "name": "Professional Male",
     "id": "en_us_007",
-    "resource_id": "7114563482472681986"
+    "resource_id": "123"
    },
    "212": {
     "name": "Male Scientist",
     "id": "en_us_009",
-    "resource_id": "7114563482418156033"
+    "resource_id": "123"
    },
    "213": {
     "name": "Charming Male",
     "id": "en_us_010",
-    "resource_id": "7114563482359435778"
+    "resource_id": "123"
    },
    "214": {
     "name": "Wacky",
     "id": "en_male_funny",
-    "resource_id": "7114563483378651650"
+    "resource_id": "123"
    },
    "215": {
     "name": "British Male",
     "id": "en_uk_003",
-    "resource_id": "7114563482363630082"
+    "resource_id": "123"
    },
    "216": {
     "name": "Peaceful Female",
     "id": "en_female_emotional_moon_bigtts",
-    "resource_id": "7114563483257016833"
+    "resource_id": "123"
    },
    "217": {
     "name": "Narrative Male",
     "id": "en_male_narration_moon_bigtts",
-    "resource_id": "7114563483210879490"
+    "resource_id": "123"
    },
    "218": {
     "name": "Neutral Woman",
     "id": "en_au_001",
-    "resource_id": "7114563482472698370"
+    "resource_id": "123"
    },
    "219": {
     "name": "Peaceful Man",
     "id": "en_au_002",
-    "resource_id": "7114564716881515010"
+    "resource_id": "123"
    },
    "220": {
     "name": "Adorable Girl",
     "id": "BV506_streaming",
-    "resource_id": "7102354325850034689"
+    "resource_id": "123"
    },
    "221": {
     "name": "Serious Female",
     "id": "BV505_streaming",
-    "resource_id": "7102354167598944769"
+    "resource_id": "123"
    },
    "222": {
     "name": "Storyteller Man",
     "id": "BV127_streaming",
-    "resource_id": "7102354086866981378"
+    "resource_id": "123"
    },
    "223": {
     "name": "Storyteller Woman",
     "id": "BV138_streaming",
-    "resource_id": "7102353961276936706"
+    "resource_id": "123"
    },
    "224": {
     "name": "Charming Female",
     "id": "BV027_streaming",
-    "resource_id": "7081169503626727937"
+    "resource_id": "123"
    },
    "225": {
     "name": "Neutral Man",
     "id": "BV510_streaming",
-    "resource_id": "7081169180120060418"
+    "resource_id": "123"
    },
    "226": {
     "name": "Narrative Woman",
     "id": "BV502_streaming",
-    "resource_id": "7081169098796700161"
+    "resource_id": "123"
    },
    "227": {
     "name": "Cute Boy",
     "id": "BV507_streaming",
-    "resource_id": "7081168994673103362"
+    "resource_id": "123"
    },
    "228": {
     "name": "Energetic Guy",
     "id": "BV504_streaming",
-    "resource_id": "7081168903811895809"
+    "resource_id": "123"
    },
    "229": {
     "name": "Energetic Female",
     "id": "BV503_streaming",
-    "resource_id": "7081168775646548482"
+    "resource_id": "123"
    },
    "230": {
     "name": "American Male",
     "id": "BV028_TOBI_streaming",
-    "resource_id": "6898239746565214722"
+    "resource_id": "123"
    },
    "231": {
     "name": "American Female",
     "id": "BV029_streaming",
-    "resource_id": "6898240012404396546"
+    "resource_id": "123"
    },
    "232": {
     "name": "British Woman",
     "id": "BV031_streaming",
-    "resource_id": "6898240156344521218"
+    "resource_id": "123"
    }
   },
   "# Thai": {
    "1": {
     "name": "สุนิสา",
     "id": "BV567_streaming",
-    "resource_id": "7483736024871342608"
+    "resource_id": "123"
    },
    "2": {
     "name": "นภา",
     "id": "BV568_streaming",
-    "resource_id": "7483736089434264065"
+    "resource_id": "123"
    },
    "3": {
     "name": "Sweet Little Girl",
     "id": "BV421_thth_streaming",
-    "resource_id": "7268502477702435330"
+    "resource_id": "123"
    }
   },
   "# Chinese": {
    "1": {
     "name": "TV Ad",
     "id": "BV433_streaming",
-    "resource_id": "7436608032152228353"
+    "resource_id": "123"
    },
    "2": {
     "name": "Yingzi",
     "id": "zh_female_naying",
-    "resource_id": "7436607833887478289"
+    "resource_id": "123"
    },
    "3": {
     "name": "Emotional Quote",
     "id": "BV145_streaming",
-    "resource_id": "7436607923695915537"
+    "resource_id": "123"
    },
    "4": {
     "name": "Ms. Gu",
     "id": "zh_female_guli_stream_gpu",
-    "resource_id": "7436607747929412097"
+    "resource_id": "123"
    },
    "5": {
     "name": "Bajie",
     "id": "zh_male_zhubajie_clone2",
-    "resource_id": "7436607630379848209"
+    "resource_id": "123"
    },
    "6": {
     "name": "Grandma Rong",
     "id": "BV430_streaming",
-    "resource_id": "7436607533080384016"
+    "resource_id": "123"
    },
    "7": {
     "name": "Daiyu",
     "id": "BV425_streaming",
-    "resource_id": "7436607444421186064"
+    "resource_id": "123"
    },
    "8": {
     "name": "Crayon Xiaoni",
     "id": "zh_female_yingtiannini",
-    "resource_id": "7436607246919799313"
+    "resource_id": "123"
    },
    "9": {
     "name": "Buddha",
     "id": "zh_male_rulaifo",
-    "resource_id": "7436607104976163345"
+    "resource_id": "123"
    },
    "10": {
     "name": "Alluring Male Voice",
     "id": "zh_male_vopguanggao",
-    "resource_id": "7436607339689415169"
+    "resource_id": "123"
    },
    "11": {
     "name": "Lolita",
     "id": "BV064_streaming",
-    "resource_id": "7372474220892131857"
+    "resource_id": "123"
    },
    "12": {
     "name": "Guangxi Accent",
     "id": "BV213_streaming",
-    "resource_id": "7372474337594446337"
+    "resource_id": "123"
    },
    "13": {
     "name": "Slurred",
     "id": "BV021_streaming",
-    "resource_id": "7372473998958924305"
+    "resource_id": "123"
    },
    "14": {
     "name": "Storyteller 1",
     "id": "BV405_streaming",
-    "resource_id": "7372474073286185489"
+    "resource_id": "123"
    },
    "15": {
     "name": "Radiant",
     "id": "BV011_streaming",
-    "resource_id": "7372474285018845712"
+    "resource_id": "123"
    },
    "16": {
     "name": "Lady",
     "id": "BV001_fast_streaming",
-    "resource_id": "7372473772730749457"
+    "resource_id": "123"
    },
    "17": {
     "name": "Cool Thinker",
     "id": "BV701_streaming",
-    "resource_id": "7372473606908940801"
+    "resource_id": "123"
    },
    "18": {
     "name": "Roar",
     "id": "BV144_streaming",
-    "resource_id": "7372473660856078849"
+    "resource_id": "123"
    },
    "19": {
     "name": "Trance",
     "id": "BV408_streaming",
-    "resource_id": "7372473718963966465"
+    "resource_id": "123"
    },
    "20": {
     "name": "Gossip",
     "id": "BV005_streaming",
-    "resource_id": "7372473942046413313"
+    "resource_id": "123"
    },
    "21": {
     "name": "Charm",
     "id": "BV007_streaming",
-    "resource_id": "7372474136372711937"
+    "resource_id": "123"
    },
    "22": {
     "name": "Sorrow",
     "id": "zh_female_ziwei",
-    "resource_id": "7382469632570954256"
+    "resource_id": "123"
    },
    "23": {
     "name": "Bramble",
     "id": "zh_male_xionger_stream_gpu",
-    "resource_id": "7382469522113958416"
+    "resource_id": "123"
    },
    "24": {
     "name": "Verse",
     "id": "BV428_streaming",
-    "resource_id": "7382470008628056593"
+    "resource_id": "123"
    },
    "25": {
     "name": "Anime Youth",
     "id": "BV050_streaming",
-    "resource_id": "7382469691106660865"
+    "resource_id": "123"
    },
    "26": {
     "name": "Dainty",
     "id": "zh_female_jiazi",
-    "resource_id": "7382469794945044993"
+    "resource_id": "123"
    },
    "27": {
     "name": "Mumble",
     "id": "zh_male_hougedaiyu",
-    "resource_id": "7382469847881355793"
+    "resource_id": "123"
    },
    "28": {
     "name": "High-Pitch Bob",
     "id": "BV063_streaming",
-    "resource_id": "7382469911257289217"
+    "resource_id": "123"
    },
    "29": {
     "name": "Storyteller 2",
     "id": "BV411_streaming",
-    "resource_id": "7372473844725977601"
+    "resource_id": "123"
    },
    "30": {
     "name": "Nasally",
     "id": "zh_male_sunwukong_rap",
-    "resource_id": "7382469739395682832"
+    "resource_id": "123"
    },
    "31": {
     "name": "Drama",
     "id": "BV409_streaming",
-    "resource_id": "7382469578682536464"
+    "resource_id": "123"
    },
    "32": {
     "name": "Elementary Student",
     "id": "BV426_streaming",
-    "resource_id": "7382469958619370001"
+    "resource_id": "123"
    },
    "33": {
     "name": "Yonrou",
     "id": "zh_male_silang_stream_gpu",
-    "resource_id": "7382469459639800321"
+    "resource_id": "123"
    }
   },
   "# Spanish": {
    "1": {
     "name": "Carola",
     "id": "ICL_mx_female_tt_carola",
-    "resource_id": "7469007204322906625"
+    "resource_id": "123"
    },
    "2": {
     "name": "Alejandro Durán",
     "id": "sKgg4MPUDBy69X7iv3fA",
-    "resource_id": "7441518733278843409"
+    "resource_id": "123"
    },
    "3": {
     "name": "Hombre Serio",
     "id": "BV062_streaming",
-    "resource_id": "7102355528579289601"
+    "resource_id": "123"
    },
    "4": {
     "name": "Mexican Female Voice",
     "id": "BV065_streaming",
-    "resource_id": "7028847590758158849"
+    "resource_id": "123"
    },
    "5": {
     "name": "Warm",
     "id": "es_mx_002",
-    "resource_id": "7114563481319248385"
+    "resource_id": "123"
    },
    "6": {
     "name": "Julio",
     "id": "es_male_m3",
-    "resource_id": "7176108454489100802"
+    "resource_id": "123"
    },
    "7": {
     "name": "Chica Joven",
     "id": "es_female_f6",
-    "resource_id": "7176108614086562306"
+    "resource_id": "123"
    }
   },
   "# Other": {
    "1": {
     "name": "Tatiana Martin",
     "id": "2rigMbVWLdqtBSCahJFX",
-    "resource_id": "7441519043623784976"
+    "resource_id": "123"
    },
    "2": {
     "name": "Sara Martin I",
     "id": "KHCvMklQZZo0O30ERnVn",
-    "resource_id": "7441518624847696400"
+    "resource_id": "123"
    },
    "3": {
     "name": "Caspian",
     "id": "en_male_jeremy_emo_v2_mars_bigtts",
-    "resource_id": "7430714636921475601"
+    "resource_id": "123"
    },
    "4": {
     "name": "Male Voice",
     "id": "BV087_streaming",
-    "resource_id": "7049980340806357506"
+    "resource_id": "123"
    },
    "5": {
     "name": "Female Voice (German)",
     "id": "BV080_streaming",
-    "resource_id": "7028847688217006593"
+    "resource_id": "123"
    },
    "6": {
     "name": "Masculino",
     "id": "BV060_streaming",
-    "resource_id": "6938347573295976962"
+    "resource_id": "123"
    },
    "7": {
     "name": "Masculina 2",
     "id": "BV071_streaming",
-    "resource_id": "7009155700278432258"
+    "resource_id": "123"
    },
    "8": {
     "name": "Faminina",
     "id": "BV067_streaming",
-    "resource_id": "7009155604027544066"
+    "resource_id": "123"
    },
    "9": {
     "name": "Lucas",
     "id": "br_005",
-    "resource_id": "7114563482594316801"
+    "resource_id": "123"
    },
    "10": {
     "name": "Júlia",
     "id": "br_003",
-    "resource_id": "7114563482564956673"
+    "resource_id": "123"
    },
    "11": {
     "name": "Ana",
     "id": "br_004",
-    "resource_id": "7114563482304909826"
+    "resource_id": "123"
    },
    "12": {
     "name": "Mulher Doce（BR）",
     "id": "BV566_streaming",
-    "resource_id": "7129449556973982209"
+    "resource_id": "123"
    },
    "13": {
     "name": "Criança Fofa（BR）",
     "id": "BV565_streaming",
-    "resource_id": "7129449072330543618"
+    "resource_id": "123"
    }
   },
   "# French": {
    "1": {
     "name": "Miss Radio",
     "id": "b6nVfb3l2zshrLZTvqbs",
-    "resource_id": "7441518516341051921"
+    "resource_id": "123"
    },
    "2": {
     "name": "Louis Boutin",
     "id": "j9RedbMRSNQ74PyikQwD",
-    "resource_id": "7441518438326997520"
+    "resource_id": "123"
    },
    "3": {
     "name": "Nicolas II",
     "id": "aQROLel5sQbj1vuIVi6B",
-    "resource_id": "7441518351764951553"
+    "resource_id": "123"
    },
    "4": {
     "name": "Voix féminine",
     "id": "BV078_streaming",
-    "resource_id": "7049979316616040961"
+    "resource_id": "123"
    },
    "5": {
     "name": "French Male",
     "id": "fr_002",
-    "resource_id": "7114563481315054081"
+    "resource_id": "123"
    }
   },
   "# Arabic": {
    "1": {
     "name": "Man (Arabic)",
     "id": "BV570_streaming",
-    "resource_id": "7074797219278230018"
+    "resource_id": "123"
    }
   },
   "# Portuguese": {
    "1": {
     "name": "Mulher Dinâmica",
     "id": "BV530_streaming",
-    "resource_id": "7102354497619366402"
+    "resource_id": "123"
    },
    "2": {
     "name": "Lively Man (Portuguese)",
     "id": "BV531_streaming",
-    "resource_id": "7074794519954199042"
+    "resource_id": "123"
    }
   },
   "# Turkish": {
    "1": {
     "name": "Deep Male Voice ",
     "id": "BV083_streaming",
-    "resource_id": "7049979944004227586"
+    "resource_id": "123"
    }
   },
   "# Russian": {
    "1": {
     "name": "Female Voice (Russian)",
     "id": "BV068_streaming",
-    "resource_id": "7028847532939678209"
+    "resource_id": "123"
    }
   },
   "# German": {
    "1": {
     "name": "German Female",
     "id": "de_001",
-    "resource_id": "7114563481336025602"
+    "resource_id": "123"
    }
   },
   "# Japanese": {
    "1": {
     "name": "Young Japanese Woman",
     "id": "BV016_streaming",
-    "resource_id": "6919013937493053953"
+    "resource_id": "123"
    },
    "2": {
     "name": "可愛い精霊",
     "id": "BV017_streaming",
-    "resource_id": "6919013093829775874"
+    "resource_id": "123"
    },
    "3": {
     "name": "アナウンサー",
     "id": "BV018_streaming",
-    "resource_id": "6943534535413862913"
+    "resource_id": "123"
    },
    "4": {
     "name": "成熟な姉御",
     "id": "BV024_streaming",
-    "resource_id": "6943534423778267650"
+    "resource_id": "123"
    },
    "5": {
     "name": "男性アナ",
     "id": "BV524_streaming",
-    "resource_id": "7081169917248016898"
+    "resource_id": "123"
    },
    "6": {
     "name": "癒し系女子",
     "id": "BV521_streaming",
-    "resource_id": "7081169770329936386"
+    "resource_id": "123"
    },
    "7": {
     "name": "女性アナ",
     "id": "BV522_streaming",
-    "resource_id": "7081169838864863746"
+    "resource_id": "123"
    },
    "8": {
     "name": "元気ロリ",
     "id": "BV520_streaming",
-    "resource_id": "7081169599378493954"
+    "resource_id": "123"
    },
    "9": {
     "name": "坊ちゃん",
     "id": "BV523_streaming",
-    "resource_id": "7081169700947759618"
+    "resource_id": "123"
    },
    "10": {
     "name": "風雅メゾンブラノ",
     "id": "VOV402_bytesing3_aidelizan",
-    "resource_id": "7102358863017415170"
+    "resource_id": "123"
    },
    "11": {
     "name": "優しいレ デイー",
     "id": "VOV402_bytesing3_oh",
-    "resource_id": "7102358797254922754"
+    "resource_id": "123"
    },
    "12": {
     "name": "明るいハ ニー",
     "id": "VOV401_bytesing3_kangkangwuqu",
-    "resource_id": "7102358746235408898"
+    "resource_id": "123"
    },
    "13": {
     "name": "成熟な男性",
     "id": "jp_006",
-    "resource_id": "7114563481319297538"
+    "resource_id": "123"
    },
    "14": {
     "name": "活力少女",
     "id": "jp_005",
-    "resource_id": "7114563481319264770"
+    "resource_id": "123"
    },
    "15": {
     "name": "美女キャスター",
     "id": "jp_001",
-    "resource_id": "7114563481319281154"
+    "resource_id": "123"
    },
    "16": {
     "name": "Keiko",
     "id": "jp_003",
-    "resource_id": "7114563481315070465"
+    "resource_id": "123"
    }
   },
   "# Korean": {
    "1": {
     "name": "Young Korean Woman",
     "id": "BV059_streaming",
-    "resource_id": "6938347657224000002"
+    "resource_id": "123"
    },
    "2": {
     "name": "Young Korean Man",
     "id": "BV066_streaming",
-    "resource_id": "6998450433492521474"
+    "resource_id": "123"
    },
    "3": {
     "name": "Cute Woman (Korean)",
     "id": "BV546_streaming",
-    "resource_id": "7074796070328340994"
+    "resource_id": "123"
    },
    "4": {
     "name": "Lively Man (Korean)",
     "id": "BV545_streaming",
-    "resource_id": "7074798164355584513"
+    "resource_id": "123"
    },
    "5": {
     "name": "Korean Male",
     "id": "kr_004",
-    "resource_id": "7114563481315054082"
-   }
-  }
- },
- "EdgeTTS": {
-  "# Afrikaans": {
-   "1": {
-    "name": "Willem",
-    "id": "af-ZA-WillemNeural",
-    "resource_id": "7375828635136045821"
-   },
-   "2": {
-    "name": "Adri",
-    "id": "af-ZA-AdriNeural",
-    "resource_id": "5284846069004445880"
-   }
-  },
-  "# Amharic": {
-   "1": {
-    "name": "Ameha",
-    "id": "am-ET-AmehaNeural",
-    "resource_id": "1994265653336502589"
-   },
-   "2": {
-    "name": "Mekdes",
-    "id": "am-ET-MekdesNeural",
-    "resource_id": "7138261018247894282"
-   }
-  },
-  "# Arabic": {
-   "1": {
-    "name": "Hamdan",
-    "id": "ar-AE-HamdanNeural",
-    "resource_id": "0465682132089705414"
-   },
-   "2": {
-    "name": "Ali",
-    "id": "ar-BH-AliNeural",
-    "resource_id": "7068279450858629314"
-   },
-   "3": {
-    "name": "Ismael",
-    "id": "ar-DZ-IsmaelNeural",
-    "resource_id": "9881960116256346370"
-   },
-   "4": {
-    "name": "Shakir",
-    "id": "ar-EG-ShakirNeural",
-    "resource_id": "0910430163137886298"
-   },
-   "5": {
-    "name": "Bassel",
-    "id": "ar-IQ-BasselNeural",
-    "resource_id": "0478390203165702201"
-   },
-   "6": {
-    "name": "Taim",
-    "id": "ar-JO-TaimNeural",
-    "resource_id": "0061972341002106555"
-   },
-   "7": {
-    "name": "Fahed",
-    "id": "ar-KW-FahedNeural",
-    "resource_id": "2061063891722809103"
-   },
-   "8": {
-    "name": "Rami",
-    "id": "ar-LB-RamiNeural",
-    "resource_id": "3829280580449359637"
-   },
-   "9": {
-    "name": "Omar",
-    "id": "ar-LY-OmarNeural",
-    "resource_id": "6364699746906915016"
-   },
-   "10": {
-    "name": "Jamal",
-    "id": "ar-MA-JamalNeural",
-    "resource_id": "9430392086644575614"
-   },
-   "11": {
-    "name": "Abdullah",
-    "id": "ar-OM-AbdullahNeural",
-    "resource_id": "7338317161278111727"
-   },
-   "12": {
-    "name": "Moaz",
-    "id": "ar-QA-MoazNeural",
-    "resource_id": "6065241144205599016"
-   },
-   "13": {
-    "name": "Hamed",
-    "id": "ar-SA-HamedNeural",
-    "resource_id": "0024781687980461930"
-   },
-   "14": {
-    "name": "Laith",
-    "id": "ar-SY-LaithNeural",
-    "resource_id": "8187915086042749554"
-   },
-   "15": {
-    "name": "Hedi",
-    "id": "ar-TN-HediNeural",
-    "resource_id": "3125292703145628755"
-   },
-   "16": {
-    "name": "Saleh",
-    "id": "ar-YE-SalehNeural",
-    "resource_id": "1180466214387432220"
-   },
-   "17": {
-    "name": "Fatima",
-    "id": "ar-AE-FatimaNeural",
-    "resource_id": "5899566678101396864"
-   },
-   "18": {
-    "name": "Laila",
-    "id": "ar-BH-LailaNeural",
-    "resource_id": "2093820574947091571"
-   },
-   "19": {
-    "name": "Amina",
-    "id": "ar-DZ-AminaNeural",
-    "resource_id": "1505972388748470510"
-   },
-   "20": {
-    "name": "Salma",
-    "id": "ar-EG-SalmaNeural",
-    "resource_id": "9375846866547972392"
-   },
-   "21": {
-    "name": "Rana",
-    "id": "ar-IQ-RanaNeural",
-    "resource_id": "5491060218886371905"
-   },
-   "22": {
-    "name": "Sana",
-    "id": "ar-JO-SanaNeural",
-    "resource_id": "2370687281055033459"
-   },
-   "23": {
-    "name": "Noura",
-    "id": "ar-KW-NouraNeural",
-    "resource_id": "4760734824291987488"
-   },
-   "24": {
-    "name": "Layla",
-    "id": "ar-LB-LaylaNeural",
-    "resource_id": "6021847737346222279"
-   },
-   "25": {
-    "name": "Iman",
-    "id": "ar-LY-ImanNeural",
-    "resource_id": "1688122434370574229"
-   },
-   "26": {
-    "name": "Mouna",
-    "id": "ar-MA-MounaNeural",
-    "resource_id": "7351668804638516599"
-   },
-   "27": {
-    "name": "Aysha",
-    "id": "ar-OM-AyshaNeural",
-    "resource_id": "4351596065788352255"
-   },
-   "28": {
-    "name": "Amal",
-    "id": "ar-QA-AmalNeural",
-    "resource_id": "9105887751331584990"
-   },
-   "29": {
-    "name": "Zariyah",
-    "id": "ar-SA-ZariyahNeural",
-    "resource_id": "7831920136348841534"
-   },
-   "30": {
-    "name": "Amany",
-    "id": "ar-SY-AmanyNeural",
-    "resource_id": "1566206945884944647"
-   },
-   "31": {
-    "name": "Reem",
-    "id": "ar-TN-ReemNeural",
-    "resource_id": "3102188885182589769"
-   },
-   "32": {
-    "name": "Maryam",
-    "id": "ar-YE-MaryamNeural",
-    "resource_id": "3385700163205865599"
-   }
-  },
-  "# Azerbaijani": {
-   "1": {
-    "name": "Babek",
-    "id": "az-AZ-BabekNeural",
-    "resource_id": "0475059963915569718"
-   },
-   "2": {
-    "name": "Banu",
-    "id": "az-AZ-BanuNeural",
-    "resource_id": "0530987875803691587"
-   }
-  },
-  "# Bulgarian": {
-   "1": {
-    "name": "Borislav",
-    "id": "bg-BG-BorislavNeural",
-    "resource_id": "5747032637412666627"
-   },
-   "2": {
-    "name": "Kalina",
-    "id": "bg-BG-KalinaNeural",
-    "resource_id": "9813679968012403010"
-   }
-  },
-  "# Bengali": {
-   "1": {
-    "name": "Pradeep",
-    "id": "bn-BD-PradeepNeural",
-    "resource_id": "1567745181360748335"
-   },
-   "2": {
-    "name": "Bashkar",
-    "id": "bn-IN-BashkarNeural",
-    "resource_id": "6683031750235971956"
-   },
-   "3": {
-    "name": "Nabanita",
-    "id": "bn-BD-NabanitaNeural",
-    "resource_id": "1757942711406755573"
-   },
-   "4": {
-    "name": "Tanishaa",
-    "id": "bn-IN-TanishaaNeural",
-    "resource_id": "5650667899703249576"
-   }
-  },
-  "# Bosnian": {
-   "1": {
-    "name": "Goran",
-    "id": "bs-BA-GoranNeural",
-    "resource_id": "5334990910059961731"
-   },
-   "2": {
-    "name": "Vesna",
-    "id": "bs-BA-VesnaNeural",
-    "resource_id": "8743718126653884062"
-   }
-  },
-  "# Catalan": {
-   "1": {
-    "name": "Enric",
-    "id": "ca-ES-EnricNeural",
-    "resource_id": "6453914346304584285"
-   },
-   "2": {
-    "name": "Joana",
-    "id": "ca-ES-JoanaNeural",
-    "resource_id": "7462387894850620184"
-   }
-  },
-  "# Czech": {
-   "1": {
-    "name": "Antonin",
-    "id": "cs-CZ-AntoninNeural",
-    "resource_id": "2509130215923095733"
-   },
-   "2": {
-    "name": "Vlasta",
-    "id": "cs-CZ-VlastaNeural",
-    "resource_id": "6693898094215723293"
-   }
-  },
-  "# Welsh": {
-   "1": {
-    "name": "Aled",
-    "id": "cy-GB-AledNeural",
-    "resource_id": "5654416099637860819"
-   },
-   "2": {
-    "name": "Nia",
-    "id": "cy-GB-NiaNeural",
-    "resource_id": "0874874003709292227"
-   }
-  },
-  "# Danish": {
-   "1": {
-    "name": "Jeppe",
-    "id": "da-DK-JeppeNeural",
-    "resource_id": "1801578963483402411"
-   },
-   "2": {
-    "name": "Christel",
-    "id": "da-DK-ChristelNeural",
-    "resource_id": "0917736637891430651"
-   }
-  },
-  "# German": {
-   "1": {
-    "name": "Jonas",
-    "id": "de-AT-JonasNeural",
-    "resource_id": "0074777462344560868"
-   },
-   "2": {
-    "name": "Jan",
-    "id": "de-CH-JanNeural",
-    "resource_id": "3229891180639194379"
-   },
-   "3": {
-    "name": "Conrad",
-    "id": "de-DE-ConradNeural",
-    "resource_id": "4195751180004472959"
-   },
-   "4": {
-    "name": "FlorianMultilingual",
-    "id": "de-DE-FlorianMultilingualNeural",
-    "resource_id": "3148320425925919781"
-   },
-   "5": {
-    "name": "Killian",
-    "id": "de-DE-KillianNeural",
-    "resource_id": "4679893645716654850"
-   },
-   "6": {
-    "name": "Ingrid",
-    "id": "de-AT-IngridNeural",
-    "resource_id": "6928749419916284796"
-   },
-   "7": {
-    "name": "Leni",
-    "id": "de-CH-LeniNeural",
-    "resource_id": "6935132119851166988"
-   },
-   "8": {
-    "name": "Amala",
-    "id": "de-DE-AmalaNeural",
-    "resource_id": "5373232004827467039"
-   },
-   "9": {
-    "name": "Katja",
-    "id": "de-DE-KatjaNeural",
-    "resource_id": "5341300381888789855"
-   },
-   "10": {
-    "name": "SeraphinaMultilingual",
-    "id": "de-DE-SeraphinaMultilingualNeural",
-    "resource_id": "5099623924107466797"
-   }
-  },
-  "# Greek": {
-   "1": {
-    "name": "Nestoras",
-    "id": "el-GR-NestorasNeural",
-    "resource_id": "1957826263013236111"
-   },
-   "2": {
-    "name": "Athina",
-    "id": "el-GR-AthinaNeural",
-    "resource_id": "9173291245616521596"
-   }
-  },
-  "# English": {
-   "1": {
-    "name": "William",
-    "id": "en-AU-WilliamNeural",
-    "resource_id": "6864685408875471237"
-   },
-   "2": {
-    "name": "Liam",
-    "id": "en-CA-LiamNeural",
-    "resource_id": "0562457340015898529"
-   },
-   "3": {
-    "name": "Ryan",
-    "id": "en-GB-RyanNeural",
-    "resource_id": "4634587190406909553"
-   },
-   "4": {
-    "name": "Thomas",
-    "id": "en-GB-ThomasNeural",
-    "resource_id": "2956371638477348031"
-   },
-   "5": {
-    "name": "Sam",
-    "id": "en-HK-SamNeural",
-    "resource_id": "5893163466555635924"
-   },
-   "6": {
-    "name": "Connor",
-    "id": "en-IE-ConnorNeural",
-    "resource_id": "7806496133285466305"
-   },
-   "7": {
-    "name": "Prabhat",
-    "id": "en-IN-PrabhatNeural",
-    "resource_id": "2485756640960152965"
-   },
-   "8": {
-    "name": "Chilemba",
-    "id": "en-KE-ChilembaNeural",
-    "resource_id": "8900153693435598104"
-   },
-   "9": {
-    "name": "Abeo",
-    "id": "en-NG-AbeoNeural",
-    "resource_id": "3243663564237325896"
-   },
-   "10": {
-    "name": "Mitchell",
-    "id": "en-NZ-MitchellNeural",
-    "resource_id": "2500500784541784577"
-   },
-   "11": {
-    "name": "James",
-    "id": "en-PH-JamesNeural",
-    "resource_id": "4516847519903422524"
-   },
-   "12": {
-    "name": "Wayne",
-    "id": "en-SG-WayneNeural",
-    "resource_id": "1562779557922866310"
-   },
-   "13": {
-    "name": "Elimu",
-    "id": "en-TZ-ElimuNeural",
-    "resource_id": "1285797294577589145"
-   },
-   "14": {
-    "name": "AndrewMultilingual",
-    "id": "en-US-AndrewMultilingualNeural",
-    "resource_id": "1426186582467866124"
-   },
-   "15": {
-    "name": "Andrew",
-    "id": "en-US-AndrewNeural",
-    "resource_id": "2925173398079772195"
-   },
-   "16": {
-    "name": "BrianMultilingual",
-    "id": "en-US-BrianMultilingualNeural",
-    "resource_id": "2971853036600622302"
-   },
-   "17": {
-    "name": "Brian",
-    "id": "en-US-BrianNeural",
-    "resource_id": "1387655977697712610"
-   },
-   "18": {
-    "name": "Christopher",
-    "id": "en-US-ChristopherNeural",
-    "resource_id": "7263889497773316248"
-   },
-   "19": {
-    "name": "Eric",
-    "id": "en-US-EricNeural",
-    "resource_id": "0260785443711762968"
-   },
-   "20": {
-    "name": "Guy",
-    "id": "en-US-GuyNeural",
-    "resource_id": "0369082860374206662"
-   },
-   "21": {
-    "name": "Roger",
-    "id": "en-US-RogerNeural",
-    "resource_id": "6227566105140395565"
-   },
-   "22": {
-    "name": "Steffan",
-    "id": "en-US-SteffanNeural",
-    "resource_id": "7398925489779613960"
-   },
-   "23": {
-    "name": "Luke",
-    "id": "en-ZA-LukeNeural",
-    "resource_id": "2144718803874906993"
-   },
-   "24": {
-    "name": "Natasha",
-    "id": "en-AU-NatashaNeural",
-    "resource_id": "2360654345344465127"
-   },
-   "25": {
-    "name": "Clara",
-    "id": "en-CA-ClaraNeural",
-    "resource_id": "1237632481717908970"
-   },
-   "26": {
-    "name": "Libby",
-    "id": "en-GB-LibbyNeural",
-    "resource_id": "8019830972133313258"
-   },
-   "27": {
-    "name": "Maisie",
-    "id": "en-GB-MaisieNeural",
-    "resource_id": "6431619803655042180"
-   },
-   "28": {
-    "name": "Sonia",
-    "id": "en-GB-SoniaNeural",
-    "resource_id": "0888443057108805683"
-   },
-   "29": {
-    "name": "Yan",
-    "id": "en-HK-YanNeural",
-    "resource_id": "4228282455911088625"
-   },
-   "30": {
-    "name": "Emily",
-    "id": "en-IE-EmilyNeural",
-    "resource_id": "2775066372583185427"
-   },
-   "31": {
-    "name": "NeerjaExpressive",
-    "id": "en-IN-NeerjaExpressiveNeural",
-    "resource_id": "8961970199090350107"
-   },
-   "32": {
-    "name": "Neerja",
-    "id": "en-IN-NeerjaNeural",
-    "resource_id": "3157731652344642052"
-   },
-   "33": {
-    "name": "Asilia",
-    "id": "en-KE-AsiliaNeural",
-    "resource_id": "1565999052593678965"
-   },
-   "34": {
-    "name": "Ezinne",
-    "id": "en-NG-EzinneNeural",
-    "resource_id": "0940737387418923825"
-   },
-   "35": {
-    "name": "Molly",
-    "id": "en-NZ-MollyNeural",
-    "resource_id": "1473790454012903337"
-   },
-   "36": {
-    "name": "Rosa",
-    "id": "en-PH-RosaNeural",
-    "resource_id": "3663240149528667252"
-   },
-   "37": {
-    "name": "Luna",
-    "id": "en-SG-LunaNeural",
-    "resource_id": "7037203127480055639"
-   },
-   "38": {
-    "name": "Imani",
-    "id": "en-TZ-ImaniNeural",
-    "resource_id": "3772961360654545802"
-   },
-   "39": {
-    "name": "Ana",
-    "id": "en-US-AnaNeural",
-    "resource_id": "6610258874221459438"
-   },
-   "40": {
-    "name": "Aria",
-    "id": "en-US-AriaNeural",
-    "resource_id": "8515265012734167032"
-   },
-   "41": {
-    "name": "AvaMultilingual",
-    "id": "en-US-AvaMultilingualNeural",
-    "resource_id": "5596060197093912746"
-   },
-   "42": {
-    "name": "Ava",
-    "id": "en-US-AvaNeural",
-    "resource_id": "8864963706683430286"
-   },
-   "43": {
-    "name": "EmmaMultilingual",
-    "id": "en-US-EmmaMultilingualNeural",
-    "resource_id": "0548125298355493083"
-   },
-   "44": {
-    "name": "Emma",
-    "id": "en-US-EmmaNeural",
-    "resource_id": "9468071471999101515"
-   },
-   "45": {
-    "name": "Jenny",
-    "id": "en-US-JennyNeural",
-    "resource_id": "4462532472766354937"
-   },
-   "46": {
-    "name": "Michelle",
-    "id": "en-US-MichelleNeural",
-    "resource_id": "6343941300184426723"
-   },
-   "47": {
-    "name": "Leah",
-    "id": "en-ZA-LeahNeural",
-    "resource_id": "2889001913312141317"
-   }
-  },
-  "# Spanish": {
-   "1": {
-    "name": "Tomas",
-    "id": "es-AR-TomasNeural",
-    "resource_id": "3272249436769841795"
-   },
-   "2": {
-    "name": "Marcelo",
-    "id": "es-BO-MarceloNeural",
-    "resource_id": "5922581914665628945"
-   },
-   "3": {
-    "name": "Lorenzo",
-    "id": "es-CL-LorenzoNeural",
-    "resource_id": "6092620537881758157"
-   },
-   "4": {
-    "name": "Gonzalo",
-    "id": "es-CO-GonzaloNeural",
-    "resource_id": "7249907905555305700"
-   },
-   "5": {
-    "name": "Juan",
-    "id": "es-CR-JuanNeural",
-    "resource_id": "7401403439901735819"
-   },
-   "6": {
-    "name": "Manuel",
-    "id": "es-CU-ManuelNeural",
-    "resource_id": "3109250550143015394"
-   },
-   "7": {
-    "name": "Emilio",
-    "id": "es-DO-EmilioNeural",
-    "resource_id": "9958993882818092030"
-   },
-   "8": {
-    "name": "Luis",
-    "id": "es-EC-LuisNeural",
-    "resource_id": "1049157766720334040"
-   },
-   "9": {
-    "name": "Alvaro",
-    "id": "es-ES-AlvaroNeural",
-    "resource_id": "1805937332344828430"
-   },
-   "10": {
-    "name": "Javier",
-    "id": "es-GQ-JavierNeural",
-    "resource_id": "1161829625151292781"
-   },
-   "11": {
-    "name": "Andres",
-    "id": "es-GT-AndresNeural",
-    "resource_id": "6793998667452216018"
-   },
-   "12": {
-    "name": "Carlos",
-    "id": "es-HN-CarlosNeural",
-    "resource_id": "5293025557938378836"
-   },
-   "13": {
-    "name": "Jorge",
-    "id": "es-MX-JorgeNeural",
-    "resource_id": "4916391643755433844"
-   },
-   "14": {
-    "name": "Federico",
-    "id": "es-NI-FedericoNeural",
-    "resource_id": "6498830668031549734"
-   },
-   "15": {
-    "name": "Roberto",
-    "id": "es-PA-RobertoNeural",
-    "resource_id": "3848872986641899249"
-   },
-   "16": {
-    "name": "Alex",
-    "id": "es-PE-AlexNeural",
-    "resource_id": "4444211445118376245"
-   },
-   "17": {
-    "name": "Victor",
-    "id": "es-PR-VictorNeural",
-    "resource_id": "0791191828265605780"
-   },
-   "18": {
-    "name": "Mario",
-    "id": "es-PY-MarioNeural",
-    "resource_id": "5950030635946198039"
-   },
-   "19": {
-    "name": "Rodrigo",
-    "id": "es-SV-RodrigoNeural",
-    "resource_id": "2051290143621625209"
-   },
-   "20": {
-    "name": "Alonso",
-    "id": "es-US-AlonsoNeural",
-    "resource_id": "7577949879709632584"
-   },
-   "21": {
-    "name": "Mateo",
-    "id": "es-UY-MateoNeural",
-    "resource_id": "7444871987261353398"
-   },
-   "22": {
-    "name": "Sebastian",
-    "id": "es-VE-SebastianNeural",
-    "resource_id": "2716597948141026240"
-   },
-   "23": {
-    "name": "Elena",
-    "id": "es-AR-ElenaNeural",
-    "resource_id": "3057838595629078190"
-   },
-   "24": {
-    "name": "Sofia",
-    "id": "es-BO-SofiaNeural",
-    "resource_id": "6836731599277257890"
-   },
-   "25": {
-    "name": "Catalina",
-    "id": "es-CL-CatalinaNeural",
-    "resource_id": "4099533127022031128"
-   },
-   "26": {
-    "name": "Salome",
-    "id": "es-CO-SalomeNeural",
-    "resource_id": "0696259561411718085"
-   },
-   "27": {
-    "name": "Maria",
-    "id": "es-CR-MariaNeural",
-    "resource_id": "6801413745818414386"
-   },
-   "28": {
-    "name": "Belkys",
-    "id": "es-CU-BelkysNeural",
-    "resource_id": "0989254027639436717"
-   },
-   "29": {
-    "name": "Ramona",
-    "id": "es-DO-RamonaNeural",
-    "resource_id": "0528881804550768523"
-   },
-   "30": {
-    "name": "Andrea",
-    "id": "es-EC-AndreaNeural",
-    "resource_id": "5206507148934462310"
-   },
-   "31": {
-    "name": "Elvira",
-    "id": "es-ES-ElviraNeural",
-    "resource_id": "9715923410797923961"
-   },
-   "32": {
-    "name": "Ximena",
-    "id": "es-ES-XimenaNeural",
-    "resource_id": "8380722554967049373"
-   },
-   "33": {
-    "name": "Teresa",
-    "id": "es-GQ-TeresaNeural",
-    "resource_id": "5207410925365882526"
-   },
-   "34": {
-    "name": "Marta",
-    "id": "es-GT-MartaNeural",
-    "resource_id": "2128952266123535321"
-   },
-   "35": {
-    "name": "Karla",
-    "id": "es-HN-KarlaNeural",
-    "resource_id": "6435249204168621053"
-   },
-   "36": {
-    "name": "Dalia",
-    "id": "es-MX-DaliaNeural",
-    "resource_id": "4506722594673496015"
-   },
-   "37": {
-    "name": "Yolanda",
-    "id": "es-NI-YolandaNeural",
-    "resource_id": "8583729146070178636"
-   },
-   "38": {
-    "name": "Margarita",
-    "id": "es-PA-MargaritaNeural",
-    "resource_id": "8072438341195361855"
-   },
-   "39": {
-    "name": "Camila",
-    "id": "es-PE-CamilaNeural",
-    "resource_id": "5288847327284418001"
-   },
-   "40": {
-    "name": "Karina",
-    "id": "es-PR-KarinaNeural",
-    "resource_id": "8786520144450830790"
-   },
-   "41": {
-    "name": "Tania",
-    "id": "es-PY-TaniaNeural",
-    "resource_id": "7422311846087546316"
-   },
-   "42": {
-    "name": "Lorena",
-    "id": "es-SV-LorenaNeural",
-    "resource_id": "7542844647485637164"
-   },
-   "43": {
-    "name": "Paloma",
-    "id": "es-US-PalomaNeural",
-    "resource_id": "9254069928793750101"
-   },
-   "44": {
-    "name": "Valentina",
-    "id": "es-UY-ValentinaNeural",
-    "resource_id": "1342320129607847171"
-   },
-   "45": {
-    "name": "Paola",
-    "id": "es-VE-PaolaNeural",
-    "resource_id": "5337959774726527920"
-   }
-  },
-  "# Estonian": {
-   "1": {
-    "name": "Kert",
-    "id": "et-EE-KertNeural",
-    "resource_id": "9931353871864424264"
-   },
-   "2": {
-    "name": "Anu",
-    "id": "et-EE-AnuNeural",
-    "resource_id": "2743601948652973439"
-   }
-  },
-  "# Persian": {
-   "1": {
-    "name": "Farid",
-    "id": "fa-IR-FaridNeural",
-    "resource_id": "1873142275383764849"
-   },
-   "2": {
-    "name": "Dilara",
-    "id": "fa-IR-DilaraNeural",
-    "resource_id": "4059563590313936389"
-   }
-  },
-  "# Finnish": {
-   "1": {
-    "name": "Harri",
-    "id": "fi-FI-HarriNeural",
-    "resource_id": "6314602823770005140"
-   },
-   "2": {
-    "name": "Noora",
-    "id": "fi-FI-NooraNeural",
-    "resource_id": "5902897103363473644"
-   }
-  },
-  "# Filipino": {
-   "1": {
-    "name": "Angelo",
-    "id": "fil-PH-AngeloNeural",
-    "resource_id": "4363365264711035301"
-   },
-   "2": {
-    "name": "Blessica",
-    "id": "fil-PH-BlessicaNeural",
-    "resource_id": "7552447713403895028"
-   }
-  },
-  "# French": {
-   "1": {
-    "name": "Gerard",
-    "id": "fr-BE-GerardNeural",
-    "resource_id": "0368692269422889876"
-   },
-   "2": {
-    "name": "Antoine",
-    "id": "fr-CA-AntoineNeural",
-    "resource_id": "2333864953098801343"
-   },
-   "3": {
-    "name": "Jean",
-    "id": "fr-CA-JeanNeural",
-    "resource_id": "9340552878692822484"
-   },
-   "4": {
-    "name": "Thierry",
-    "id": "fr-CA-ThierryNeural",
-    "resource_id": "9353022380242088417"
-   },
-   "5": {
-    "name": "Fabrice",
-    "id": "fr-CH-FabriceNeural",
-    "resource_id": "2069768528890175152"
-   },
-   "6": {
-    "name": "Henri",
-    "id": "fr-FR-HenriNeural",
-    "resource_id": "0082815822436688213"
-   },
-   "7": {
-    "name": "RemyMultilingual",
-    "id": "fr-FR-RemyMultilingualNeural",
-    "resource_id": "6678105146736802199"
-   },
-   "8": {
-    "name": "Charline",
-    "id": "fr-BE-CharlineNeural",
-    "resource_id": "2892115166369302247"
-   },
-   "9": {
-    "name": "Sylvie",
-    "id": "fr-CA-SylvieNeural",
-    "resource_id": "2943321034225237427"
-   },
-   "10": {
-    "name": "Ariane",
-    "id": "fr-CH-ArianeNeural",
-    "resource_id": "8434405943068420874"
-   },
-   "11": {
-    "name": "Denise",
-    "id": "fr-FR-DeniseNeural",
-    "resource_id": "7318931247022180143"
-   },
-   "12": {
-    "name": "Eloise",
-    "id": "fr-FR-EloiseNeural",
-    "resource_id": "3477527200609757335"
-   },
-   "13": {
-    "name": "VivienneMultilingual",
-    "id": "fr-FR-VivienneMultilingualNeural",
-    "resource_id": "9672526803187368080"
-   }
-  },
-  "# Irish": {
-   "1": {
-    "name": "Colm",
-    "id": "ga-IE-ColmNeural",
-    "resource_id": "2767014052621414323"
-   },
-   "2": {
-    "name": "Orla",
-    "id": "ga-IE-OrlaNeural",
-    "resource_id": "0738058131024136405"
-   }
-  },
-  "# Galician": {
-   "1": {
-    "name": "Roi",
-    "id": "gl-ES-RoiNeural",
-    "resource_id": "2251691074222439681"
-   },
-   "2": {
-    "name": "Sabela",
-    "id": "gl-ES-SabelaNeural",
-    "resource_id": "6320980662351184046"
-   }
-  },
-  "# Gujarati": {
-   "1": {
-    "name": "Niranjan",
-    "id": "gu-IN-NiranjanNeural",
-    "resource_id": "8044445654744500139"
-   },
-   "2": {
-    "name": "Dhwani",
-    "id": "gu-IN-DhwaniNeural",
-    "resource_id": "6177699639827368488"
-   }
-  },
-  "# Hebrew": {
-   "1": {
-    "name": "Avri",
-    "id": "he-IL-AvriNeural",
-    "resource_id": "4628700512599874235"
-   },
-   "2": {
-    "name": "Hila",
-    "id": "he-IL-HilaNeural",
-    "resource_id": "6386350426225657610"
-   }
-  },
-  "# Hindi": {
-   "1": {
-    "name": "Madhur",
-    "id": "hi-IN-MadhurNeural",
-    "resource_id": "1089278594754894606"
-   },
-   "2": {
-    "name": "Swara",
-    "id": "hi-IN-SwaraNeural",
-    "resource_id": "7232516593948779875"
-   }
-  },
-  "# Croatian": {
-   "1": {
-    "name": "Srecko",
-    "id": "hr-HR-SreckoNeural",
-    "resource_id": "8675414504577212981"
-   },
-   "2": {
-    "name": "Gabrijela",
-    "id": "hr-HR-GabrijelaNeural",
-    "resource_id": "5845437190848248489"
-   }
-  },
-  "# Hungarian": {
-   "1": {
-    "name": "Tamas",
-    "id": "hu-HU-TamasNeural",
-    "resource_id": "5677568062824683842"
-   },
-   "2": {
-    "name": "Noemi",
-    "id": "hu-HU-NoemiNeural",
-    "resource_id": "3608949592379712334"
-   }
-  },
-  "# Indonesian": {
-   "1": {
-    "name": "Ardi",
-    "id": "id-ID-ArdiNeural",
-    "resource_id": "7448691606160188770"
-   },
-   "2": {
-    "name": "Gadis",
-    "id": "id-ID-GadisNeural",
-    "resource_id": "3632342660326244344"
-   }
-  },
-  "# Icelandic": {
-   "1": {
-    "name": "Gunnar",
-    "id": "is-IS-GunnarNeural",
-    "resource_id": "5449274176057250093"
-   },
-   "2": {
-    "name": "Gudrun",
-    "id": "is-IS-GudrunNeural",
-    "resource_id": "7699687098184103111"
-   }
-  },
-  "# Italian": {
-   "1": {
-    "name": "Diego",
-    "id": "it-IT-DiegoNeural",
-    "resource_id": "9893970960586915039"
-   },
-   "2": {
-    "name": "GiuseppeMultilingual",
-    "id": "it-IT-GiuseppeMultilingualNeural",
-    "resource_id": "4696417656685568240"
-   },
-   "3": {
-    "name": "Elsa",
-    "id": "it-IT-ElsaNeural",
-    "resource_id": "9401606790868803333"
-   },
-   "4": {
-    "name": "Isabella",
-    "id": "it-IT-IsabellaNeural",
-    "resource_id": "1495540953468788946"
-   }
-  },
-  "# Inuktitut": {
-   "1": {
-    "name": "Taqqiq",
-    "id": "iu-Cans-CA-TaqqiqNeural",
-    "resource_id": "7626774105603391798"
-   },
-   "2": {
-    "name": "Taqqiq",
-    "id": "iu-Latn-CA-TaqqiqNeural",
-    "resource_id": "2302311073391221525"
-   },
-   "3": {
-    "name": "Siqiniq",
-    "id": "iu-Cans-CA-SiqiniqNeural",
-    "resource_id": "0023641404000102729"
-   },
-   "4": {
-    "name": "Siqiniq",
-    "id": "iu-Latn-CA-SiqiniqNeural",
-    "resource_id": "5484458123216451218"
-   }
-  },
-  "# Japanese": {
-   "1": {
-    "name": "Keita",
-    "id": "ja-JP-KeitaNeural",
-    "resource_id": "6489622298998690834"
-   },
-   "2": {
-    "name": "Nanami",
-    "id": "ja-JP-NanamiNeural",
-    "resource_id": "8900169442764710943"
-   }
-  },
-  "# Javanese": {
-   "1": {
-    "name": "Dimas",
-    "id": "jv-ID-DimasNeural",
-    "resource_id": "3972693882622276849"
-   },
-   "2": {
-    "name": "Siti",
-    "id": "jv-ID-SitiNeural",
-    "resource_id": "1884916876328691393"
-   }
-  },
-  "# Georgian": {
-   "1": {
-    "name": "Giorgi",
-    "id": "ka-GE-GiorgiNeural",
-    "resource_id": "6633123889457055787"
-   },
-   "2": {
-    "name": "Eka",
-    "id": "ka-GE-EkaNeural",
-    "resource_id": "0745062874582196881"
-   }
-  },
-  "# Kazakh": {
-   "1": {
-    "name": "Daulet",
-    "id": "kk-KZ-DauletNeural",
-    "resource_id": "3840519165310867873"
-   },
-   "2": {
-    "name": "Aigul",
-    "id": "kk-KZ-AigulNeural",
-    "resource_id": "4771287024113473045"
-   }
-  },
-  "# Khmer": {
-   "1": {
-    "name": "Piseth",
-    "id": "km-KH-PisethNeural",
-    "resource_id": "3733704728879329683"
-   },
-   "2": {
-    "name": "Sreymom",
-    "id": "km-KH-SreymomNeural",
-    "resource_id": "7325315357818960792"
-   }
-  },
-  "# Kannada": {
-   "1": {
-    "name": "Gagan",
-    "id": "kn-IN-GaganNeural",
-    "resource_id": "4160957257331094487"
-   },
-   "2": {
-    "name": "Sapna",
-    "id": "kn-IN-SapnaNeural",
-    "resource_id": "0244615898943114963"
-   }
-  },
-  "# Korean": {
-   "1": {
-    "name": "HyunsuMultilingual",
-    "id": "ko-KR-HyunsuMultilingualNeural",
-    "resource_id": "9209636903503110973"
-   },
-   "2": {
-    "name": "InJoon",
-    "id": "ko-KR-InJoonNeural",
-    "resource_id": "8048940728553773432"
-   },
-   "3": {
-    "name": "SunHi",
-    "id": "ko-KR-SunHiNeural",
-    "resource_id": "3815121608794574484"
-   }
-  },
-  "# Lao": {
-   "1": {
-    "name": "Chanthavong",
-    "id": "lo-LA-ChanthavongNeural",
-    "resource_id": "4154134043703758407"
-   },
-   "2": {
-    "name": "Keomany",
-    "id": "lo-LA-KeomanyNeural",
-    "resource_id": "3219422927152463443"
-   }
-  },
-  "# Lithuanian": {
-   "1": {
-    "name": "Leonas",
-    "id": "lt-LT-LeonasNeural",
-    "resource_id": "9993828912428964674"
-   },
-   "2": {
-    "name": "Ona",
-    "id": "lt-LT-OnaNeural",
-    "resource_id": "6424115969361400879"
-   }
-  },
-  "# Latvian": {
-   "1": {
-    "name": "Nils",
-    "id": "lv-LV-NilsNeural",
-    "resource_id": "6641235199235593892"
-   },
-   "2": {
-    "name": "Everita",
-    "id": "lv-LV-EveritaNeural",
-    "resource_id": "2088882497424020176"
-   }
-  },
-  "# Macedonian": {
-   "1": {
-    "name": "Aleksandar",
-    "id": "mk-MK-AleksandarNeural",
-    "resource_id": "1453791548833654045"
-   },
-   "2": {
-    "name": "Marija",
-    "id": "mk-MK-MarijaNeural",
-    "resource_id": "8842480001430745537"
-   }
-  },
-  "# Malayalam": {
-   "1": {
-    "name": "Midhun",
-    "id": "ml-IN-MidhunNeural",
-    "resource_id": "6500423935593084920"
-   },
-   "2": {
-    "name": "Sobhana",
-    "id": "ml-IN-SobhanaNeural",
-    "resource_id": "9688224707470727174"
-   }
-  },
-  "# Mongolian": {
-   "1": {
-    "name": "Bataa",
-    "id": "mn-MN-BataaNeural",
-    "resource_id": "2849069420102082068"
-   },
-   "2": {
-    "name": "Yesui",
-    "id": "mn-MN-YesuiNeural",
-    "resource_id": "2229175251608405391"
-   }
-  },
-  "# Marathi": {
-   "1": {
-    "name": "Manohar",
-    "id": "mr-IN-ManoharNeural",
-    "resource_id": "4305280482210910529"
-   },
-   "2": {
-    "name": "Aarohi",
-    "id": "mr-IN-AarohiNeural",
-    "resource_id": "6370150817363143203"
-   }
-  },
-  "# Malay": {
-   "1": {
-    "name": "Osman",
-    "id": "ms-MY-OsmanNeural",
-    "resource_id": "6178924167269820664"
-   },
-   "2": {
-    "name": "Yasmin",
-    "id": "ms-MY-YasminNeural",
-    "resource_id": "4000721505546126603"
-   }
-  },
-  "# Maltese": {
-   "1": {
-    "name": "Joseph",
-    "id": "mt-MT-JosephNeural",
-    "resource_id": "4306264531137669774"
-   },
-   "2": {
-    "name": "Grace",
-    "id": "mt-MT-GraceNeural",
-    "resource_id": "7064628007992378787"
-   }
-  },
-  "# Burmese": {
-   "1": {
-    "name": "Thiha",
-    "id": "my-MM-ThihaNeural",
-    "resource_id": "7975385105786785907"
-   },
-   "2": {
-    "name": "Nilar",
-    "id": "my-MM-NilarNeural",
-    "resource_id": "5651859707696131403"
-   }
-  },
-  "# Norwegian": {
-   "1": {
-    "name": "Finn",
-    "id": "nb-NO-FinnNeural",
-    "resource_id": "6170433178634086319"
-   },
-   "2": {
-    "name": "Pernille",
-    "id": "nb-NO-PernilleNeural",
-    "resource_id": "9156145232030114792"
-   }
-  },
-  "# Nepali": {
-   "1": {
-    "name": "Sagar",
-    "id": "ne-NP-SagarNeural",
-    "resource_id": "9756077709786575787"
-   },
-   "2": {
-    "name": "Hemkala",
-    "id": "ne-NP-HemkalaNeural",
-    "resource_id": "3490513744408122427"
-   }
-  },
-  "# Nl": {
-   "1": {
-    "name": "Arnaud",
-    "id": "nl-BE-ArnaudNeural",
-    "resource_id": "0736380261083326356"
-   },
-   "2": {
-    "name": "Maarten",
-    "id": "nl-NL-MaartenNeural",
-    "resource_id": "8337996417859560049"
-   },
-   "3": {
-    "name": "Dena",
-    "id": "nl-BE-DenaNeural",
-    "resource_id": "1364555044320979696"
-   },
-   "4": {
-    "name": "Colette",
-    "id": "nl-NL-ColetteNeural",
-    "resource_id": "0259589185353512881"
-   },
-   "5": {
-    "name": "Fenna",
-    "id": "nl-NL-FennaNeural",
-    "resource_id": "0360553815889706843"
-   }
-  },
-  "# Polish": {
-   "1": {
-    "name": "Marek",
-    "id": "pl-PL-MarekNeural",
-    "resource_id": "8118081808354946333"
-   },
-   "2": {
-    "name": "Zofia",
-    "id": "pl-PL-ZofiaNeural",
-    "resource_id": "6013602010195414860"
-   }
-  },
-  "# Pashto": {
-   "1": {
-    "name": "GulNawaz",
-    "id": "ps-AF-GulNawazNeural",
-    "resource_id": "7880672920275902206"
-   },
-   "2": {
-    "name": "Latifa",
-    "id": "ps-AF-LatifaNeural",
-    "resource_id": "9665803554321304228"
-   }
-  },
-  "# Portuguese": {
-   "1": {
-    "name": "Antonio",
-    "id": "pt-BR-AntonioNeural",
-    "resource_id": "9111695182086482717"
-   },
-   "2": {
-    "name": "Duarte",
-    "id": "pt-PT-DuarteNeural",
-    "resource_id": "0944948827097102318"
-   },
-   "3": {
-    "name": "Francisca",
-    "id": "pt-BR-FranciscaNeural",
-    "resource_id": "1161226861417320891"
-   },
-   "4": {
-    "name": "ThalitaMultilingual",
-    "id": "pt-BR-ThalitaMultilingualNeural",
-    "resource_id": "6373134360062509343"
-   },
-   "5": {
-    "name": "Raquel",
-    "id": "pt-PT-RaquelNeural",
-    "resource_id": "0208305601685115138"
-   }
-  },
-  "# Romanian": {
-   "1": {
-    "name": "Emil",
-    "id": "ro-RO-EmilNeural",
-    "resource_id": "9075812711764557086"
-   },
-   "2": {
-    "name": "Alina",
-    "id": "ro-RO-AlinaNeural",
-    "resource_id": "7358770963306719865"
-   }
-  },
-  "# Russian": {
-   "1": {
-    "name": "Dmitry",
-    "id": "ru-RU-DmitryNeural",
-    "resource_id": "2570577506615834920"
-   },
-   "2": {
-    "name": "Svetlana",
-    "id": "ru-RU-SvetlanaNeural",
-    "resource_id": "0124285370564916932"
-   }
-  },
-  "# Sinhala": {
-   "1": {
-    "name": "Sameera",
-    "id": "si-LK-SameeraNeural",
-    "resource_id": "5496066061383236429"
-   },
-   "2": {
-    "name": "Thilini",
-    "id": "si-LK-ThiliniNeural",
-    "resource_id": "8748361320781792084"
-   }
-  },
-  "# Slovak": {
-   "1": {
-    "name": "Lukas",
-    "id": "sk-SK-LukasNeural",
-    "resource_id": "4685395884483286594"
-   },
-   "2": {
-    "name": "Viktoria",
-    "id": "sk-SK-ViktoriaNeural",
-    "resource_id": "5402755317872912307"
-   }
-  },
-  "# Slovenian": {
-   "1": {
-    "name": "Rok",
-    "id": "sl-SI-RokNeural",
-    "resource_id": "7599917964653641938"
-   },
-   "2": {
-    "name": "Petra",
-    "id": "sl-SI-PetraNeural",
-    "resource_id": "0111538129722023872"
-   }
-  },
-  "# Somali": {
-   "1": {
-    "name": "Muuse",
-    "id": "so-SO-MuuseNeural",
-    "resource_id": "2269171624726046002"
-   },
-   "2": {
-    "name": "Ubax",
-    "id": "so-SO-UbaxNeural",
-    "resource_id": "6193085829573251673"
-   }
-  },
-  "# Albanian": {
-   "1": {
-    "name": "Ilir",
-    "id": "sq-AL-IlirNeural",
-    "resource_id": "9876740737642770974"
-   },
-   "2": {
-    "name": "Anila",
-    "id": "sq-AL-AnilaNeural",
-    "resource_id": "4991408149909431953"
-   }
-  },
-  "# Serbian": {
-   "1": {
-    "name": "Nicholas",
-    "id": "sr-RS-NicholasNeural",
-    "resource_id": "3745001294297299326"
-   },
-   "2": {
-    "name": "Sophie",
-    "id": "sr-RS-SophieNeural",
-    "resource_id": "8929373859812102471"
-   }
-  },
-  "# Sundanese": {
-   "1": {
-    "name": "Jajang",
-    "id": "su-ID-JajangNeural",
-    "resource_id": "4724346024050358072"
-   },
-   "2": {
-    "name": "Tuti",
-    "id": "su-ID-TutiNeural",
-    "resource_id": "0360336184278790812"
-   }
-  },
-  "# Swedish": {
-   "1": {
-    "name": "Mattias",
-    "id": "sv-SE-MattiasNeural",
-    "resource_id": "0533256787186548783"
-   },
-   "2": {
-    "name": "Sofie",
-    "id": "sv-SE-SofieNeural",
-    "resource_id": "5619192393718318801"
-   }
-  },
-  "# Swahili": {
-   "1": {
-    "name": "Rafiki",
-    "id": "sw-KE-RafikiNeural",
-    "resource_id": "8894486442585573803"
-   },
-   "2": {
-    "name": "Daudi",
-    "id": "sw-TZ-DaudiNeural",
-    "resource_id": "3155264713333433681"
-   },
-   "3": {
-    "name": "Zuri",
-    "id": "sw-KE-ZuriNeural",
-    "resource_id": "6857591694712698404"
-   },
-   "4": {
-    "name": "Rehema",
-    "id": "sw-TZ-RehemaNeural",
-    "resource_id": "0397314377195380246"
-   }
-  },
-  "# Tamil": {
-   "1": {
-    "name": "Valluvar",
-    "id": "ta-IN-ValluvarNeural",
-    "resource_id": "4841688356922891366"
-   },
-   "2": {
-    "name": "Kumar",
-    "id": "ta-LK-KumarNeural",
-    "resource_id": "7736382694716809189"
-   },
-   "3": {
-    "name": "Surya",
-    "id": "ta-MY-SuryaNeural",
-    "resource_id": "5204977737533773267"
-   },
-   "4": {
-    "name": "Anbu",
-    "id": "ta-SG-AnbuNeural",
-    "resource_id": "2608671395297546022"
-   },
-   "5": {
-    "name": "Pallavi",
-    "id": "ta-IN-PallaviNeural",
-    "resource_id": "7952677480439539081"
-   },
-   "6": {
-    "name": "Saranya",
-    "id": "ta-LK-SaranyaNeural",
-    "resource_id": "2795974325709966874"
-   },
-   "7": {
-    "name": "Kani",
-    "id": "ta-MY-KaniNeural",
-    "resource_id": "3081585861272449374"
-   },
-   "8": {
-    "name": "Venba",
-    "id": "ta-SG-VenbaNeural",
-    "resource_id": "9602216217432081113"
-   }
-  },
-  "# Telugu": {
-   "1": {
-    "name": "Mohan",
-    "id": "te-IN-MohanNeural",
-    "resource_id": "1929719193979865288"
-   },
-   "2": {
-    "name": "Shruti",
-    "id": "te-IN-ShrutiNeural",
-    "resource_id": "3587839239858012282"
-   }
-  },
-  "# Thai": {
-   "1": {
-    "name": "Niwat",
-    "id": "th-TH-NiwatNeural",
-    "resource_id": "3057282314597188159"
-   },
-   "2": {
-    "name": "Premwadee",
-    "id": "th-TH-PremwadeeNeural",
-    "resource_id": "0939312606856418158"
-   }
-  },
-  "# Turkish": {
-   "1": {
-    "name": "Ahmet",
-    "id": "tr-TR-AhmetNeural",
-    "resource_id": "6085139644383984994"
-   },
-   "2": {
-    "name": "Emel",
-    "id": "tr-TR-EmelNeural",
-    "resource_id": "5327214457108211258"
-   }
-  },
-  "# Ukrainian": {
-   "1": {
-    "name": "Ostap",
-    "id": "uk-UA-OstapNeural",
-    "resource_id": "5437659147342984947"
-   },
-   "2": {
-    "name": "Polina",
-    "id": "uk-UA-PolinaNeural",
-    "resource_id": "1201011033100749441"
-   }
-  },
-  "# Urdu": {
-   "1": {
-    "name": "Salman",
-    "id": "ur-IN-SalmanNeural",
-    "resource_id": "2860283713984635043"
-   },
-   "2": {
-    "name": "Asad",
-    "id": "ur-PK-AsadNeural",
-    "resource_id": "3997519135486823948"
-   },
-   "3": {
-    "name": "Gul",
-    "id": "ur-IN-GulNeural",
-    "resource_id": "5609667980699835820"
-   },
-   "4": {
-    "name": "Uzma",
-    "id": "ur-PK-UzmaNeural",
-    "resource_id": "5132873832304943208"
-   }
-  },
-  "# Uzbek": {
-   "1": {
-    "name": "Sardor",
-    "id": "uz-UZ-SardorNeural",
-    "resource_id": "1540328352773667051"
-   },
-   "2": {
-    "name": "Madina",
-    "id": "uz-UZ-MadinaNeural",
-    "resource_id": "9802259530390994518"
-   }
-  },
-  "# Vietnamese": {
-   "1": {
-    "name": "NamMinh",
-    "id": "vi-VN-NamMinhNeural",
-    "resource_id": "4083888534937178364"
-   },
-   "2": {
-    "name": "HoaiMy",
-    "id": "vi-VN-HoaiMyNeural",
-    "resource_id": "1144774424670052952"
-   }
-  },
-  "# Chinese": {
-   "1": {
-    "name": "Yunjian",
-    "id": "zh-CN-YunjianNeural",
-    "resource_id": "7176429845109633256"
-   },
-   "2": {
-    "name": "Yunxi",
-    "id": "zh-CN-YunxiNeural",
-    "resource_id": "5469097487132504041"
-   },
-   "3": {
-    "name": "Yunxia",
-    "id": "zh-CN-YunxiaNeural",
-    "resource_id": "1214806810943597661"
-   },
-   "4": {
-    "name": "Yunyang",
-    "id": "zh-CN-YunyangNeural",
-    "resource_id": "2216020460346524967"
-   },
-   "5": {
-    "name": "WanLung",
-    "id": "zh-HK-WanLungNeural",
-    "resource_id": "5890196134164405335"
-   },
-   "6": {
-    "name": "YunJhe",
-    "id": "zh-TW-YunJheNeural",
-    "resource_id": "9634829418662037168"
-   },
-   "7": {
-    "name": "Xiaoxiao",
-    "id": "zh-CN-XiaoxiaoNeural",
-    "resource_id": "4396397229607740291"
-   },
-   "8": {
-    "name": "Xiaoyi",
-    "id": "zh-CN-XiaoyiNeural",
-    "resource_id": "9016244547932271352"
-   },
-   "9": {
-    "name": "Xiaobei",
-    "id": "zh-CN-liaoning-XiaobeiNeural",
-    "resource_id": "2045707166032390191"
-   },
-   "10": {
-    "name": "Xiaoni",
-    "id": "zh-CN-shaanxi-XiaoniNeural",
-    "resource_id": "3769656708321012542"
-   },
-   "11": {
-    "name": "HiuGaai",
-    "id": "zh-HK-HiuGaaiNeural",
-    "resource_id": "7253145021294713295"
-   },
-   "12": {
-    "name": "HiuMaan",
-    "id": "zh-HK-HiuMaanNeural",
-    "resource_id": "8168477647841221322"
-   },
-   "13": {
-    "name": "HsiaoChen",
-    "id": "zh-TW-HsiaoChenNeural",
-    "resource_id": "1460388823571955995"
-   },
-   "14": {
-    "name": "HsiaoYu",
-    "id": "zh-TW-HsiaoYuNeural",
-    "resource_id": "5745713793922883769"
-   }
-  },
-  "# Zulu": {
-   "1": {
-    "name": "Themba",
-    "id": "zu-ZA-ThembaNeural",
-    "resource_id": "9607238031550150944"
-   },
-   "2": {
-    "name": "Thando",
-    "id": "zu-ZA-ThandoNeural",
-    "resource_id": "3039808582555580096"
-   }
-  }
- }
-}    "id": "multi_male_kuailexiaodong_moon_bigtts_cc",
-    "resource_id": "7501235030794965505"
-   },
-   "4": {
-    "name": "Puspita",
-    "id": "BV161_streaming",
-    "resource_id": "7477925333035913745"
-   },
-   "5": {
-    "name": "Reza",
-    "id": "BV160_streaming",
-    "resource_id": "7477925268112282113"
-   },
-   "6": {
-    "name": "Cheryl",
-    "id": "BV191_streaming",
-    "resource_id": "7477925477823287824"
-   },
-   "7": {
-    "name": "Desti",
-    "id": "BV540_streaming",
-    "resource_id": "7477925128651674113"
-   },
-   "8": {
-    "name": "Rini",
-    "id": "BV541_streaming",
-    "resource_id": "7477925200252637712"
-   },
-   "9": {
-    "name": "Kayla",
-    "id": "BV162_streaming",
-    "resource_id": "7477925404439745040"
-   },
-   "10": {
-    "name": "Dilan",
-    "id": "BV190_streaming",
-    "resource_id": "7477924518036509201"
-   },
-   "11": {
-    "name": "Ervan",
-    "id": "BV164_streaming",
-    "resource_id": "7477924448243290640"
-   },
-   "12": {
-    "name": "Anisa",
-    "id": "BV192_streaming",
-    "resource_id": "7477924583463457296"
-   },
-   "13": {
-    "name": "Budi",
-    "id": "ICL_id_male_boy_budi",
-    "resource_id": "7469007055915848193"
-   },
-   "14": {
-    "name": "Siti",
-    "id": "ICL_id_female_grandma_siti",
-    "resource_id": "7469007155627037200"
-   },
-   "15": {
-    "name": "Kartika",
-    "id": "ICL_id_female_icecold_kartika",
-    "resource_id": "7469007109456138768"
-   },
-   "16": {
-    "name": "Sumarno",
-    "id": "ICL_id_male_grandpa_sumarno",
-    "resource_id": "7469006956112384513"
-   },
-   "17": {
-    "name": "Hendra",
-    "id": "ICL_id_male_uncle_hendra",
-    "resource_id": "7469007007702323729"
-   },
-   "18": {
-    "name": "Dewi",
-    "id": "ICL_id_female_girl_dewi",
-    "resource_id": "7469006906690900496"
-   },
-   "19": {
-    "name": "Bayu",
-    "id": "ICL_id_male_scared",
-    "resource_id": "7469006859328819729"
-   },
-   "20": {
-    "name": "Arfan",
-    "id": "ICL_id_male_sad",
-    "resource_id": "7469006805000000016"
-   },
-   "21": {
-    "name": "Jannah",
-    "id": "ICL_id_female_jannah_happy",
-    "resource_id": "7469006689715360273"
-   },
-   "22": {
-    "name": "Hantu perempuan",
-    "id": "ICL_id_female_hantuperempuan",
-    "resource_id": "7469006620379320848"
-   },
-   "23": {
-    "name": "Sari",
-    "id": "ICL_id_female_sickweak",
-    "resource_id": "7469006746007114241"
-   },
-   "24": {
-    "name": "Darma",
-    "id": "id_male_darma",
-    "resource_id": "7231026125424562690"
-   },
-   "25": {
-    "name": "Putra",
-    "id": "id_male_putra",
-    "resource_id": "7231026032986296833"
-   },
-   "26": {
-    "name": "Icha",
-    "id": "id_female_icha",
-    "resource_id": "7242142150333305346"
-   },
-   "27": {
-    "name": "Shinta",
-    "id": "id_female_noor",
-    "resource_id": "7242142046587195906"
-   },
-   "28": {
-    "name": "Air stewardess",
-    "id": "BV192_streaming",
-    "resource_id": "7259666935858598402"
-   },
-   "29": {
-    "name": "Female Voice (Indonesian)",
-    "id": "BV072_streaming",
-    "resource_id": "7028847457089884674"
-   }
-  },
-  "# English": {
-   "1": {
-    "name": "Lucas",
-    "id": "multi_zh_male_youyoujunzi_moon_bigtts_cc",
-    "resource_id": "7489010721259262465"
-   },
-   "2": {
-    "name": "Diana",
-    "id": "multi_female_wenjingmaomao_moon_bigtts_cc",
-    "resource_id": "7489010644025348624"
-   },
-   "3": {
-    "name": "Daniel",
-    "id": "multi_male_kuailexiaodong_moon_bigtts_cc",
-    "resource_id": "7489010901832438288"
-   },
-   "4": {
-    "name": "Holiday Twist",
-    "id": "ICL_en_male_oogie2",
-    "resource_id": "7438551608746578449"
-   },
-   "5": {
-    "name": "Esmeralda",
-    "id": "multi_female_sinong_conversation_wvae_bigtts_cc",
-    "resource_id": "7483453745062220289"
-   },
-   "6": {
-    "name": "Robert",
-    "id": "multi_male_M092_conversation_wvae_bigtts_cc",
-    "resource_id": "7483453668117713425"
-   },
-   "7": {
-    "name": "Álvaro",
-    "id": "multi_male_M392_conversation_wvae_bigtts_cc",
-    "resource_id": "7483453915988496913"
-   },
-   "8": {
-    "name": "Camila",
-    "id": "multi_male_F320_conversation_wvae_bigtts_cc",
-    "resource_id": "7483453829040574993"
-   },
-   "9": {
-    "name": "Wukong",
-    "id": "zh_male_sunwukong_clone2",
-    "resource_id": "7382469399745139201"
-   },
-   "10": {
-    "name": "Detective",
-    "id": "ICL_jp_male_kenan",
-    "resource_id": "7469005666833666576"
-   },
-   "11": {
-    "name": "Yukiko",
-    "id": "ICL_jp_female_tt_you",
-    "resource_id": "7469006346122170896"
-   },
-   "12": {
-    "name": "Leo Emotions",
-    "id": "en_male_scott_emo_v2_mars_bigtts",
-    "resource_id": "7457793197306024449"
-   },
-   "13": {
-    "name": "Katie White",
-    "id": "ICL_en_female_blanchett",
-    "resource_id": "7444495548188463633"
-   },
-   "14": {
-    "name": "Benny Cumbers",
-    "id": "ICL_en_male_cumberbatch1",
-    "resource_id": "7444495363311931920"
-   },
-   "15": {
-    "name": "Strong British Male",
-    "id": "ICL_en_male_cumberbatch2",
-    "resource_id": "7444495463908119056"
-   },
-   "16": {
-    "name": "Sir British Narrator",
-    "id": "ICL_en_male_attenborough",
-    "resource_id": "7444495251286266385"
-   },
-   "17": {
-    "name": "Rebecca",
-    "id": "ICL_en_female_erica",
-    "resource_id": "7444495148345463312"
-   },
-   "18": {
-    "name": "Richard",
-    "id": "ICL_en_male_henry2",
-    "resource_id": "7444495042649002513"
-   },
-   "19": {
-    "name": "Timothy",
-    "id": "ICL_en_male_henry1",
-    "resource_id": "7444494768240857616"
-   },
-   "20": {
-    "name": "Emma Chamberlain",
-    "id": "ICL_en_female_chamberlain",
-    "resource_id": "7444914314399453697"
-   },
-   "21": {
-    "name": "Benjamin II",
-    "id": "ICL_en_male_benjamin2",
-    "resource_id": "7441488683091366417"
-   },
-   "22": {
-    "name": "Benjamin I",
-    "id": "ICL_en_male_benjamin1",
-    "resource_id": "7441488473686544897"
-   },
-   "23": {
-    "name": "Terrell",
-    "id": "ICL_en_male_terrell",
-    "resource_id": "7441488151983428097"
-   },
-   "24": {
-    "name": "Alastorr",
-    "id": "ICL_en_male_alastor",
-    "resource_id": "7441487821946229265"
-   },
-   "25": {
-    "name": "Half-Blood Prince",
-    "id": "ICL_en_male_severus",
-    "resource_id": "7441487635048043009"
-   },
-   "26": {
-    "name": "Charlie M",
-    "id": "ICL_en_female_cm",
-    "resource_id": "7441487929823728129"
-   },
-   "27": {
-    "name": "Cowboy Bob",
-    "id": "KTPVrSVAEUSJRClDzBw7",
-    "resource_id": "7441518244600484353"
-   },
-   "28": {
-    "name": "Epic Male",
-    "id": "ICL_en_male_cc_lich",
-    "resource_id": "7437470599682724369"
-   },
-   "29": {
-    "name": "Rafayell",
-    "id": "ICL_en_male_cc_rafael",
-    "resource_id": "7437470496397988369"
-   },
-   "30": {
-    "name": "Snowday Hero",
-    "id": "ICL_en_male_frosty1",
-    "resource_id": "7438551726942065169"
-   },
-   "31": {
-    "name": "Polar Guide",
-    "id": "ICL_en_male_conductor1",
-    "resource_id": "7438551500021830161"
-   },
-   "32": {
-    "name": "Grinchy Cheer",
-    "id": "ICL_en_male_grinch2",
-    "resource_id": "7438551356283032081"
-   },
-   "33": {
-    "name": "Xmas Mischief",
-    "id": "ICL_en_male_kevin2",
-    "resource_id": "7438551246824280592"
-   },
-   "34": {
-    "name": "Andrew II",
-    "id": "SF9uvIlY93SJRMdV5jeP",
-    "resource_id": "7435916300951491073"
-   },
-   "35": {
-    "name": "Noel",
-    "id": "j9jfwdrw7BRfcR43Qohk",
-    "resource_id": "7435916394450915841"
-   },
-   "36": {
-    "name": "Yuppie",
-    "id": "LqB03n4OKhdBACxFjR4j",
-    "resource_id": "7435916569621828097"
-   },
-   "37": {
-    "name": "Father Christmas",
-    "id": "1wg2wOjdEWKA7yQD8Kca",
-    "resource_id": "7436270124526473744"
-   },
-   "38": {
-    "name": "Soothing Narrator",
-    "id": "apqgWHkh7foVKMqZECss",
-    "resource_id": "7411410162231022097"
-   },
-   "39": {
-    "name": "Miss Bluetooth",
-    "id": "ICL_en_female_cc_bluetooth",
-    "resource_id": "7427072447129588225"
-   },
-   "40": {
-    "name": "Edward",
-    "id": "ICL_en_male_aussie",
-    "resource_id": "7426305396572164625"
-   },
-   "41": {
-    "name": "Dorian",
-    "id": "en_male_cs_emo_v2_mars_bigtts",
-    "resource_id": "7430714574728335888"
-   },
-   "42": {
-    "name": "Uncle J",
-    "id": "en_male_johnny_emo_v2_mars_bigtts",
-    "resource_id": "7430714522609914384"
-   },
-   "43": {
-    "name": "Mary",
-    "id": "en_female_mary_emo_v2_mars_bigtts",
-    "resource_id": "7430714470969643521"
-   },
-   "44": {
-    "name": "Lizzie",
-    "id": "en_female_skye_emo_v2_mars_bigtts",
-    "resource_id": "7430714795206119937"
-   },
-   "45": {
-    "name": "Tom",
-    "id": "en_male_tim_emo_v2_mars_bigtts",
-    "resource_id": "7430714745574920720"
-   },
-   "46": {
-    "name": "Master Trap",
-    "id": "ICL_en_male_cc_jigsaw",
-    "resource_id": "7427044277407978000"
-   },
-   "47": {
-    "name": "Fear Clown",
-    "id": "ICL_en_male_cc_penny",
-    "resource_id": "7427044180876071425"
-   },
-   "48": {
-    "name": "Killer Droid",
-    "id": "ICL_en_female_cc_megan",
-    "resource_id": "7427044231073501712"
-   },
-   "49": {
-    "name": "Stalker Crep",
-    "id": "ICL_en_male_cc_ghostface4",
-    "resource_id": "7427044378666865153"
-   },
-   "50": {
-    "name": "Blood Lord",
-    "id": "ICL_en_male_cc_dracula",
-    "resource_id": "7427044330260402705"
-   },
-   "51": {
-    "name": "Slash Doll",
-    "id": "ICL_en_male_cc_chucky",
-    "resource_id": "7427044129604899345"
-   },
-   "52": {
-    "name": "Zaynee",
-    "id": "ICL_en_male_zayne",
-    "resource_id": "7424050504138756624"
-   },
-   "53": {
-    "name": "Xavierr",
-    "id": "ICL_en_male_xavier1",
-    "resource_id": "7424050549269467649"
-   },
-   "54": {
-    "name": "Oxley",
-    "id": "2gPFXx8pN3Avh27Dw5Ma",
-    "resource_id": "7424031714290176513"
-   },
-   "55": {
-    "name": "Evil Guy",
-    "id": "3SF4rB1fGBMXU9xRM7pz",
-    "resource_id": "7424031662037537281"
-   },
-   "56": {
-    "name": "Corey",
-    "id": "en_male_corey_emo_v2_mars_bigtts",
-    "resource_id": "7417663340761059856"
-   },
-   "57": {
-    "name": "Glen",
-    "id": "en_male_glen_emo_v2_mars_bigtts",
-    "resource_id": "7417662783333863953"
-   },
-   "58": {
-    "name": "Candice",
-    "id": "en_female_candice_emo_v2_mars_bigtts",
-    "resource_id": "7417662874270568961"
-   },
-   "59": {
-    "name": "Poetic male voice II",
-    "id": "ICL_en_male_poetry",
-    "resource_id": "7413601846863860225"
-   },
-   "60": {
-    "name": "YTB Blogger",
-    "id": "X2j354mOfDROQk9ghjz4",
-    "resource_id": "7404749765512008193"
-   },
-   "61": {
-    "name": "Late Night Radio",
-    "id": "NFG5qt843uXKj4pFvR7C",
-    "resource_id": "7404749710004589072"
-   },
-   "62": {
-    "name": "Malcolm",
-    "id": "EiNlNiXeDU1pqqOPrYMO",
-    "resource_id": "7407658338650952208"
-   },
-   "63": {
-    "name": "Amelia",
-    "id": "nBoLwpO4PAjQaQwVKPI1",
-    "resource_id": "7407658215795593729"
-   },
-   "64": {
-    "name": "Liane",
-    "id": "SaqYcK3ZpDKBAImA8AdW",
-    "resource_id": "7407658007888138769"
-   },
-   "65": {
-    "name": "Serious Male III",
-    "id": "XjLkpWUlnhS8i7gGz3lZ",
-    "resource_id": "7407658157813535248"
-   },
-   "66": {
-    "name": "Michael Mouse",
-    "id": "dfZGXKiIzjizWtJ0NgPy",
-    "resource_id": "7407658082601275920"
-   },
-   "67": {
-    "name": "Blake",
-    "id": "kPzsL2i3teMYv0FxEYQ6",
-    "resource_id": "7407657878057652752"
-   },
-   "68": {
-    "name": "Dmitry",
-    "id": "kwajW3Xh5svCeKU5ky2S",
-    "resource_id": "7407657748470436369"
-   },
-   "69": {
-    "name": "Tim",
-    "id": "gOkFV1JMCt0G0n9xmBwV",
-    "resource_id": "7407657799632556561"
-   },
-   "70": {
-    "name": "Demure",
-    "id": "en_female_elsa_amanda_crystal",
-    "resource_id": "7328236234780709377"
-   },
-   "71": {
-    "name": "Skye",
-    "id": "en_female_sinong_conversation_wvae_bigtts",
-    "resource_id": "7372472342494056976"
-   },
-   "72": {
-    "name": "Onez",
-    "id": "en_female_onez_moon_bigtts",
-    "resource_id": "7402094869667123729"
-   },
-   "73": {
-    "name": "Siren",
-    "id": "en_female_nara_moon_bigtts",
-    "resource_id": "7402094928337048065"
-   },
-   "74": {
-    "name": "Syluss",
-    "id": "ICL_en_male_sylus",
-    "resource_id": "7403211571293327873"
-   },
-   "75": {
-    "name": "Peter",
-    "id": "en_male_bruce_moon_bigtts",
-    "resource_id": "7398059612643004945"
-   },
-   "76": {
-    "name": "Andre",
-    "id": "en_male_dave_moon_bigtts",
-    "resource_id": "7398059458733019665"
-   },
-   "77": {
-    "name": "Hayden",
-    "id": "en_male_hades_moon_bigtts",
-    "resource_id": "7398059512415916561"
-   },
-   "78": {
-    "name": "Michael",
-    "id": "en_male_michael_moon_bigtts",
-    "resource_id": "7398059563758391825"
-   },
-   "79": {
-    "name": "Maggie",
-    "id": "7FjPCAaLTVw3SR8UoLK9",
-    "resource_id": "7398107763483611649"
-   },
-   "80": {
-    "name": "Ronald",
-    "id": "4t4yjZnWy0xg0b2BEGWq",
-    "resource_id": "7398107606914437633"
-   },
-   "81": {
-    "name": "Nigel",
-    "id": "ICL_2206985c8bf6",
-    "resource_id": "7382469229917770257"
-   },
-   "82": {
-    "name": "Movie Trailer Announcer",
-    "id": "en_male_authoritative_marcus",
-    "resource_id": "7393232129296962049"
-   },
-   "83": {
-    "name": "Gnome",
-    "id": "en_female_dwarf_karen",
-    "resource_id": "7393231992759783953"
-   },
-   "84": {
-    "name": "Betty Boop",
-    "id": "en_female_betty_boop",
-    "resource_id": "7393229135348240913"
-   },
-   "85": {
-    "name": "Caleb",
-    "id": "en_male_vernacular_plinio",
-    "resource_id": "7393232053258424848"
-   },
-   "86": {
-    "name": "Ethereal Voice",
-    "id": "en_male_lowpitched_shouting",
-    "resource_id": "7393228776978518529"
-   },
-   "87": {
-    "name": "Minion",
-    "id": "en_male_kevin_minion",
-    "resource_id": "7393228840861962769"
-   },
-   "88": {
-    "name": "Nail Tech",
-    "id": "en_female_nail_artist",
-    "resource_id": "7393228944540963344"
-   },
-   "89": {
-    "name": "Tiny Teena",
-    "id": "en_female_weak_child",
-    "resource_id": "7393229078951629313"
-   },
-   "90": {
-    "name": "Rick",
-    "id": "en_male_rick_sanchez",
-    "resource_id": "7379873380536685072"
-   },
-   "91": {
-    "name": "Bibble",
-    "id": "en_female_cartoon_bibble",
-    "resource_id": "7379873499717833233"
-   },
-   "92": {
-    "name": "Sports Commentator",
-    "id": "en_male_ted_lasso",
-    "resource_id": "7379873236122604033"
-   },
-   "93": {
-    "name": "Cranky Kitten",
-    "id": "en_male_irritable_kitten",
-    "resource_id": "7379873622745158161"
-   },
-   "94": {
-    "name": "Bouncer",
-    "id": "en_male_gebralter_apex",
-    "resource_id": "7379905121657819664"
-   },
-   "95": {
-    "name": "Tech Blogger",
-    "id": "en_male_tech_blogger",
-    "resource_id": "7372473177747755537"
-   },
-   "96": {
-    "name": "Gump",
-    "id": "en_male_forrest_gump",
-    "resource_id": "7372473041797779969"
-   },
-   "97": {
-    "name": "Camile",
-    "id": "en_female_kourtney_kardashian",
-    "resource_id": "7372473107635769872"
-   },
-   "98": {
-    "name": "Boman H",
-    "id": "en_male_bojack_horseman",
-    "resource_id": "7372472892174373377"
-   },
-   "99": {
-    "name": "Miss Naive",
-    "id": "en_female_naive_youngwoman",
-    "resource_id": "7372472718723125761"
-   },
-   "100": {
-    "name": "Grim Rock",
-    "id": "en_male_death_rock",
-    "resource_id": "7372472588859085313"
-   },
-   "101": {
-    "name": "Pierce G",
-    "id": "en_male_peter_griffin",
-    "resource_id": "7372472973485150721"
-   },
-   "102": {
-    "name": "Spill the Tea",
-    "id": "en_male_story_time",
-    "resource_id": "7372472502842298897"
-   },
-   "103": {
-    "name": "Matthew",
-    "id": "ICL_en_male_matthew",
-    "resource_id": "7377654737400762881"
-   },
-   "104": {
-    "name": "Sensitive male",
-    "id": "ICL_en_male_george",
-    "resource_id": "7377653399552004624"
-   },
-   "105": {
-    "name": "Announcer",
-    "id": "ICL_en_male_dryw",
-    "resource_id": "7377654843256607248"
-   },
-   "106": {
-    "name": "Callum",
-    "id": "ICL_en_male_callum",
-    "resource_id": "7377653510566842881"
-   },
-   "107": {
-    "name": "Adam",
-    "id": "pNInz6obpgDQGcFmaJgB",
-    "resource_id": "7369525170723099153"
-   },
-   "108": {
-    "name": "Bill",
-    "id": "pqHfZKP75CvOlQylNhV4",
-    "resource_id": "7373887313652224513"
-   },
-   "109": {
-    "name": "Marcus",
-    "id": "WGOZZ50ZyX8GWtwZGVDW",
-    "resource_id": "7373896904729432577"
-   },
-   "110": {
-    "name": "Knightley",
-    "id": "oxcpUoZsixp23oWJaFgp",
-    "resource_id": "7374670931064525313"
-   },
-   "111": {
-    "name": "Michael",
-    "id": "XZq0uRgnKv2uOpky5Fbk",
-    "resource_id": "7374671961181393424"
-   },
-   "112": {
-    "name": "Sophisticated Male",
-    "id": "dNloUnB04rqaaSAj1WDd",
-    "resource_id": "7374672034262946321"
-   },
-   "113": {
-    "name": "Dave",
-    "id": "YcDRT2356gbExn8cPFdF",
-    "resource_id": "7374672109911413249"
-   },
-   "114": {
-    "name": "Vibrant Baritone",
-    "id": "rKZCRTvCRsUjB3zmsrOY",
-    "resource_id": "7374726854718001665"
-   },
-   "115": {
-    "name": "Natasha",
-    "id": "s73DTGwP2RrOFSydhplL",
-    "resource_id": "7374726937425482256"
-   },
-   "116": {
-    "name": "Dan Dan",
-    "id": "9F4C8ztpNUmXkdDDbz3J",
-    "resource_id": "7374727002261033473"
-   },
-   "117": {
-    "name": "Joanne",
-    "id": "XMWzAzwYm487GEok2uG2",
-    "resource_id": "7374727186323870209"
-   },
-   "118": {
-    "name": "Myra",
-    "id": "InSLKyTvFCIeQZ0a0eES",
-    "resource_id": "7374727348349833729"
-   },
-   "119": {
-    "name": "Alex",
-    "id": "iDJbhuGTR9N7lXjELodg",
-    "resource_id": "7374727433896858128"
-   },
-   "120": {
-    "name": "Valentino",
-    "id": "153KLsX4S9dcU9E750gG",
-    "resource_id": "7374727502712803841"
-   },
-   "121": {
-    "name": "Academic Male",
-    "id": "FMvgzHAu8dL0gUSU3TMn",
-    "resource_id": "7374671750266622481"
-   },
-   "122": {
-    "name": "ASMR by Ethan",
-    "id": "g5CIjZEefAph4nQFvHAz",
-    "resource_id": "7374671839127147025"
-   },
-   "123": {
-    "name": "TV Host",
-    "id": "xAVsdcJvD1uegu8lFEE2",
-    "resource_id": "7374727598296797712"
-   },
-   "124": {
-    "name": "Musing Female",
-    "id": "VRzR10DWf2jP2ieNulzS",
-    "resource_id": "7374672411964215825"
-   },
-   "125": {
-    "name": "Live Reporter",
-    "id": "5Q0t7uMcjvnagumLfvZi",
-    "resource_id": "7374727687337677329"
-   },
-   "126": {
-    "name": "British Reporter",
-    "id": "Zlb1dXrM653N07WRdFW3",
-    "resource_id": "7374727749061054992"
-   },
-   "127": {
-    "name": "Josh",
-    "id": "TxGEqnHWrfWFTfGW9XjX",
-    "resource_id": "7375867555405107713"
-   },
-   "128": {
-    "name": "Meditative Male",
-    "id": "GBv7mTt0atIp3Br8iCZE",
-    "resource_id": "7375867686565188112"
-   },
-   "129": {
-    "name": "Thrilled Male",
-    "id": "bVMeCyTHy58xNoL34h3p",
-    "resource_id": "7375867921932751377"
-   },
-   "130": {
-    "name": "Scarlett",
-    "id": "VdfT7kt8i1G1JqBvSlst",
-    "resource_id": "7376485202538795537"
-   },
-   "131": {
-    "name": "Alvin",
-    "id": "en_male_charlie_conversation_wvae_bigtts_cc",
-    "resource_id": "7371352611217216017"
-   },
-   "132": {
-    "name": "Daniel",
-    "id": "en_male_xudong_conversation_wvae_bigtts_cc",
-    "resource_id": "7371352319541121553"
-   },
-   "133": {
-    "name": "Leo",
-    "id": "en_male_leonardo_decaprio",
-    "resource_id": "7360987035974242833"
-   },
-   "134": {
-    "name": "Simon",
-    "id": "en_male_stewie_familyguy",
-    "resource_id": "7360987300609659393"
-   },
-   "135": {
-    "name": "Fender",
-    "id": "en_male_bender_futurama",
-    "resource_id": "7360986724681388560"
-   },
-   "136": {
-    "name": "Homer",
-    "id": "en_male_homer_simpson",
-    "resource_id": "7360987557812769296"
-   },
-   "137": {
-    "name": "John",
-    "id": "en_male_john_mulaney",
-    "resource_id": "7360987403995058689"
-   },
-   "138": {
-    "name": "David",
-    "id": "en_male_british_narrator",
-    "resource_id": "7360987855176339984"
-   },
-   "139": {
-    "name": "Mad Penguin",
-    "id": "en_male_grumpy_penguin",
-    "resource_id": "7360987676440269328"
-   },
-   "140": {
-    "name": "Tipsy Lady",
-    "id": "en_female_drunk_bumpkin",
-    "resource_id": "7360987195986940432"
-   },
-   "141": {
-    "name": "Roba",
-    "id": "en_female_loba_apex",
-    "resource_id": "7360986396594541057"
-   },
-   "142": {
-    "name": "Comedy Gil",
-    "id": "en_female_fortune_feimster",
-    "resource_id": "7360987978455323137"
-   },
-   "143": {
-    "name": "Female Tutor",
-    "id": "en-US-JennyMultilingualNeural",
-    "resource_id": "7337657863390630401"
-   },
-   "144": {
-    "name": "Lois",
-    "id": "en_female_lois_familyguy",
-    "resource_id": "7355036507519848961"
-   },
-   "145": {
-    "name": "Police officer",
-    "id": "en_male_irritable_police_officer",
-    "resource_id": "7355036625488843280"
-   },
-   "146": {
-    "name": "Drag Voice",
-    "id": "en_male_drag_voice",
-    "resource_id": "7355036740215640593"
-   },
-   "147": {
-    "name": "Postive Guy",
-    "id": "en_male_positive_british",
-    "resource_id": "7355036978116563473"
-   },
-   "148": {
-    "name": "ASMR",
-    "id": "en_male_whispering_voice",
-    "resource_id": "7355037095066341904"
-   },
-   "149": {
-    "name": "Andrew",
-    "id": "en-US-AndrewNeural",
-    "resource_id": "7356130540799398417"
-   },
-   "150": {
-    "name": "Sam",
-    "id": "en-AU-WilliamNeural",
-    "resource_id": "7350884638874669570"
-   },
-   "151": {
-    "name": "Alexstrasza",
-    "id": "en_female_game_narration",
-    "resource_id": "7351731040093737473"
-   },
-   "152": {
-    "name": "Valley Girl II",
-    "id": "en_female_meangirl",
-    "resource_id": "7351730508037886481"
-   },
-   "153": {
-    "name": "Greek Guy",
-    "id": "en_male_greek_accent",
-    "resource_id": "7351730796933157377"
-   },
-   "154": {
-    "name": "Golden Monkey",
-    "id": "en_male_golden_monkey",
-    "resource_id": "7351730917590700545"
-   },
-   "155": {
-    "name": "Fussy male",
-    "id": "en_male_bumbling_idiot",
-    "resource_id": "7337195992237740546"
-   },
-   "156": {
-    "name": "Fiesta",
-    "id": "en_female_gloria",
-    "resource_id": "7337195915368731138"
-   },
-   "157": {
-    "name": "Queen",
-    "id": "en_female_british_queen",
-    "resource_id": "7337195844971532801"
-   },
-   "158": {
-    "name": "Flirty Female",
-    "id": "en_female_product_darcie_moon_bigtts",
-    "resource_id": "7337195598900105729"
-   },
-   "159": {
-    "name": "Female Sales",
-    "id": "en_female_product_elise",
-    "resource_id": "7337195523163558401"
-   },
-   "160": {
-    "name": "Pam",
-    "id": "en_female_food_amy",
-    "resource_id": "7337195373867307522"
-   },
-   "161": {
-    "name": "Bianca",
-    "id": "en_female_product_leah",
-    "resource_id": "7337195678558327297"
-   },
-   "162": {
-    "name": "Granny",
-    "id": "en_female_grandma_amy",
-    "resource_id": "7337195773446066690"
-   },
-   "163": {
-    "name": "Flirty Male",
-    "id": "en_male_hoarse_mattmc",
-    "resource_id": "7338752878611272194"
-   },
-   "164": {
-    "name": "Cub",
-    "id": "en_female_kid_eddie",
-    "resource_id": "7337195145680392706"
-   },
-   "165": {
-    "name": "Dramarama",
-    "id": "en_male_dramaqueen_zachk",
-    "resource_id": "7337195243810329089"
-   },
-   "166": {
-    "name": "Ambitious Guy",
-    "id": "en_male_positiveboy_duncan",
-    "resource_id": "7337194306685374978"
-   },
-   "167": {
-    "name": "Sports Anchor",
-    "id": "en_male_sports_jomboy",
-    "resource_id": "7337195054290702850"
-   },
-   "168": {
-    "name": "Energetic Male II",
-    "id": "en_male_campaign_jamal_moon_bigtts",
-    "resource_id": "7337194574688817666"
-   },
-   "169": {
-    "name": "Mentor",
-    "id": "en_male_artistic_layne",
-    "resource_id": "7337195454980952577"
-   },
-   "170": {
-    "name": "GingerChime",
-    "id": "en_male_david_gingerman",
-    "resource_id": "7309752196122284545"
-   },
-   "171": {
-    "name": "Cute Boy 2",
-    "id": "en_female_amie",
-    "resource_id": "7306800306921148929"
-   },
-   "172": {
-    "name": "Elfy",
-    "id": "en_male_adam_elf",
-    "resource_id": "7309753082638766593"
-   },
-   "173": {
-    "name": "Santa II",
-    "id": "en_male_corey_santa",
-    "resource_id": "7309751125572325889"
-   },
-   "174": {
-    "name": "Drama Boy",
-    "id": "en_male_britishgamer",
-    "resource_id": "7249264251536151042"
-   },
-   "175": {
-    "name": "Werewolf",
-    "id": "en_female_werewolf",
-    "resource_id": "7293115150263915009"
-   },
-   "176": {
-    "name": "Witch",
-    "id": "en_female_witch",
-    "resource_id": "7293115285471498754"
-   },
-   "177": {
-    "name": "Sturdy Male",
-    "id": "en_male_jarvis",
-    "resource_id": "7249264092781744641"
-   },
-   "178": {
-    "name": "Good Guy",
-    "id": "en_male_deadpool",
-    "resource_id": "7231025912261644802"
-   },
-   "179": {
-    "name": "Zombie",
-    "id": "en_female_zombie",
-    "resource_id": "7293115536584479233"
-   },
-   "180": {
-    "name": "Doll",
-    "id": "en_female_doll",
-    "resource_id": "7293115626711683585"
-   },
-   "181": {
-    "name": "Male Commentator",
-    "id": "en_male_commentary_moon_bigtts",
-    "resource_id": "7277818843358040578"
-   },
-   "182": {
-    "name": "Noble Woman",
-    "id": "BV518_streaming",
-    "resource_id": "7277818172416201218"
-   },
-   "183": {
-    "name": "Cottagecore",
-    "id": "en_female_f08_salut_damour",
-    "resource_id": "7245192978749198849"
-   },
-   "184": {
-    "name": "Open Mic",
-    "id": "en_female_f08_warmy_breeze",
-    "resource_id": "7245192865905644033"
-   },
-   "185": {
-    "name": "Quirky Time",
-    "id": "en_male_m2_xhxs_m03_silly",
-    "resource_id": "7245192771231814145"
-   },
-   "186": {
-    "name": "Drag Boy",
-    "id": "BV519_streaming",
-    "resource_id": "7277818037556744706"
-   },
-   "187": {
-    "name": "Delicate Girl",
-    "id": "en_female_daisy_moon_bigtts",
-    "resource_id": "7278146659211547138"
-   },
-   "188": {
-    "name": "Serious Girl",
-    "id": "en_female_sherry",
-    "resource_id": "7278146554844680706"
-   },
-   "189": {
-    "name": "Cold Female",
-    "id": "en_female_tina",
-    "resource_id": "7278146377178157570"
-   },
-   "190": {
-    "name": "Rigorous Man",
-    "id": "en_male_ukbutler",
-    "resource_id": "7256999218185769473"
-   },
-   "191": {
-    "name": "Lord Cringe",
-    "id": "en_male_ukneighbor",
-    "resource_id": "7256999312872182274"
-   },
-   "192": {
-    "name": "Female Vloger",
-    "id": "en_female_makeup",
-    "resource_id": "7256999130084413954"
-   },
-   "193": {
-    "name": "Excited Man",
-    "id": "en_male_will_clone2",
-    "resource_id": "7232136973664653825"
-   },
-   "194": {
-    "name": "Excited Female",
-    "id": "en_female_caroline_clone2",
-    "resource_id": "7232136837861478913"
-   },
-   "195": {
-    "name": "Pop Lullaby",
-    "id": "en_female_f08_twinkle",
-    "resource_id": "7245192372613550594"
-   },
-   "196": {
-    "name": "Opera",
-    "id": "en_female_ht_f08_halloween",
-    "resource_id": "7245192656358216193"
-   },
-   "197": {
-    "name": "Cozy",
-    "id": "en_male_m2_xhxs_m03_christmas",
-    "resource_id": "7245192557322310145"
-   },
-   "198": {
-    "name": "Classic Electric",
-    "id": "en_male_m03_classical",
-    "resource_id": "7245192458206712322"
-   },
-   "199": {
-    "name": "Serious Male",
-    "id": "en_male_cody",
-    "resource_id": "7176107532534944258"
-   },
-   "200": {
-    "name": "Empathetic Female",
-    "id": "en_female_samc",
-    "resource_id": "7176107981098979841"
-   },
-   "201": {
-    "name": "Bestie",
-    "id": "en_female_richgirl_stream",
-    "resource_id": "7189462696201294338"
-   },
-   "202": {
-    "name": "Trickster",
-    "id": "en_male_trickster_stream",
-    "resource_id": "7189462618589893121"
-   },
-   "203": {
-    "name": "Rhythmic Voice",
-    "id": "BR002_streaming",
-    "resource_id": "7164264995545420289"
-   },
-   "204": {
-    "name": "Kawaii Vocalist",
-    "id": "VOV208_bytesing3_littlelamb",
-    "resource_id": "7144984711960465921"
-   },
-   "205": {
-    "name": "Jessie",
-    "id": "en_us_002",
-    "resource_id": "7130515992936976897"
-   },
-   "206": {
-    "name": "Kids Vocalist",
-    "id": "VOV301_bytesing3_wanglaoxiansheng",
-    "resource_id": "7129449871223820802"
-   },
-   "207": {
-    "name": "Female Vocalist",
-    "id": "VOV301_bytesing3_aidelizan",
-    "resource_id": "7129449750037795329"
-   },
-   "208": {
-    "name": "Confident Guy",
-    "id": "BV516_streaming",
-    "resource_id": "7129448697229742593"
-   },
-   "209": {
-    "name": "Chill Girl",
-    "id": "BV511_streaming",
-    "resource_id": "7129448542808052225"
-   },
-   "210": {
-    "name": "Old Style Advertising Man",
-    "id": "en_us_006",
-    "resource_id": "7114563482518819329"
-   },
-   "211": {
-    "name": "Professional Male",
-    "id": "en_us_007",
-    "resource_id": "7114563482472681986"
-   },
-   "212": {
-    "name": "Male Scientist",
-    "id": "en_us_009",
-    "resource_id": "7114563482418156033"
-   },
-   "213": {
-    "name": "Charming Male",
-    "id": "en_us_010",
-    "resource_id": "7114563482359435778"
-   },
-   "214": {
-    "name": "Wacky",
-    "id": "en_male_funny",
-    "resource_id": "7114563483378651650"
-   },
-   "215": {
-    "name": "British Male",
-    "id": "en_uk_003",
-    "resource_id": "7114563482363630082"
-   },
-   "216": {
-    "name": "Peaceful Female",
-    "id": "en_female_emotional_moon_bigtts",
-    "resource_id": "7114563483257016833"
-   },
-   "217": {
-    "name": "Narrative Male",
-    "id": "en_male_narration_moon_bigtts",
-    "resource_id": "7114563483210879490"
-   },
-   "218": {
-    "name": "Neutral Woman",
-    "id": "en_au_001",
-    "resource_id": "7114563482472698370"
-   },
-   "219": {
-    "name": "Peaceful Man",
-    "id": "en_au_002",
-    "resource_id": "7114564716881515010"
-   },
-   "220": {
-    "name": "Adorable Girl",
-    "id": "BV506_streaming",
-    "resource_id": "7102354325850034689"
-   },
-   "221": {
-    "name": "Serious Female",
-    "id": "BV505_streaming",
-    "resource_id": "7102354167598944769"
-   },
-   "222": {
-    "name": "Storyteller Man",
-    "id": "BV127_streaming",
-    "resource_id": "7102354086866981378"
-   },
-   "223": {
-    "name": "Storyteller Woman",
-    "id": "BV138_streaming",
-    "resource_id": "7102353961276936706"
-   },
-   "224": {
-    "name": "Charming Female",
-    "id": "BV027_streaming",
-    "resource_id": "7081169503626727937"
-   },
-   "225": {
-    "name": "Neutral Man",
-    "id": "BV510_streaming",
-    "resource_id": "7081169180120060418"
-   },
-   "226": {
-    "name": "Narrative Woman",
-    "id": "BV502_streaming",
-    "resource_id": "7081169098796700161"
-   },
-   "227": {
-    "name": "Cute Boy",
-    "id": "BV507_streaming",
-    "resource_id": "7081168994673103362"
-   },
-   "228": {
-    "name": "Energetic Guy",
-    "id": "BV504_streaming",
-    "resource_id": "7081168903811895809"
-   },
-   "229": {
-    "name": "Energetic Female",
-    "id": "BV503_streaming",
-    "resource_id": "7081168775646548482"
-   },
-   "230": {
-    "name": "American Male",
-    "id": "BV028_TOBI_streaming",
-    "resource_id": "6898239746565214722"
-   },
-   "231": {
-    "name": "American Female",
-    "id": "BV029_streaming",
-    "resource_id": "6898240012404396546"
-   },
-   "232": {
-    "name": "British Woman",
-    "id": "BV031_streaming",
-    "resource_id": "6898240156344521218"
-   }
-  },
-  "# Thai": {
-   "1": {
-    "name": "สุนิสา",
-    "id": "BV567_streaming",
-    "resource_id": "7483736024871342608"
-   },
-   "2": {
-    "name": "นภา",
-    "id": "BV568_streaming",
-    "resource_id": "7483736089434264065"
-   },
-   "3": {
-    "name": "Sweet Little Girl",
-    "id": "BV421_thth_streaming",
-    "resource_id": "7268502477702435330"
-   }
-  },
-  "# Chinese": {
-   "1": {
-    "name": "TV Ad",
-    "id": "BV433_streaming",
-    "resource_id": "7436608032152228353"
-   },
-   "2": {
-    "name": "Yingzi",
-    "id": "zh_female_naying",
-    "resource_id": "7436607833887478289"
-   },
-   "3": {
-    "name": "Emotional Quote",
-    "id": "BV145_streaming",
-    "resource_id": "7436607923695915537"
-   },
-   "4": {
-    "name": "Ms. Gu",
-    "id": "zh_female_guli_stream_gpu",
-    "resource_id": "7436607747929412097"
-   },
-   "5": {
-    "name": "Bajie",
-    "id": "zh_male_zhubajie_clone2",
-    "resource_id": "7436607630379848209"
-   },
-   "6": {
-    "name": "Grandma Rong",
-    "id": "BV430_streaming",
-    "resource_id": "7436607533080384016"
-   },
-   "7": {
-    "name": "Daiyu",
-    "id": "BV425_streaming",
-    "resource_id": "7436607444421186064"
-   },
-   "8": {
-    "name": "Crayon Xiaoni",
-    "id": "zh_female_yingtiannini",
-    "resource_id": "7436607246919799313"
-   },
-   "9": {
-    "name": "Buddha",
-    "id": "zh_male_rulaifo",
-    "resource_id": "7436607104976163345"
-   },
-   "10": {
-    "name": "Alluring Male Voice",
-    "id": "zh_male_vopguanggao",
-    "resource_id": "7436607339689415169"
-   },
-   "11": {
-    "name": "Lolita",
-    "id": "BV064_streaming",
-    "resource_id": "7372474220892131857"
-   },
-   "12": {
-    "name": "Guangxi Accent",
-    "id": "BV213_streaming",
-    "resource_id": "7372474337594446337"
-   },
-   "13": {
-    "name": "Slurred",
-    "id": "BV021_streaming",
-    "resource_id": "7372473998958924305"
-   },
-   "14": {
-    "name": "Storyteller 1",
-    "id": "BV405_streaming",
-    "resource_id": "7372474073286185489"
-   },
-   "15": {
-    "name": "Radiant",
-    "id": "BV011_streaming",
-    "resource_id": "7372474285018845712"
-   },
-   "16": {
-    "name": "Lady",
-    "id": "BV001_fast_streaming",
-    "resource_id": "7372473772730749457"
-   },
-   "17": {
-    "name": "Cool Thinker",
-    "id": "BV701_streaming",
-    "resource_id": "7372473606908940801"
-   },
-   "18": {
-    "name": "Roar",
-    "id": "BV144_streaming",
-    "resource_id": "7372473660856078849"
-   },
-   "19": {
-    "name": "Trance",
-    "id": "BV408_streaming",
-    "resource_id": "7372473718963966465"
-   },
-   "20": {
-    "name": "Gossip",
-    "id": "BV005_streaming",
-    "resource_id": "7372473942046413313"
-   },
-   "21": {
-    "name": "Charm",
-    "id": "BV007_streaming",
-    "resource_id": "7372474136372711937"
-   },
-   "22": {
-    "name": "Sorrow",
-    "id": "zh_female_ziwei",
-    "resource_id": "7382469632570954256"
-   },
-   "23": {
-    "name": "Bramble",
-    "id": "zh_male_xionger_stream_gpu",
-    "resource_id": "7382469522113958416"
-   },
-   "24": {
-    "name": "Verse",
-    "id": "BV428_streaming",
-    "resource_id": "7382470008628056593"
-   },
-   "25": {
-    "name": "Anime Youth",
-    "id": "BV050_streaming",
-    "resource_id": "7382469691106660865"
-   },
-   "26": {
-    "name": "Dainty",
-    "id": "zh_female_jiazi",
-    "resource_id": "7382469794945044993"
-   },
-   "27": {
-    "name": "Mumble",
-    "id": "zh_male_hougedaiyu",
-    "resource_id": "7382469847881355793"
-   },
-   "28": {
-    "name": "High-Pitch Bob",
-    "id": "BV063_streaming",
-    "resource_id": "7382469911257289217"
-   },
-   "29": {
-    "name": "Storyteller 2",
-    "id": "BV411_streaming",
-    "resource_id": "7372473844725977601"
-   },
-   "30": {
-    "name": "Nasally",
-    "id": "zh_male_sunwukong_rap",
-    "resource_id": "7382469739395682832"
-   },
-   "31": {
-    "name": "Drama",
-    "id": "BV409_streaming",
-    "resource_id": "7382469578682536464"
-   },
-   "32": {
-    "name": "Elementary Student",
-    "id": "BV426_streaming",
-    "resource_id": "7382469958619370001"
-   },
-   "33": {
-    "name": "Yonrou",
-    "id": "zh_male_silang_stream_gpu",
-    "resource_id": "7382469459639800321"
-   }
-  },
-  "# Spanish": {
-   "1": {
-    "name": "Carola",
-    "id": "ICL_mx_female_tt_carola",
-    "resource_id": "7469007204322906625"
-   },
-   "2": {
-    "name": "Alejandro Durán",
-    "id": "sKgg4MPUDBy69X7iv3fA",
-    "resource_id": "7441518733278843409"
-   },
-   "3": {
-    "name": "Hombre Serio",
-    "id": "BV062_streaming",
-    "resource_id": "7102355528579289601"
-   },
-   "4": {
-    "name": "Mexican Female Voice",
-    "id": "BV065_streaming",
-    "resource_id": "7028847590758158849"
-   },
-   "5": {
-    "name": "Warm",
-    "id": "es_mx_002",
-    "resource_id": "7114563481319248385"
-   },
-   "6": {
-    "name": "Julio",
-    "id": "es_male_m3",
-    "resource_id": "7176108454489100802"
-   },
-   "7": {
-    "name": "Chica Joven",
-    "id": "es_female_f6",
-    "resource_id": "7176108614086562306"
-   }
-  },
-  "# Other": {
-   "1": {
-    "name": "Tatiana Martin",
-    "id": "2rigMbVWLdqtBSCahJFX",
-    "resource_id": "7441519043623784976"
-   },
-   "2": {
-    "name": "Sara Martin I",
-    "id": "KHCvMklQZZo0O30ERnVn",
-    "resource_id": "7441518624847696400"
-   },
-   "3": {
-    "name": "Caspian",
-    "id": "en_male_jeremy_emo_v2_mars_bigtts",
-    "resource_id": "7430714636921475601"
-   },
-   "4": {
-    "name": "Male Voice",
-    "id": "BV087_streaming",
-    "resource_id": "7049980340806357506"
-   },
-   "5": {
-    "name": "Female Voice (German)",
-    "id": "BV080_streaming",
-    "resource_id": "7028847688217006593"
-   },
-   "6": {
-    "name": "Masculino",
-    "id": "BV060_streaming",
-    "resource_id": "6938347573295976962"
-   },
-   "7": {
-    "name": "Masculina 2",
-    "id": "BV071_streaming",
-    "resource_id": "7009155700278432258"
-   },
-   "8": {
-    "name": "Faminina",
-    "id": "BV067_streaming",
-    "resource_id": "7009155604027544066"
-   },
-   "9": {
-    "name": "Lucas",
-    "id": "br_005",
-    "resource_id": "7114563482594316801"
-   },
-   "10": {
-    "name": "Júlia",
-    "id": "br_003",
-    "resource_id": "7114563482564956673"
-   },
-   "11": {
-    "name": "Ana",
-    "id": "br_004",
-    "resource_id": "7114563482304909826"
-   },
-   "12": {
-    "name": "Mulher Doce（BR）",
-    "id": "BV566_streaming",
-    "resource_id": "7129449556973982209"
-   },
-   "13": {
-    "name": "Criança Fofa（BR）",
-    "id": "BV565_streaming",
-    "resource_id": "7129449072330543618"
-   }
-  },
-  "# French": {
-   "1": {
-    "name": "Miss Radio",
-    "id": "b6nVfb3l2zshrLZTvqbs",
-    "resource_id": "7441518516341051921"
-   },
-   "2": {
-    "name": "Louis Boutin",
-    "id": "j9RedbMRSNQ74PyikQwD",
-    "resource_id": "7441518438326997520"
-   },
-   "3": {
-    "name": "Nicolas II",
-    "id": "aQROLel5sQbj1vuIVi6B",
-    "resource_id": "7441518351764951553"
-   },
-   "4": {
-    "name": "Voix féminine",
-    "id": "BV078_streaming",
-    "resource_id": "7049979316616040961"
-   },
-   "5": {
-    "name": "French Male",
-    "id": "fr_002",
-    "resource_id": "7114563481315054081"
-   }
-  },
-  "# Arabic": {
-   "1": {
-    "name": "Man (Arabic)",
-    "id": "BV570_streaming",
-    "resource_id": "7074797219278230018"
-   }
-  },
-  "# Portuguese": {
-   "1": {
-    "name": "Mulher Dinâmica",
-    "id": "BV530_streaming",
-    "resource_id": "7102354497619366402"
-   },
-   "2": {
-    "name": "Lively Man (Portuguese)",
-    "id": "BV531_streaming",
-    "resource_id": "7074794519954199042"
-   }
-  },
-  "# Turkish": {
-   "1": {
-    "name": "Deep Male Voice ",
-    "id": "BV083_streaming",
-    "resource_id": "7049979944004227586"
-   }
-  },
-  "# Russian": {
-   "1": {
-    "name": "Female Voice (Russian)",
-    "id": "BV068_streaming",
-    "resource_id": "7028847532939678209"
-   }
-  },
-  "# German": {
-   "1": {
-    "name": "German Female",
-    "id": "de_001",
-    "resource_id": "7114563481336025602"
-   }
-  },
-  "# Japanese": {
-   "1": {
-    "name": "Young Japanese Woman",
-    "id": "BV016_streaming",
-    "resource_id": "6919013937493053953"
-   },
-   "2": {
-    "name": "可愛い精霊",
-    "id": "BV017_streaming",
-    "resource_id": "6919013093829775874"
-   },
-   "3": {
-    "name": "アナウンサー",
-    "id": "BV018_streaming",
-    "resource_id": "6943534535413862913"
-   },
-   "4": {
-    "name": "成熟な姉御",
-    "id": "BV024_streaming",
-    "resource_id": "6943534423778267650"
-   },
-   "5": {
-    "name": "男性アナ",
-    "id": "BV524_streaming",
-    "resource_id": "7081169917248016898"
-   },
-   "6": {
-    "name": "癒し系女子",
-    "id": "BV521_streaming",
-    "resource_id": "7081169770329936386"
-   },
-   "7": {
-    "name": "女性アナ",
-    "id": "BV522_streaming",
-    "resource_id": "7081169838864863746"
-   },
-   "8": {
-    "name": "元気ロリ",
-    "id": "BV520_streaming",
-    "resource_id": "7081169599378493954"
-   },
-   "9": {
-    "name": "坊ちゃん",
-    "id": "BV523_streaming",
-    "resource_id": "7081169700947759618"
-   },
-   "10": {
-    "name": "風雅メゾンブラノ",
-    "id": "VOV402_bytesing3_aidelizan",
-    "resource_id": "7102358863017415170"
-   },
-   "11": {
-    "name": "優しいレ デイー",
-    "id": "VOV402_bytesing3_oh",
-    "resource_id": "7102358797254922754"
-   },
-   "12": {
-    "name": "明るいハ ニー",
-    "id": "VOV401_bytesing3_kangkangwuqu",
-    "resource_id": "7102358746235408898"
-   },
-   "13": {
-    "name": "成熟な男性",
-    "id": "jp_006",
-    "resource_id": "7114563481319297538"
-   },
-   "14": {
-    "name": "活力少女",
-    "id": "jp_005",
-    "resource_id": "7114563481319264770"
-   },
-   "15": {
-    "name": "美女キャスター",
-    "id": "jp_001",
-    "resource_id": "7114563481319281154"
-   },
-   "16": {
-    "name": "Keiko",
-    "id": "jp_003",
-    "resource_id": "7114563481315070465"
-   }
-  },
-  "# Korean": {
-   "1": {
-    "name": "Young Korean Woman",
-    "id": "BV059_streaming",
-    "resource_id": "6938347657224000002"
-   },
-   "2": {
-    "name": "Young Korean Man",
-    "id": "BV066_streaming",
-    "resource_id": "6998450433492521474"
-   },
-   "3": {
-    "name": "Cute Woman (Korean)",
-    "id": "BV546_streaming",
-    "resource_id": "7074796070328340994"
-   },
-   "4": {
-    "name": "Lively Man (Korean)",
-    "id": "BV545_streaming",
-    "resource_id": "7074798164355584513"
-   },
-   "5": {
-    "name": "Korean Male",
-    "id": "kr_004",
-    "resource_id": "7114563481315054082"
-   }
-  }
- },
- "EdgeTTS": {
-  "# Afrikaans": {
-   "1": {
-    "name": "Willem",
-    "id": "af-ZA-WillemNeural",
-    "resource_id": "7375828635136045821"
-   },
-   "2": {
-    "name": "Adri",
-    "id": "af-ZA-AdriNeural",
-    "resource_id": "5284846069004445880"
-   }
-  },
-  "# Amharic": {
-   "1": {
-    "name": "Ameha",
-    "id": "am-ET-AmehaNeural",
-    "resource_id": "1994265653336502589"
-   },
-   "2": {
-    "name": "Mekdes",
-    "id": "am-ET-MekdesNeural",
-    "resource_id": "7138261018247894282"
-   }
-  },
-  "# arabic": {
-   "1": {
-    "name": "Hamdan",
-    "id": "ar-AE-HamdanNeural",
-    "resource_id": "0465682132089705414"
-   },
-   "2": {
-    "name": "Ali",
-    "id": "ar-BH-AliNeural",
-    "resource_id": "7068279450858629314"
-   },
-   "3": {
-    "name": "Ismael",
-    "id": "ar-DZ-IsmaelNeural",
-    "resource_id": "9881960116256346370"
-   },
-   "4": {
-    "name": "Shakir",
-    "id": "ar-EG-ShakirNeural",
-    "resource_id": "0910430163137886298"
-   },
-   "5": {
-    "name": "Bassel",
-    "id": "ar-IQ-BasselNeural",
-    "resource_id": "0478390203165702201"
-   },
-   "6": {
-    "name": "Taim",
-    "id": "ar-JO-TaimNeural",
-    "resource_id": "0061972341002106555"
-   },
-   "7": {
-    "name": "Fahed",
-    "id": "ar-KW-FahedNeural",
-    "resource_id": "2061063891722809103"
-   },
-   "8": {
-    "name": "Rami",
-    "id": "ar-LB-RamiNeural",
-    "resource_id": "3829280580449359637"
-   },
-   "9": {
-    "name": "Omar",
-    "id": "ar-LY-OmarNeural",
-    "resource_id": "6364699746906915016"
-   },
-   "10": {
-    "name": "Jamal",
-    "id": "ar-MA-JamalNeural",
-    "resource_id": "9430392086644575614"
-   },
-   "11": {
-    "name": "Abdullah",
-    "id": "ar-OM-AbdullahNeural",
-    "resource_id": "7338317161278111727"
-   },
-   "12": {
-    "name": "Moaz",
-    "id": "ar-QA-MoazNeural",
-    "resource_id": "6065241144205599016"
-   },
-   "13": {
-    "name": "Hamed",
-    "id": "ar-SA-HamedNeural",
-    "resource_id": "0024781687980461930"
-   },
-   "14": {
-    "name": "Laith",
-    "id": "ar-SY-LaithNeural",
-    "resource_id": "8187915086042749554"
-   },
-   "15": {
-    "name": "Hedi",
-    "id": "ar-TN-HediNeural",
-    "resource_id": "3125292703145628755"
-   },
-   "16": {
-    "name": "Saleh",
-    "id": "ar-YE-SalehNeural",
-    "resource_id": "1180466214387432220"
-   },
-   "17": {
-    "name": "Fatima",
-    "id": "ar-AE-FatimaNeural",
-    "resource_id": "5899566678101396864"
-   },
-   "18": {
-    "name": "Laila",
-    "id": "ar-BH-LailaNeural",
-    "resource_id": "2093820574947091571"
-   },
-   "19": {
-    "name": "Amina",
-    "id": "ar-DZ-AminaNeural",
-    "resource_id": "1505972388748470510"
-   },
-   "20": {
-    "name": "Salma",
-    "id": "ar-EG-SalmaNeural",
-    "resource_id": "9375846866547972392"
-   },
-   "21": {
-    "name": "Rana",
-    "id": "ar-IQ-RanaNeural",
-    "resource_id": "5491060218886371905"
-   },
-   "22": {
-    "name": "Sana",
-    "id": "ar-JO-SanaNeural",
-    "resource_id": "2370687281055033459"
-   },
-   "23": {
-    "name": "Noura",
-    "id": "ar-KW-NouraNeural",
-    "resource_id": "4760734824291987488"
-   },
-   "24": {
-    "name": "Layla",
-    "id": "ar-LB-LaylaNeural",
-    "resource_id": "6021847737346222279"
-   },
-   "25": {
-    "name": "Iman",
-    "id": "ar-LY-ImanNeural",
-    "resource_id": "1688122434370574229"
-   },
-   "26": {
-    "name": "Mouna",
-    "id": "ar-MA-MounaNeural",
-    "resource_id": "7351668804638516599"
-   },
-   "27": {
-    "name": "Aysha",
-    "id": "ar-OM-AyshaNeural",
-    "resource_id": "4351596065788352255"
-   },
-   "28": {
-    "name": "Amal",
-    "id": "ar-QA-AmalNeural",
-    "resource_id": "9105887751331584990"
-   },
-   "29": {
-    "name": "Zariyah",
-    "id": "ar-SA-ZariyahNeural",
-    "resource_id": "7831920136348841534"
-   },
-   "30": {
-    "name": "Amany",
-    "id": "ar-SY-AmanyNeural",
-    "resource_id": "1566206945884944647"
-   },
-   "31": {
-    "name": "Reem",
-    "id": "ar-TN-ReemNeural",
-    "resource_id": "3102188885182589769"
-   },
-   "32": {
-    "name": "Maryam",
-    "id": "ar-YE-MaryamNeural",
-    "resource_id": "3385700163205865599"
-   }
-  },
-  "# Azerbaijani": {
-   "1": {
-    "name": "Babek",
-    "id": "az-AZ-BabekNeural",
-    "resource_id": "0475059963915569718"
-   },
-   "2": {
-    "name": "Banu",
-    "id": "az-AZ-BanuNeural",
-    "resource_id": "0530987875803691587"
-   }
-  },
-  "# Bulgarian": {
-   "1": {
-    "name": "Borislav",
-    "id": "bg-BG-BorislavNeural",
-    "resource_id": "5747032637412666627"
-   },
-   "2": {
-    "name": "Kalina",
-    "id": "bg-BG-KalinaNeural",
-    "resource_id": "9813679968012403010"
-   }
-  },
-  "# Bengali": {
-   "1": {
-    "name": "Pradeep",
-    "id": "bn-BD-PradeepNeural",
-    "resource_id": "1567745181360748335"
-   },
-   "2": {
-    "name": "Bashkar",
-    "id": "bn-IN-BashkarNeural",
-    "resource_id": "6683031750235971956"
-   },
-   "3": {
-    "name": "Nabanita",
-    "id": "bn-BD-NabanitaNeural",
-    "resource_id": "1757942711406755573"
-   },
-   "4": {
-    "name": "Tanishaa",
-    "id": "bn-IN-TanishaaNeural",
-    "resource_id": "5650667899703249576"
-   }
-  },
-  "# Bosnian": {
-   "1": {
-    "name": "Goran",
-    "id": "bs-BA-GoranNeural",
-    "resource_id": "5334990910059961731"
-   },
-   "2": {
-    "name": "Vesna",
-    "id": "bs-BA-VesnaNeural",
-    "resource_id": "8743718126653884062"
-   }
-  },
-  "# Catalan": {
-   "1": {
-    "name": "Enric",
-    "id": "ca-ES-EnricNeural",
-    "resource_id": "6453914346304584285"
-   },
-   "2": {
-    "name": "Joana",
-    "id": "ca-ES-JoanaNeural",
-    "resource_id": "7462387894850620184"
-   }
-  },
-  "# Czech": {
-   "1": {
-    "name": "Antonin",
-    "id": "cs-CZ-AntoninNeural",
-    "resource_id": "2509130215923095733"
-   },
-   "2": {
-    "name": "Vlasta",
-    "id": "cs-CZ-VlastaNeural",
-    "resource_id": "6693898094215723293"
-   }
-  },
-  "# Welsh": {
-   "1": {
-    "name": "Aled",
-    "id": "cy-GB-AledNeural",
-    "resource_id": "5654416099637860819"
-   },
-   "2": {
-    "name": "Nia",
-    "id": "cy-GB-NiaNeural",
-    "resource_id": "0874874003709292227"
-   }
-  },
-  "# Danish": {
-   "1": {
-    "name": "Jeppe",
-    "id": "da-DK-JeppeNeural",
-    "resource_id": "1801578963483402411"
-   },
-   "2": {
-    "name": "Christel",
-    "id": "da-DK-ChristelNeural",
-    "resource_id": "0917736637891430651"
-   }
-  },
-  "# german": {
-   "1": {
-    "name": "Jonas",
-    "id": "de-AT-JonasNeural",
-    "resource_id": "0074777462344560868"
-   },
-   "2": {
-    "name": "Jan",
-    "id": "de-CH-JanNeural",
-    "resource_id": "3229891180639194379"
-   },
-   "3": {
-    "name": "Conrad",
-    "id": "de-DE-ConradNeural",
-    "resource_id": "4195751180004472959"
-   },
-   "4": {
-    "name": "FlorianMultilingual",
-    "id": "de-DE-FlorianMultilingualNeural",
-    "resource_id": "3148320425925919781"
-   },
-   "5": {
-    "name": "Killian",
-    "id": "de-DE-KillianNeural",
-    "resource_id": "4679893645716654850"
-   },
-   "6": {
-    "name": "Ingrid",
-    "id": "de-AT-IngridNeural",
-    "resource_id": "6928749419916284796"
-   },
-   "7": {
-    "name": "Leni",
-    "id": "de-CH-LeniNeural",
-    "resource_id": "6935132119851166988"
-   },
-   "8": {
-    "name": "Amala",
-    "id": "de-DE-AmalaNeural",
-    "resource_id": "5373232004827467039"
-   },
-   "9": {
-    "name": "Katja",
-    "id": "de-DE-KatjaNeural",
-    "resource_id": "5341300381888789855"
-   },
-   "10": {
-    "name": "SeraphinaMultilingual",
-    "id": "de-DE-SeraphinaMultilingualNeural",
-    "resource_id": "5099623924107466797"
-   }
-  },
-  "# Greek": {
-   "1": {
-    "name": "Nestoras",
-    "id": "el-GR-NestorasNeural",
-    "resource_id": "1957826263013236111"
-   },
-   "2": {
-    "name": "Athina",
-    "id": "el-GR-AthinaNeural",
-    "resource_id": "9173291245616521596"
-   }
-  },
-  "# english": {
-   "1": {
-    "name": "William",
-    "id": "en-AU-WilliamNeural",
-    "resource_id": "6864685408875471237"
-   },
-   "2": {
-    "name": "Liam",
-    "id": "en-CA-LiamNeural",
-    "resource_id": "0562457340015898529"
-   },
-   "3": {
-    "name": "Ryan",
-    "id": "en-GB-RyanNeural",
-    "resource_id": "4634587190406909553"
-   },
-   "4": {
-    "name": "Thomas",
-    "id": "en-GB-ThomasNeural",
-    "resource_id": "2956371638477348031"
-   },
-   "5": {
-    "name": "Sam",
-    "id": "en-HK-SamNeural",
-    "resource_id": "5893163466555635924"
-   },
-   "6": {
-    "name": "Connor",
-    "id": "en-IE-ConnorNeural",
-    "resource_id": "7806496133285466305"
-   },
-   "7": {
-    "name": "Prabhat",
-    "id": "en-IN-PrabhatNeural",
-    "resource_id": "2485756640960152965"
-   },
-   "8": {
-    "name": "Chilemba",
-    "id": "en-KE-ChilembaNeural",
-    "resource_id": "8900153693435598104"
-   },
-   "9": {
-    "name": "Abeo",
-    "id": "en-NG-AbeoNeural",
-    "resource_id": "3243663564237325896"
-   },
-   "10": {
-    "name": "Mitchell",
-    "id": "en-NZ-MitchellNeural",
-    "resource_id": "2500500784541784577"
-   },
-   "11": {
-    "name": "James",
-    "id": "en-PH-JamesNeural",
-    "resource_id": "4516847519903422524"
-   },
-   "12": {
-    "name": "Wayne",
-    "id": "en-SG-WayneNeural",
-    "resource_id": "1562779557922866310"
-   },
-   "13": {
-    "name": "Elimu",
-    "id": "en-TZ-ElimuNeural",
-    "resource_id": "1285797294577589145"
-   },
-   "14": {
-    "name": "AndrewMultilingual",
-    "id": "en-US-AndrewMultilingualNeural",
-    "resource_id": "1426186582467866124"
-   },
-   "15": {
-    "name": "Andrew",
-    "id": "en-US-AndrewNeural",
-    "resource_id": "2925173398079772195"
-   },
-   "16": {
-    "name": "BrianMultilingual",
-    "id": "en-US-BrianMultilingualNeural",
-    "resource_id": "2971853036600622302"
-   },
-   "17": {
-    "name": "Brian",
-    "id": "en-US-BrianNeural",
-    "resource_id": "1387655977697712610"
-   },
-   "18": {
-    "name": "Christopher",
-    "id": "en-US-ChristopherNeural",
-    "resource_id": "7263889497773316248"
-   },
-   "19": {
-    "name": "Eric",
-    "id": "en-US-EricNeural",
-    "resource_id": "0260785443711762968"
-   },
-   "20": {
-    "name": "Guy",
-    "id": "en-US-GuyNeural",
-    "resource_id": "0369082860374206662"
-   },
-   "21": {
-    "name": "Roger",
-    "id": "en-US-RogerNeural",
-    "resource_id": "6227566105140395565"
-   },
-   "22": {
-    "name": "Steffan",
-    "id": "en-US-SteffanNeural",
-    "resource_id": "7398925489779613960"
-   },
-   "23": {
-    "name": "Luke",
-    "id": "en-ZA-LukeNeural",
-    "resource_id": "2144718803874906993"
-   },
-   "24": {
-    "name": "Natasha",
-    "id": "en-AU-NatashaNeural",
-    "resource_id": "2360654345344465127"
-   },
-   "25": {
-    "name": "Clara",
-    "id": "en-CA-ClaraNeural",
-    "resource_id": "1237632481717908970"
-   },
-   "26": {
-    "name": "Libby",
-    "id": "en-GB-LibbyNeural",
-    "resource_id": "8019830972133313258"
-   },
-   "27": {
-    "name": "Maisie",
-    "id": "en-GB-MaisieNeural",
-    "resource_id": "6431619803655042180"
-   },
-   "28": {
-    "name": "Sonia",
-    "id": "en-GB-SoniaNeural",
-    "resource_id": "0888443057108805683"
-   },
-   "29": {
-    "name": "Yan",
-    "id": "en-HK-YanNeural",
-    "resource_id": "4228282455911088625"
-   },
-   "30": {
-    "name": "Emily",
-    "id": "en-IE-EmilyNeural",
-    "resource_id": "2775066372583185427"
-   },
-   "31": {
-    "name": "NeerjaExpressive",
-    "id": "en-IN-NeerjaExpressiveNeural",
-    "resource_id": "8961970199090350107"
-   },
-   "32": {
-    "name": "Neerja",
-    "id": "en-IN-NeerjaNeural",
-    "resource_id": "3157731652344642052"
-   },
-   "33": {
-    "name": "Asilia",
-    "id": "en-KE-AsiliaNeural",
-    "resource_id": "1565999052593678965"
-   },
-   "34": {
-    "name": "Ezinne",
-    "id": "en-NG-EzinneNeural",
-    "resource_id": "0940737387418923825"
-   },
-   "35": {
-    "name": "Molly",
-    "id": "en-NZ-MollyNeural",
-    "resource_id": "1473790454012903337"
-   },
-   "36": {
-    "name": "Rosa",
-    "id": "en-PH-RosaNeural",
-    "resource_id": "3663240149528667252"
-   },
-   "37": {
-    "name": "Luna",
-    "id": "en-SG-LunaNeural",
-    "resource_id": "7037203127480055639"
-   },
-   "38": {
-    "name": "Imani",
-    "id": "en-TZ-ImaniNeural",
-    "resource_id": "3772961360654545802"
-   },
-   "39": {
-    "name": "Ana",
-    "id": "en-US-AnaNeural",
-    "resource_id": "6610258874221459438"
-   },
-   "40": {
-    "name": "Aria",
-    "id": "en-US-AriaNeural",
-    "resource_id": "8515265012734167032"
-   },
-   "41": {
-    "name": "AvaMultilingual",
-    "id": "en-US-AvaMultilingualNeural",
-    "resource_id": "5596060197093912746"
-   },
-   "42": {
-    "name": "Ava",
-    "id": "en-US-AvaNeural",
-    "resource_id": "8864963706683430286"
-   },
-   "43": {
-    "name": "EmmaMultilingual",
-    "id": "en-US-EmmaMultilingualNeural",
-    "resource_id": "0548125298355493083"
-   },
-   "44": {
-    "name": "Emma",
-    "id": "en-US-EmmaNeural",
-    "resource_id": "9468071471999101515"
-   },
-   "45": {
-    "name": "Jenny",
-    "id": "en-US-JennyNeural",
-    "resource_id": "4462532472766354937"
-   },
-   "46": {
-    "name": "Michelle",
-    "id": "en-US-MichelleNeural",
-    "resource_id": "6343941300184426723"
-   },
-   "47": {
-    "name": "Leah",
-    "id": "en-ZA-LeahNeural",
-    "resource_id": "2889001913312141317"
-   }
-  },
-  "# spanish": {
-   "1": {
-    "name": "Tomas",
-    "id": "es-AR-TomasNeural",
-    "resource_id": "3272249436769841795"
-   },
-   "2": {
-    "name": "Marcelo",
-    "id": "es-BO-MarceloNeural",
-    "resource_id": "5922581914665628945"
-   },
-   "3": {
-    "name": "Lorenzo",
-    "id": "es-CL-LorenzoNeural",
-    "resource_id": "6092620537881758157"
-   },
-   "4": {
-    "name": "Gonzalo",
-    "id": "es-CO-GonzaloNeural",
-    "resource_id": "7249907905555305700"
-   },
-   "5": {
-    "name": "Juan",
-    "id": "es-CR-JuanNeural",
-    "resource_id": "7401403439901735819"
-   },
-   "6": {
-    "name": "Manuel",
-    "id": "es-CU-ManuelNeural",
-    "resource_id": "3109250550143015394"
-   },
-   "7": {
-    "name": "Emilio",
-    "id": "es-DO-EmilioNeural",
-    "resource_id": "9958993882818092030"
-   },
-   "8": {
-    "name": "Luis",
-    "id": "es-EC-LuisNeural",
-    "resource_id": "1049157766720334040"
-   },
-   "9": {
-    "name": "Alvaro",
-    "id": "es-ES-AlvaroNeural",
-    "resource_id": "1805937332344828430"
-   },
-   "10": {
-    "name": "Javier",
-    "id": "es-GQ-JavierNeural",
-    "resource_id": "1161829625151292781"
-   },
-   "11": {
-    "name": "Andres",
-    "id": "es-GT-AndresNeural",
-    "resource_id": "6793998667452216018"
-   },
-   "12": {
-    "name": "Carlos",
-    "id": "es-HN-CarlosNeural",
-    "resource_id": "5293025557938378836"
-   },
-   "13": {
-    "name": "Jorge",
-    "id": "es-MX-JorgeNeural",
-    "resource_id": "4916391643755433844"
-   },
-   "14": {
-    "name": "Federico",
-    "id": "es-NI-FedericoNeural",
-    "resource_id": "6498830668031549734"
-   },
-   "15": {
-    "name": "Roberto",
-    "id": "es-PA-RobertoNeural",
-    "resource_id": "3848872986641899249"
-   },
-   "16": {
-    "name": "Alex",
-    "id": "es-PE-AlexNeural",
-    "resource_id": "4444211445118376245"
-   },
-   "17": {
-    "name": "Victor",
-    "id": "es-PR-VictorNeural",
-    "resource_id": "0791191828265605780"
-   },
-   "18": {
-    "name": "Mario",
-    "id": "es-PY-MarioNeural",
-    "resource_id": "5950030635946198039"
-   },
-   "19": {
-    "name": "Rodrigo",
-    "id": "es-SV-RodrigoNeural",
-    "resource_id": "2051290143621625209"
-   },
-   "20": {
-    "name": "Alonso",
-    "id": "es-US-AlonsoNeural",
-    "resource_id": "7577949879709632584"
-   },
-   "21": {
-    "name": "Mateo",
-    "id": "es-UY-MateoNeural",
-    "resource_id": "7444871987261353398"
-   },
-   "22": {
-    "name": "Sebastian",
-    "id": "es-VE-SebastianNeural",
-    "resource_id": "2716597948141026240"
-   },
-   "23": {
-    "name": "Elena",
-    "id": "es-AR-ElenaNeural",
-    "resource_id": "3057838595629078190"
-   },
-   "24": {
-    "name": "Sofia",
-    "id": "es-BO-SofiaNeural",
-    "resource_id": "6836731599277257890"
-   },
-   "25": {
-    "name": "Catalina",
-    "id": "es-CL-CatalinaNeural",
-    "resource_id": "4099533127022031128"
-   },
-   "26": {
-    "name": "Salome",
-    "id": "es-CO-SalomeNeural",
-    "resource_id": "0696259561411718085"
-   },
-   "27": {
-    "name": "Maria",
-    "id": "es-CR-MariaNeural",
-    "resource_id": "6801413745818414386"
-   },
-   "28": {
-    "name": "Belkys",
-    "id": "es-CU-BelkysNeural",
-    "resource_id": "0989254027639436717"
-   },
-   "29": {
-    "name": "Ramona",
-    "id": "es-DO-RamonaNeural",
-    "resource_id": "0528881804550768523"
-   },
-   "30": {
-    "name": "Andrea",
-    "id": "es-EC-AndreaNeural",
-    "resource_id": "5206507148934462310"
-   },
-   "31": {
-    "name": "Elvira",
-    "id": "es-ES-ElviraNeural",
-    "resource_id": "9715923410797923961"
-   },
-   "32": {
-    "name": "Ximena",
-    "id": "es-ES-XimenaNeural",
-    "resource_id": "8380722554967049373"
-   },
-   "33": {
-    "name": "Teresa",
-    "id": "es-GQ-TeresaNeural",
-    "resource_id": "5207410925365882526"
-   },
-   "34": {
-    "name": "Marta",
-    "id": "es-GT-MartaNeural",
-    "resource_id": "2128952266123535321"
-   },
-   "35": {
-    "name": "Karla",
-    "id": "es-HN-KarlaNeural",
-    "resource_id": "6435249204168621053"
-   },
-   "36": {
-    "name": "Dalia",
-    "id": "es-MX-DaliaNeural",
-    "resource_id": "4506722594673496015"
-   },
-   "37": {
-    "name": "Yolanda",
-    "id": "es-NI-YolandaNeural",
-    "resource_id": "8583729146070178636"
-   },
-   "38": {
-    "name": "Margarita",
-    "id": "es-PA-MargaritaNeural",
-    "resource_id": "8072438341195361855"
-   },
-   "39": {
-    "name": "Camila",
-    "id": "es-PE-CamilaNeural",
-    "resource_id": "5288847327284418001"
-   },
-   "40": {
-    "name": "Karina",
-    "id": "es-PR-KarinaNeural",
-    "resource_id": "8786520144450830790"
-   },
-   "41": {
-    "name": "Tania",
-    "id": "es-PY-TaniaNeural",
-    "resource_id": "7422311846087546316"
-   },
-   "42": {
-    "name": "Lorena",
-    "id": "es-SV-LorenaNeural",
-    "resource_id": "7542844647485637164"
-   },
-   "43": {
-    "name": "Paloma",
-    "id": "es-US-PalomaNeural",
-    "resource_id": "9254069928793750101"
-   },
-   "44": {
-    "name": "Valentina",
-    "id": "es-UY-ValentinaNeural",
-    "resource_id": "1342320129607847171"
-   },
-   "45": {
-    "name": "Paola",
-    "id": "es-VE-PaolaNeural",
-    "resource_id": "5337959774726527920"
-   }
-  },
-  "# Estonian": {
-   "1": {
-    "name": "Kert",
-    "id": "et-EE-KertNeural",
-    "resource_id": "9931353871864424264"
-   },
-   "2": {
-    "name": "Anu",
-    "id": "et-EE-AnuNeural",
-    "resource_id": "2743601948652973439"
-   }
-  },
-  "# Persian": {
-   "1": {
-    "name": "Farid",
-    "id": "fa-IR-FaridNeural",
-    "resource_id": "1873142275383764849"
-   },
-   "2": {
-    "name": "Dilara",
-    "id": "fa-IR-DilaraNeural",
-    "resource_id": "4059563590313936389"
-   }
-  },
-  "# Finnish": {
-   "1": {
-    "name": "Harri",
-    "id": "fi-FI-HarriNeural",
-    "resource_id": "6314602823770005140"
-   },
-   "2": {
-    "name": "Noora",
-    "id": "fi-FI-NooraNeural",
-    "resource_id": "5902897103363473644"
-   }
-  },
-  "# Filipino": {
-   "1": {
-    "name": "Angelo",
-    "id": "fil-PH-AngeloNeural",
-    "resource_id": "4363365264711035301"
-   },
-   "2": {
-    "name": "Blessica",
-    "id": "fil-PH-BlessicaNeural",
-    "resource_id": "7552447713403895028"
-   }
-  },
-  "# french": {
-   "1": {
-    "name": "Gerard",
-    "id": "fr-BE-GerardNeural",
-    "resource_id": "0368692269422889876"
-   },
-   "2": {
-    "name": "Antoine",
-    "id": "fr-CA-AntoineNeural",
-    "resource_id": "2333864953098801343"
-   },
-   "3": {
-    "name": "Jean",
-    "id": "fr-CA-JeanNeural",
-    "resource_id": "9340552878692822484"
-   },
-   "4": {
-    "name": "Thierry",
-    "id": "fr-CA-ThierryNeural",
-    "resource_id": "9353022380242088417"
-   },
-   "5": {
-    "name": "Fabrice",
-    "id": "fr-CH-FabriceNeural",
-    "resource_id": "2069768528890175152"
-   },
-   "6": {
-    "name": "Henri",
-    "id": "fr-FR-HenriNeural",
-    "resource_id": "0082815822436688213"
-   },
-   "7": {
-    "name": "RemyMultilingual",
-    "id": "fr-FR-RemyMultilingualNeural",
-    "resource_id": "6678105146736802199"
-   },
-   "8": {
-    "name": "Charline",
-    "id": "fr-BE-CharlineNeural",
-    "resource_id": "2892115166369302247"
-   },
-   "9": {
-    "name": "Sylvie",
-    "id": "fr-CA-SylvieNeural",
-    "resource_id": "2943321034225237427"
-   },
-   "10": {
-    "name": "Ariane",
-    "id": "fr-CH-ArianeNeural",
-    "resource_id": "8434405943068420874"
-   },
-   "11": {
-    "name": "Denise",
-    "id": "fr-FR-DeniseNeural",
-    "resource_id": "7318931247022180143"
-   },
-   "12": {
-    "name": "Eloise",
-    "id": "fr-FR-EloiseNeural",
-    "resource_id": "3477527200609757335"
-   },
-   "13": {
-    "name": "VivienneMultilingual",
-    "id": "fr-FR-VivienneMultilingualNeural",
-    "resource_id": "9672526803187368080"
-   }
-  },
-  "# Irish": {
-   "1": {
-    "name": "Colm",
-    "id": "ga-IE-ColmNeural",
-    "resource_id": "2767014052621414323"
-   },
-   "2": {
-    "name": "Orla",
-    "id": "ga-IE-OrlaNeural",
-    "resource_id": "0738058131024136405"
-   }
-  },
-  "# Galician": {
-   "1": {
-    "name": "Roi",
-    "id": "gl-ES-RoiNeural",
-    "resource_id": "2251691074222439681"
-   },
-   "2": {
-    "name": "Sabela",
-    "id": "gl-ES-SabelaNeural",
-    "resource_id": "6320980662351184046"
-   }
-  },
-  "# Gujarati": {
-   "1": {
-    "name": "Niranjan",
-    "id": "gu-IN-NiranjanNeural",
-    "resource_id": "8044445654744500139"
-   },
-   "2": {
-    "name": "Dhwani",
-    "id": "gu-IN-DhwaniNeural",
-    "resource_id": "6177699639827368488"
-   }
-  },
-  "# Hebrew": {
-   "1": {
-    "name": "Avri",
-    "id": "he-IL-AvriNeural",
-    "resource_id": "4628700512599874235"
-   },
-   "2": {
-    "name": "Hila",
-    "id": "he-IL-HilaNeural",
-    "resource_id": "6386350426225657610"
-   }
-  },
-  "# Hindi": {
-   "1": {
-    "name": "Madhur",
-    "id": "hi-IN-MadhurNeural",
-    "resource_id": "1089278594754894606"
-   },
-   "2": {
-    "name": "Swara",
-    "id": "hi-IN-SwaraNeural",
-    "resource_id": "7232516593948779875"
-   }
-  },
-  "# Croatian": {
-   "1": {
-    "name": "Srecko",
-    "id": "hr-HR-SreckoNeural",
-    "resource_id": "8675414504577212981"
-   },
-   "2": {
-    "name": "Gabrijela",
-    "id": "hr-HR-GabrijelaNeural",
-    "resource_id": "5845437190848248489"
-   }
-  },
-  "# Hungarian": {
-   "1": {
-    "name": "Tamas",
-    "id": "hu-HU-TamasNeural",
-    "resource_id": "5677568062824683842"
-   },
-   "2": {
-    "name": "Noemi",
-    "id": "hu-HU-NoemiNeural",
-    "resource_id": "3608949592379712334"
-   }
-  },
-  "# indonesian": {
-   "1": {
-    "name": "Ardi",
-    "id": "id-ID-ArdiNeural",
-    "resource_id": "7448691606160188770"
-   },
-   "2": {
-    "name": "Gadis",
-    "id": "id-ID-GadisNeural",
-    "resource_id": "3632342660326244344"
-   }
-  },
-  "# Icelandic": {
-   "1": {
-    "name": "Gunnar",
-    "id": "is-IS-GunnarNeural",
-    "resource_id": "5449274176057250093"
-   },
-   "2": {
-    "name": "Gudrun",
-    "id": "is-IS-GudrunNeural",
-    "resource_id": "7699687098184103111"
-   }
-  },
-  "# Italian": {
-   "1": {
-    "name": "Diego",
-    "id": "it-IT-DiegoNeural",
-    "resource_id": "9893970960586915039"
-   },
-   "2": {
-    "name": "GiuseppeMultilingual",
-    "id": "it-IT-GiuseppeMultilingualNeural",
-    "resource_id": "4696417656685568240"
-   },
-   "3": {
-    "name": "Elsa",
-    "id": "it-IT-ElsaNeural",
-    "resource_id": "9401606790868803333"
-   },
-   "4": {
-    "name": "Isabella",
-    "id": "it-IT-IsabellaNeural",
-    "resource_id": "1495540953468788946"
-   }
-  },
-  "# Inuktitut": {
-   "1": {
-    "name": "Taqqiq",
-    "id": "iu-Cans-CA-TaqqiqNeural",
-    "resource_id": "7626774105603391798"
-   },
-   "2": {
-    "name": "Taqqiq",
-    "id": "iu-Latn-CA-TaqqiqNeural",
-    "resource_id": "2302311073391221525"
-   },
-   "3": {
-    "name": "Siqiniq",
-    "id": "iu-Cans-CA-SiqiniqNeural",
-    "resource_id": "0023641404000102729"
-   },
-   "4": {
-    "name": "Siqiniq",
-    "id": "iu-Latn-CA-SiqiniqNeural",
-    "resource_id": "5484458123216451218"
-   }
-  },
-  "# japanese": {
-   "1": {
-    "name": "Keita",
-    "id": "ja-JP-KeitaNeural",
-    "resource_id": "6489622298998690834"
-   },
-   "2": {
-    "name": "Nanami",
-    "id": "ja-JP-NanamiNeural",
-    "resource_id": "8900169442764710943"
-   }
-  },
-  "# Javanese": {
-   "1": {
-    "name": "Dimas",
-    "id": "jv-ID-DimasNeural",
-    "resource_id": "3972693882622276849"
-   },
-   "2": {
-    "name": "Siti",
-    "id": "jv-ID-SitiNeural",
-    "resource_id": "1884916876328691393"
-   }
-  },
-  "# Georgian": {
-   "1": {
-    "name": "Giorgi",
-    "id": "ka-GE-GiorgiNeural",
-    "resource_id": "6633123889457055787"
-   },
-   "2": {
-    "name": "Eka",
-    "id": "ka-GE-EkaNeural",
-    "resource_id": "0745062874582196881"
-   }
-  },
-  "# Kazakh": {
-   "1": {
-    "name": "Daulet",
-    "id": "kk-KZ-DauletNeural",
-    "resource_id": "3840519165310867873"
-   },
-   "2": {
-    "name": "Aigul",
-    "id": "kk-KZ-AigulNeural",
-    "resource_id": "4771287024113473045"
-   }
-  },
-  "# Khmer": {
-   "1": {
-    "name": "Piseth",
-    "id": "km-KH-PisethNeural",
-    "resource_id": "3733704728879329683"
-   },
-   "2": {
-    "name": "Sreymom",
-    "id": "km-KH-SreymomNeural",
-    "resource_id": "7325315357818960792"
-   }
-  },
-  "# Kannada": {
-   "1": {
-    "name": "Gagan",
-    "id": "kn-IN-GaganNeural",
-    "resource_id": "4160957257331094487"
-   },
-   "2": {
-    "name": "Sapna",
-    "id": "kn-IN-SapnaNeural",
-    "resource_id": "0244615898943114963"
-   }
-  },
-  "# korean": {
-   "1": {
-    "name": "HyunsuMultilingual",
-    "id": "ko-KR-HyunsuMultilingualNeural",
-    "resource_id": "9209636903503110973"
-   },
-   "2": {
-    "name": "InJoon",
-    "id": "ko-KR-InJoonNeural",
-    "resource_id": "8048940728553773432"
-   },
-   "3": {
-    "name": "SunHi",
-    "id": "ko-KR-SunHiNeural",
-    "resource_id": "3815121608794574484"
-   }
-  },
-  "# Lao": {
-   "1": {
-    "name": "Chanthavong",
-    "id": "lo-LA-ChanthavongNeural",
-    "resource_id": "4154134043703758407"
-   },
-   "2": {
-    "name": "Keomany",
-    "id": "lo-LA-KeomanyNeural",
-    "resource_id": "3219422927152463443"
-   }
-  },
-  "# Lithuanian": {
-   "1": {
-    "name": "Leonas",
-    "id": "lt-LT-LeonasNeural",
-    "resource_id": "9993828912428964674"
-   },
-   "2": {
-    "name": "Ona",
-    "id": "lt-LT-OnaNeural",
-    "resource_id": "6424115969361400879"
-   }
-  },
-  "# Latvian": {
-   "1": {
-    "name": "Nils",
-    "id": "lv-LV-NilsNeural",
-    "resource_id": "6641235199235593892"
-   },
-   "2": {
-    "name": "Everita",
-    "id": "lv-LV-EveritaNeural",
-    "resource_id": "2088882497424020176"
-   }
-  },
-  "# Macedonian": {
-   "1": {
-    "name": "Aleksandar",
-    "id": "mk-MK-AleksandarNeural",
-    "resource_id": "1453791548833654045"
-   },
-   "2": {
-    "name": "Marija",
-    "id": "mk-MK-MarijaNeural",
-    "resource_id": "8842480001430745537"
-   }
-  },
-  "# Malayalam": {
-   "1": {
-    "name": "Midhun",
-    "id": "ml-IN-MidhunNeural",
-    "resource_id": "6500423935593084920"
-   },
-   "2": {
-    "name": "Sobhana",
-    "id": "ml-IN-SobhanaNeural",
-    "resource_id": "9688224707470727174"
-   }
-  },
-  "# Mongolian": {
-   "1": {
-    "name": "Bataa",
-    "id": "mn-MN-BataaNeural",
-    "resource_id": "2849069420102082068"
-   },
-   "2": {
-    "name": "Yesui",
-    "id": "mn-MN-YesuiNeural",
-    "resource_id": "2229175251608405391"
-   }
-  },
-  "# Marathi": {
-   "1": {
-    "name": "Manohar",
-    "id": "mr-IN-ManoharNeural",
-    "resource_id": "4305280482210910529"
-   },
-   "2": {
-    "name": "Aarohi",
-    "id": "mr-IN-AarohiNeural",
-    "resource_id": "6370150817363143203"
-   }
-  },
-  "# Malay": {
-   "1": {
-    "name": "Osman",
-    "id": "ms-MY-OsmanNeural",
-    "resource_id": "6178924167269820664"
-   },
-   "2": {
-    "name": "Yasmin",
-    "id": "ms-MY-YasminNeural",
-    "resource_id": "4000721505546126603"
-   }
-  },
-  "# Maltese": {
-   "1": {
-    "name": "Joseph",
-    "id": "mt-MT-JosephNeural",
-    "resource_id": "4306264531137669774"
-   },
-   "2": {
-    "name": "Grace",
-    "id": "mt-MT-GraceNeural",
-    "resource_id": "7064628007992378787"
-   }
-  },
-  "# Burmese": {
-   "1": {
-    "name": "Thiha",
-    "id": "my-MM-ThihaNeural",
-    "resource_id": "7975385105786785907"
-   },
-   "2": {
-    "name": "Nilar",
-    "id": "my-MM-NilarNeural",
-    "resource_id": "5651859707696131403"
-   }
-  },
-  "# Norwegian": {
-   "1": {
-    "name": "Finn",
-    "id": "nb-NO-FinnNeural",
-    "resource_id": "6170433178634086319"
-   },
-   "2": {
-    "name": "Pernille",
-    "id": "nb-NO-PernilleNeural",
-    "resource_id": "9156145232030114792"
-   }
-  },
-  "# Nepali": {
-   "1": {
-    "name": "Sagar",
-    "id": "ne-NP-SagarNeural",
-    "resource_id": "9756077709786575787"
-   },
-   "2": {
-    "name": "Hemkala",
-    "id": "ne-NP-HemkalaNeural",
-    "resource_id": "3490513744408122427"
-   }
-  },
-  "# nl": {
-   "1": {
-    "name": "Arnaud",
-    "id": "nl-BE-ArnaudNeural",
-    "resource_id": "0736380261083326356"
-   },
-   "2": {
-    "name": "Maarten",
-    "id": "nl-NL-MaartenNeural",
-    "resource_id": "8337996417859560049"
-   },
-   "3": {
-    "name": "Dena",
-    "id": "nl-BE-DenaNeural",
-    "resource_id": "1364555044320979696"
-   },
-   "4": {
-    "name": "Colette",
-    "id": "nl-NL-ColetteNeural",
-    "resource_id": "0259589185353512881"
-   },
-   "5": {
-    "name": "Fenna",
-    "id": "nl-NL-FennaNeural",
-    "resource_id": "0360553815889706843"
-   }
-  },
-  "# Polish": {
-   "1": {
-    "name": "Marek",
-    "id": "pl-PL-MarekNeural",
-    "resource_id": "8118081808354946333"
-   },
-   "2": {
-    "name": "Zofia",
-    "id": "pl-PL-ZofiaNeural",
-    "resource_id": "6013602010195414860"
-   }
-  },
-  "# Pashto": {
-   "1": {
-    "name": "GulNawaz",
-    "id": "ps-AF-GulNawazNeural",
-    "resource_id": "7880672920275902206"
-   },
-   "2": {
-    "name": "Latifa",
-    "id": "ps-AF-LatifaNeural",
-    "resource_id": "9665803554321304228"
-   }
-  },
-  "# portuguese": {
-   "1": {
-    "name": "Antonio",
-    "id": "pt-BR-AntonioNeural",
-    "resource_id": "9111695182086482717"
-   },
-   "2": {
-    "name": "Duarte",
-    "id": "pt-PT-DuarteNeural",
-    "resource_id": "0944948827097102318"
-   },
-   "3": {
-    "name": "Francisca",
-    "id": "pt-BR-FranciscaNeural",
-    "resource_id": "1161226861417320891"
-   },
-   "4": {
-    "name": "ThalitaMultilingual",
-    "id": "pt-BR-ThalitaMultilingualNeural",
-    "resource_id": "6373134360062509343"
-   },
-   "5": {
-    "name": "Raquel",
-    "id": "pt-PT-RaquelNeural",
-    "resource_id": "0208305601685115138"
-   }
-  },
-  "# Romanian": {
-   "1": {
-    "name": "Emil",
-    "id": "ro-RO-EmilNeural",
-    "resource_id": "9075812711764557086"
-   },
-   "2": {
-    "name": "Alina",
-    "id": "ro-RO-AlinaNeural",
-    "resource_id": "7358770963306719865"
-   }
-  },
-  "# russian": {
-   "1": {
-    "name": "Dmitry",
-    "id": "ru-RU-DmitryNeural",
-    "resource_id": "2570577506615834920"
-   },
-   "2": {
-    "name": "Svetlana",
-    "id": "ru-RU-SvetlanaNeural",
-    "resource_id": "0124285370564916932"
-   }
-  },
-  "# Sinhala": {
-   "1": {
-    "name": "Sameera",
-    "id": "si-LK-SameeraNeural",
-    "resource_id": "5496066061383236429"
-   },
-   "2": {
-    "name": "Thilini",
-    "id": "si-LK-ThiliniNeural",
-    "resource_id": "8748361320781792084"
-   }
-  },
-  "# Slovak": {
-   "1": {
-    "name": "Lukas",
-    "id": "sk-SK-LukasNeural",
-    "resource_id": "4685395884483286594"
-   },
-   "2": {
-    "name": "Viktoria",
-    "id": "sk-SK-ViktoriaNeural",
-    "resource_id": "5402755317872912307"
-   }
-  },
-  "# Slovenian": {
-   "1": {
-    "name": "Rok",
-    "id": "sl-SI-RokNeural",
-    "resource_id": "7599917964653641938"
-   },
-   "2": {
-    "name": "Petra",
-    "id": "sl-SI-PetraNeural",
-    "resource_id": "0111538129722023872"
-   }
-  },
-  "# Somali": {
-   "1": {
-    "name": "Muuse",
-    "id": "so-SO-MuuseNeural",
-    "resource_id": "2269171624726046002"
-   },
-   "2": {
-    "name": "Ubax",
-    "id": "so-SO-UbaxNeural",
-    "resource_id": "6193085829573251673"
-   }
-  },
-  "# Albanian": {
-   "1": {
-    "name": "Ilir",
-    "id": "sq-AL-IlirNeural",
-    "resource_id": "9876740737642770974"
-   },
-   "2": {
-    "name": "Anila",
-    "id": "sq-AL-AnilaNeural",
-    "resource_id": "4991408149909431953"
-   }
-  },
-  "# Serbian": {
-   "1": {
-    "name": "Nicholas",
-    "id": "sr-RS-NicholasNeural",
-    "resource_id": "3745001294297299326"
-   },
-   "2": {
-    "name": "Sophie",
-    "id": "sr-RS-SophieNeural",
-    "resource_id": "8929373859812102471"
-   }
-  },
-  "# Sundanese": {
-   "1": {
-    "name": "Jajang",
-    "id": "su-ID-JajangNeural",
-    "resource_id": "4724346024050358072"
-   },
-   "2": {
-    "name": "Tuti",
-    "id": "su-ID-TutiNeural",
-    "resource_id": "0360336184278790812"
-   }
-  },
-  "# Swedish": {
-   "1": {
-    "name": "Mattias",
-    "id": "sv-SE-MattiasNeural",
-    "resource_id": "0533256787186548783"
-   },
-   "2": {
-    "name": "Sofie",
-    "id": "sv-SE-SofieNeural",
-    "resource_id": "5619192393718318801"
-   }
-  },
-  "# Swahili": {
-   "1": {
-    "name": "Rafiki",
-    "id": "sw-KE-RafikiNeural",
-    "resource_id": "8894486442585573803"
-   },
-   "2": {
-    "name": "Daudi",
-    "id": "sw-TZ-DaudiNeural",
-    "resource_id": "3155264713333433681"
-   },
-   "3": {
-    "name": "Zuri",
-    "id": "sw-KE-ZuriNeural",
-    "resource_id": "6857591694712698404"
-   },
-   "4": {
-    "name": "Rehema",
-    "id": "sw-TZ-RehemaNeural",
-    "resource_id": "0397314377195380246"
-   }
-  },
-  "# Tamil": {
-   "1": {
-    "name": "Valluvar",
-    "id": "ta-IN-ValluvarNeural",
-    "resource_id": "4841688356922891366"
-   },
-   "2": {
-    "name": "Kumar",
-    "id": "ta-LK-KumarNeural",
-    "resource_id": "7736382694716809189"
-   },
-   "3": {
-    "name": "Surya",
-    "id": "ta-MY-SuryaNeural",
-    "resource_id": "5204977737533773267"
-   },
-   "4": {
-    "name": "Anbu",
-    "id": "ta-SG-AnbuNeural",
-    "resource_id": "2608671395297546022"
-   },
-   "5": {
-    "name": "Pallavi",
-    "id": "ta-IN-PallaviNeural",
-    "resource_id": "7952677480439539081"
-   },
-   "6": {
-    "name": "Saranya",
-    "id": "ta-LK-SaranyaNeural",
-    "resource_id": "2795974325709966874"
-   },
-   "7": {
-    "name": "Kani",
-    "id": "ta-MY-KaniNeural",
-    "resource_id": "3081585861272449374"
-   },
-   "8": {
-    "name": "Venba",
-    "id": "ta-SG-VenbaNeural",
-    "resource_id": "9602216217432081113"
-   }
-  },
-  "# Telugu": {
-   "1": {
-    "name": "Mohan",
-    "id": "te-IN-MohanNeural",
-    "resource_id": "1929719193979865288"
-   },
-   "2": {
-    "name": "Shruti",
-    "id": "te-IN-ShrutiNeural",
-    "resource_id": "3587839239858012282"
-   }
-  },
-  "# thai": {
-   "1": {
-    "name": "Niwat",
-    "id": "th-TH-NiwatNeural",
-    "resource_id": "3057282314597188159"
-   },
-   "2": {
-    "name": "Premwadee",
-    "id": "th-TH-PremwadeeNeural",
-    "resource_id": "0939312606856418158"
-   }
-  },
-  "# turkish": {
-   "1": {
-    "name": "Ahmet",
-    "id": "tr-TR-AhmetNeural",
-    "resource_id": "6085139644383984994"
-   },
-   "2": {
-    "name": "Emel",
-    "id": "tr-TR-EmelNeural",
-    "resource_id": "5327214457108211258"
-   }
-  },
-  "# Ukrainian": {
-   "1": {
-    "name": "Ostap",
-    "id": "uk-UA-OstapNeural",
-    "resource_id": "5437659147342984947"
-   },
-   "2": {
-    "name": "Polina",
-    "id": "uk-UA-PolinaNeural",
-    "resource_id": "1201011033100749441"
-   }
-  },
-  "# Urdu": {
-   "1": {
-    "name": "Salman",
-    "id": "ur-IN-SalmanNeural",
-    "resource_id": "2860283713984635043"
-   },
-   "2": {
-    "name": "Asad",
-    "id": "ur-PK-AsadNeural",
-    "resource_id": "3997519135486823948"
-   },
-   "3": {
-    "name": "Gul",
-    "id": "ur-IN-GulNeural",
-    "resource_id": "5609667980699835820"
-   },
-   "4": {
-    "name": "Uzma",
-    "id": "ur-PK-UzmaNeural",
-    "resource_id": "5132873832304943208"
-   }
-  },
-  "# Uzbek": {
-   "1": {
-    "name": "Sardor",
-    "id": "uz-UZ-SardorNeural",
-    "resource_id": "1540328352773667051"
-   },
-   "2": {
-    "name": "Madina",
-    "id": "uz-UZ-MadinaNeural",
-    "resource_id": "9802259530390994518"
-   }
-  },
-  "# vietnamese": {
-   "1": {
-    "name": "NamMinh",
-    "id": "vi-VN-NamMinhNeural",
-    "resource_id": "4083888534937178364"
-   },
-   "2": {
-    "name": "HoaiMy",
-    "id": "vi-VN-HoaiMyNeural",
-    "resource_id": "1144774424670052952"
-   }
-  },
-  "# chinese": {
-   "1": {
-    "name": "Yunjian",
-    "id": "zh-CN-YunjianNeural",
-    "resource_id": "7176429845109633256"
-   },
-   "2": {
-    "name": "Yunxi",
-    "id": "zh-CN-YunxiNeural",
-    "resource_id": "5469097487132504041"
-   },
-   "3": {
-    "name": "Yunxia",
-    "id": "zh-CN-YunxiaNeural",
-    "resource_id": "1214806810943597661"
-   },
-   "4": {
-    "name": "Yunyang",
-    "id": "zh-CN-YunyangNeural",
-    "resource_id": "2216020460346524967"
-   },
-   "5": {
-    "name": "WanLung",
-    "id": "zh-HK-WanLungNeural",
-    "resource_id": "5890196134164405335"
-   },
-   "6": {
-    "name": "YunJhe",
-    "id": "zh-TW-YunJheNeural",
-    "resource_id": "9634829418662037168"
-   },
-   "7": {
-    "name": "Xiaoxiao",
-    "id": "zh-CN-XiaoxiaoNeural",
-    "resource_id": "4396397229607740291"
-   },
-   "8": {
-    "name": "Xiaoyi",
-    "id": "zh-CN-XiaoyiNeural",
-    "resource_id": "9016244547932271352"
-   },
-   "9": {
-    "name": "Xiaobei",
-    "id": "zh-CN-liaoning-XiaobeiNeural",
-    "resource_id": "2045707166032390191"
-   },
-   "10": {
-    "name": "Xiaoni",
-    "id": "zh-CN-shaanxi-XiaoniNeural",
-    "resource_id": "3769656708321012542"
-   },
-   "11": {
-    "name": "HiuGaai",
-    "id": "zh-HK-HiuGaaiNeural",
-    "resource_id": "7253145021294713295"
-   },
-   "12": {
-    "name": "HiuMaan",
-    "id": "zh-HK-HiuMaanNeural",
-    "resource_id": "8168477647841221322"
-   },
-   "13": {
-    "name": "HsiaoChen",
-    "id": "zh-TW-HsiaoChenNeural",
-    "resource_id": "1460388823571955995"
-   },
-   "14": {
-    "name": "HsiaoYu",
-    "id": "zh-TW-HsiaoYuNeural",
-    "resource_id": "5745713793922883769"
-   }
-  },
-  "# Zulu": {
-   "1": {
-    "name": "Themba",
-    "id": "zu-ZA-ThembaNeural",
-    "resource_id": "9607238031550150944"
-   },
-   "2": {
-    "name": "Thando",
-    "id": "zu-ZA-ThandoNeural",
-    "resource_id": "3039808582555580096"
+    "resource_id": "123"
    }
   }
  }
